@@ -1,0 +1,7910 @@
+Gene	Cell Type
+CTRB1	Acinar cells
+KLK1	Acinar cells
+RBPJL	Acinar cells
+PTF1A	Acinar cells
+TRY4	Acinar cells
+CELA3A	Acinar cells
+PRSS1	Acinar cells
+AMY2A2	Acinar cells
+SPINK1	Acinar cells
+ZG16	Acinar cells
+CEL	Acinar cells
+CELA2A	Acinar cells
+AMY2A3	Acinar cells
+CPB1	Acinar cells
+CELA1	Acinar cells
+AMY2A5	Acinar cells
+RNASE1	Acinar cells
+AMY2B	Acinar cells
+CPA2	Acinar cells
+CPA1	Acinar cells
+CELA3B	Acinar cells
+PNLIP	Acinar cells
+PLA2G1B	Acinar cells
+PRSS2	Acinar cells
+CLPS	Acinar cells
+SYCN	Acinar cells
+PNLIPRP1	Acinar cells
+CTRC	Acinar cells
+REG3A	Acinar cells
+PRSS3	Acinar cells
+CFB	Acinar cells
+GDF15	Acinar cells
+MUC1	Acinar cells
+DUOXA2	Acinar cells
+OLFM4	Acinar cells
+GSTA1	Acinar cells
+LGALS2	Acinar cells
+PDZK1IP1	Acinar cells
+RARRES2	Acinar cells
+CXCL17	Acinar cells
+UBD	Acinar cells
+GSTA2	Acinar cells
+ANPEP	Acinar cells
+ANGPTL4	Acinar cells
+ALDOB	Acinar cells
+CEBPA	Adipocyte progenitor cells
+EGFR	Adipocyte progenitor cells
+FGF10	Adipocyte progenitor cells
+GSC	Adipocyte progenitor cells
+MMP3	Adipocyte progenitor cells
+PPARG	Adipocyte progenitor cells
+TWIST2	Adipocyte progenitor cells
+GATA3	Adipocyte progenitor cells
+GLI1	Adipocyte progenitor cells
+SMO	Adipocyte progenitor cells
+STAB1	Adipocyte progenitor cells
+WISP2	Adipocyte progenitor cells
+WT1	Adipocyte progenitor cells
+SCARA5	Adipocyte progenitor cells
+HOXC8	Adipocyte progenitor cells
+TCF7L1	Adipocyte progenitor cells
+HOXC9	Adipocyte progenitor cells
+HOXC6	Adipocyte progenitor cells
+HOXC4	Adipocyte progenitor cells
+SULT1E1	Adipocyte progenitor cells
+EBF2	Adipocyte progenitor cells
+NRG4	Adipocyte progenitor cells
+SLC36A2	Adipocytes
+P2RX5	Adipocytes
+LEP	Adipocytes
+UCP1	Adipocytes
+CIDEA	Adipocytes
+PRDM16	Adipocytes
+LHX8	Adipocytes
+EPSTI1	Adipocytes
+MC2R	Adipocytes
+FFAR2	Adipocytes
+PIKFYVE	Adipocytes
+CYP11B2	Adipocytes
+TLR2	Adipocytes
+TLR4	Adipocytes
+ADRB1	Adipocytes
+ADRB2	Adipocytes
+ADRB3	Adipocytes
+FABP4	Adipocytes
+TNFRSF9	Adipocytes
+TBX1	Adipocytes
+TMEM26	Adipocytes
+TCF21	Adipocytes
+ADIPOQ	Adipocytes
+CFD	Adipocytes
+ACVR1C	Adipocytes
+SLC2A4	Adipocytes
+LPIN1	Adipocytes
+PLIN1	Adipocytes
+PCK1	Adipocytes
+PPARG	Adipocytes
+RETN	Adipocytes
+MEST	Adipocytes
+ADM2	Adipocytes
+STAT6	Adipocytes
+TFE3	Adipocytes
+CPPED1	Adipocytes
+APPL2	Adipocytes
+APOL6	Adipocytes
+PXMP2	Adipocytes
+AGT	Adipocytes
+SLC1A5	Adipocytes
+ACSL1	Adipocytes
+CAR3	Adipocytes
+BCAT2	Adipocytes
+PNPLA2	Adipocytes
+CIDEC	Adipocytes
+CDO1	Adipocytes
+APOC1	Adipocytes
+MMP2	Adipocytes
+POSTN	Adipocytes
+LOX	Adipocytes
+COL6A2	Adipocytes
+ZBTB16	Adipocytes
+GULP1	Adipocytes
+FZD4	Adipocytes
+TRIP10	Adipocytes
+FGF7	Adipocytes
+MAOB	Adipocytes
+SOCS1	Adipocytes
+ARNT	Adipocytes
+SULT1A1	Adipocytes
+NNMT	Adipocytes
+AOC3	Adipocytes
+H6PD	Adipocytes
+CYP27A1	Adipocytes
+EBF2	Adipocytes
+MNDA	Adipocytes
+HSD11B1	Adipocytes
+AR	Adipocytes
+GDF10	Adipocytes
+CYP1B1	Adipocytes
+COL5A3	Adipocytes
+STEAP4	Adipocytes
+CCL11	Adipocytes
+NR1H3	Adipocytes
+DEPTOR	Adipocytes
+CYTH3	Adipocytes
+FMO1	Adipocytes
+ACADSB	Adipocytes
+XDH	Adipocytes
+RSPO3	Adipocytes
+PTGES	Adipocytes
+CREB3L1	Adipocytes
+ANGPTL2	Adipocytes
+ADAM12	Adipocytes
+ADH1	Adipocytes
+LBP	Adipocytes
+NMB	Adipocytes
+RARRES2	Adipocytes
+FST	Adipocytes
+EGFR	Adipocytes
+CPXM1	Adipocytes
+C3	Adipocytes
+ADAMTS5	Adipocytes
+TIMP1	Adipocytes
+METRN	Adipocytes
+METRNL	Adipocytes
+MYO1C	Adipocytes
+NQO1	Adipocytes
+SYAP1	Adipocytes
+CRNDE	Adipocytes
+AQP5	Adipocytes
+TSPO	Adipocytes
+AZGP1	Adipocytes
+LRP1	Adipocytes
+PDE3B	Adipocytes
+LGALS12	Adipocytes
+SERPINF1	Adipocytes
+CPT1B	Adipocytes
+ELOVL3	Adipocytes
+PPARGC1A	Adipocytes
+MPZL1	Adipocytes
+CITED1	Adipocytes
+DPT	Adipocytes
+HOXC9	Adipocytes
+ESM1	Adipocytes
+TH	Adrenergic neurons
+DDC	Adrenergic neurons
+DBH	Adrenergic neurons
+PNMT	Adrenergic neurons
+SLC18A2	Adrenergic neurons
+NPFF	Adrenergic neurons
+SLC12A7	Adrenergic neurons
+SYT1	Adrenergic neurons
+AQP1	Airway epithelial cells
+ADH7	Airway epithelial cells
+CDH1	Airway epithelial cells
+SEC14L3	Airway epithelial cells
+MUC5B	Airway goblet cells
+MUC16	Airway goblet cells
+LTF	Airway goblet cells
+SCGB3A1	Airway goblet cells
+DCPP1	Airway goblet cells
+DMBT1	Airway goblet cells
+WFDC18	Airway goblet cells
+DCPP3	Airway goblet cells
+LIPF	Airway goblet cells
+DCPP2	Airway goblet cells
+MSLN	Airway goblet cells
+AGR2	Airway goblet cells
+GP2	Airway goblet cells
+PIGR	Airway goblet cells
+TFF2	Airway goblet cells
+AQP5	Airway goblet cells
+CBR2	Airway goblet cells
+QSOX1	Airway goblet cells
+FXYD3	Airway goblet cells
+SEC23B	Airway goblet cells
+CEACAM1	Airway goblet cells
+GOLPH3	Airway goblet cells
+GGH	Airway goblet cells
+GALNT5	Airway goblet cells
+GALNT6	Airway goblet cells
+MUC5AC	Airway goblet cells
+MUC4	Airway goblet cells
+MUC20	Airway goblet cells
+SPDEF	Airway goblet cells
+DUSP4	Airway goblet cells
+NOG	Airway smooth muscle cells
+ACTA2	Airway smooth muscle cells
+FOXF1	Airway smooth muscle cells
+GATA5	Airway smooth muscle cells
+GCG	Alpha cells
+TTR	Alpha cells
+GLP1R	Alpha cells
+ARX	Alpha cells
+POU3F4	Alpha cells
+NKX2-2	Alpha cells
+RESP18	Alpha cells
+PYY	Alpha cells
+PCSK2	Alpha cells
+SLC38A5	Alpha cells
+TM4SF4	Alpha cells
+CRYBA2	Alpha cells
+NKX6-1	Alpha cells
+KCNK16	Alpha cells
+PCSK1	Alpha cells
+PRRG2	Alpha cells
+IRX2	Alpha cells
+ALDH1A1	Alpha cells
+PEMT	Alpha cells
+CHGA	Alpha cells
+SMIM24	Alpha cells
+F10	Alpha cells
+SCGN	Alpha cells
+SLC30A8	Alpha cells
+SH3GL2	Alpha cells
+FAP	Alpha cells
+DPP4	Alpha cells
+GPR119	Alpha cells
+MAFB	Alpha cells
+PAX6	Alpha cells
+NEUROD1	Alpha cells
+LOXL4	Alpha cells
+PLCE1	Alpha cells
+GC	Alpha cells
+KLHL41	Alpha cells
+FEV	Alpha cells
+PTGER3	Alpha cells
+RFX6	Alpha cells
+SMARCA1	Alpha cells
+PGR	Alpha cells
+LDB2	Alpha cells
+IRX1	Alpha cells
+UCP2	Alpha cells
+FXYD5	Alpha cells
+RGS4	Alpha cells
+GLS	Alpha cells
+CHIL3	Alveolar macrophages
+PLET1	Alveolar macrophages
+IL1B	Alveolar macrophages
+WFDC21	Alveolar macrophages
+BGLAP3	Alveolar macrophages
+CCL3	Alveolar macrophages
+G0S2	Alveolar macrophages
+CXCL2	Alveolar macrophages
+MCEMP1	Alveolar macrophages
+KLHDC4	Alveolar macrophages
+BCL2A1D	Alveolar macrophages
+GDA	Alveolar macrophages
+CLEC7A	Alveolar macrophages
+BCL2A1B	Alveolar macrophages
+ITGAX	Alveolar macrophages
+TNFAIP2	Alveolar macrophages
+CD36	Alveolar macrophages
+GAL	Alveolar macrophages
+CAR4	Alveolar macrophages
+EAR2	Alveolar macrophages
+TLR2	Alveolar macrophages
+GPNMB	Alveolar macrophages
+MRC1	Alveolar macrophages
+LYZ1	Alveolar macrophages
+MARCO	Alveolar macrophages
+CSF2RB	Alveolar macrophages
+MPP1	Alveolar macrophages
+TRIM25	Alveolar macrophages
+EAR1	Alveolar macrophages
+OLR1	Alveolar macrophages
+S100A4	Alveolar macrophages
+GNGT2	Alveolar macrophages
+SIGLECF	Alveolar macrophages
+AGA	Anterior pituitary gland cells
+ANGPT1	Anterior pituitary gland cells
+CHGA	Anterior pituitary gland cells
+CPEB4	Anterior pituitary gland cells
+GH	Anterior pituitary gland cells
+IGSF1	Anterior pituitary gland cells
+MEST	Anterior pituitary gland cells
+NKTR	Anterior pituitary gland cells
+NUCB2	Anterior pituitary gland cells
+PITX2	Anterior pituitary gland cells
+POU1F1	Anterior pituitary gland cells
+PRL	Anterior pituitary gland cells
+RAB27A	Anterior pituitary gland cells
+RCN3	Anterior pituitary gland cells
+SEZ6L2	Anterior pituitary gland cells
+SIX6	Anterior pituitary gland cells
+TBRG1	Anterior pituitary gland cells
+TMEM130	Anterior pituitary gland cells
+POMC	Anterior pituitary gland cells
+GMPPA	Anterior pituitary gland cells
+TRIM30B	Anterior pituitary gland cells
+GNB3	Anterior pituitary gland cells
+HEPACAM2	Anterior pituitary gland cells
+ASB4	Anterior pituitary gland cells
+RAX	Anterior pituitary gland cells
+NKX2-1	Anterior pituitary gland cells
+FGF10	Anterior pituitary gland cells
+FSHB	Anterior pituitary gland cells
+PCSK1	Anterior pituitary gland cells
+GNRHR	Anterior pituitary gland cells
+PITX1	Anterior pituitary gland cells
+TSHB	Anterior pituitary gland cells
+PAX7	Anterior pituitary gland cells
+LHB	Anterior pituitary gland cells
+S100B	Astrocytes
+SLC1A2	Astrocytes
+GFAP	Astrocytes
+BYSL	Astrocytes
+ALDH1L1	Astrocytes
+CD40	Astrocytes
+SLC1A3	Astrocytes
+FGFR3	Astrocytes
+GJB6	Astrocytes
+AQP4	Astrocytes
+HTRA1	Astrocytes
+S100A8	Astrocytes
+CLDN10	Astrocytes
+ITIH3	Astrocytes
+NKAIN4	Astrocytes
+ACSL6	Astrocytes
+ACSBG1	Astrocytes
+TRIL	Astrocytes
+AGT	Astrocytes
+GPR37L1	Astrocytes
+SLC4A4	Astrocytes
+NTSR2	Astrocytes
+SLC6A11	Astrocytes
+HSPA2	Astrocytes
+SLC16A2	Astrocytes
+SYNE1	Astrocytes
+DIO2	Astrocytes
+SLC7A10	Astrocytes
+ENTPD2	Astrocytes
+HSPB6	Astrocytes
+PLXNB1	Astrocytes
+LCAT	Astrocytes
+PLA2G7	Astrocytes
+CMTM5	Astrocytes
+S1PR1	Astrocytes
+SLC39A12	Astrocytes
+LUZP2	Astrocytes
+GSTA4	Astrocytes
+SLC25A28	Astrocytes
+SLC25A46	Astrocytes
+WNT3	Astrocytes
+FZD2	Astrocytes
+TEAD1	Astrocytes
+RLBP1	Astrocytes
+ALDOC	Astrocytes
+GJA1	Astrocytes
+APOE	Astrocytes
+LCN2	Astrocytes
+SOX9	Astrocytes
+VIM	Astrocytes
+CCR7	Astrocytes
+AANAT	Astrocytes
+FABP7	Astrocytes
+SOCS3	Astrocytes
+SYNM	Astrocytes
+HMG20A	Astrocytes
+NFATC3	Astrocytes
+SRR	Astrocytes
+SLC1A6	Astrocytes
+ETS1	Astrocytes
+SLIT1	Astrocytes
+SNPH	Astrocytes
+IL23A	Astrocytes
+CD2	B cells
+CD5	B cells
+MS4A1	B cells
+CR2	B cells
+CD22	B cells
+CD40	B cells
+CD69	B cells
+CD70	B cells
+CD79A	B cells
+CD79B	B cells
+CD80	B cells
+CD86	B cells
+TNFRSF9	B cells
+SDC1	B cells
+TNFSF4	B cells
+TNFRSF13B	B cells
+TNFRSF13C	B cells
+PDCD1	B cells
+IGHD	B cells
+IGHM	B cells
+RASGRP3	B cells
+LTB	B cells
+FLI1	B cells
+CD14	B cells
+SEMA6D	B cells
+LAIR1	B cells
+IFIT3	B cells
+IGLL1	B cells
+DNTT	B cells
+MME	B cells
+SPN	B cells
+CD19	B cells
+CD27	B cells
+B3GAT1	B cells
+CD72	B cells
+MUM1	B cells
+PAX5	B cells
+JCHAIN	B cells
+MZB1	B cells
+LY6D	B cells
+H2-DMB2	B cells
+FCMR	B cells
+BANK1	B cells
+EDEM1	B cells
+VPREB3	B cells
+H2-OB	B cells
+POU2AF1	B cells
+CRELD2	B cells
+DERL3	B cells
+SIGLECG	B cells
+RALGPS2	B cells
+FCHSD2	B cells
+POLD4	B cells
+CMAH	B cells
+TNFRSF17	B cells
+HVCN1	B cells
+TRP53INP1	B cells
+FCRLA	B cells
+EDEM2	B cells
+BLNK	B cells
+H2-OA	B cells
+TXNDC11	B cells
+BTLA	B cells
+SMAP2	B cells
+SCD1	B cells
+FKBP11	B cells
+SEC61A1	B cells
+SPCS3	B cells
+SPIB	B cells
+EAF2	B cells
+CXCR4	B cells
+BIRC3	B cells
+IGLC2	B cells
+IGLC3	B cells
+IGLC1	B cells
+IL21R	B cells
+IGKC	B cells
+IGLV1	B cells
+VPREB1	B cells
+VPREB2	B cells
+LRMP	B cells
+KLHL6	B cells
+SLAMF6	B cells
+FAM129C	B cells
+BST1	B cells
+MSH5	B cells
+DOK3	B cells
+BACH2	B cells
+FCER2A	B cells
+PXK	B cells
+IGHG1	B cells
+IGHG3	B cells
+IGHA	B cells
+CD38	B cells
+PTPRC	B cells
+EBF1	B cells
+BCL11A	B cells
+CCR7	B cells
+CD55	B cells
+CD74	B cells
+CD52	B cells
+TLR9	B cells
+SWAP70	B cells
+HMGA1	B cells
+CD38	B cells memory
+CD80	B cells memory
+CD84	B cells memory
+CD86	B cells memory
+NT5E	B cells memory
+PAX5	B cells memory
+PTPRC	B cells memory
+SPIB	B cells memory
+ADAM28	B cells memory
+AIM2	B cells memory
+ALOX5	B cells memory
+BACH2	B cells memory
+BANK1	B cells memory
+BLK	B cells memory
+CCR6	B cells memory
+CD180	B cells memory
+CD19	B cells memory
+CD22	B cells memory
+CD27	B cells memory
+CD37	B cells memory
+CD69	B cells memory
+CD72	B cells memory
+CD79A	B cells memory
+CD79B	B cells memory
+CR2	B cells memory
+CXCR5	B cells memory
+DENND5B	B cells memory
+FCGR2B	B cells memory
+FRK	B cells memory
+GNG7	B cells memory
+HHEX	B cells memory
+IGHD	B cells memory
+IGHM	B cells memory
+IGKC	B cells memory
+IL7	B cells memory
+IRF8	B cells memory
+LTB	B cells memory
+LY86	B cells memory
+MBL2	B cells memory
+MS4A1	B cells memory
+NMBR	B cells memory
+P2RX5	B cells memory
+PNOC	B cells memory
+PTPRCAP	B cells memory
+RALGPS2	B cells memory
+RASGRP2	B cells memory
+SIK1	B cells memory
+SIT1	B cells memory
+SLC12A1	B cells memory
+SP140	B cells memory
+STAP1	B cells memory
+TMEM156	B cells memory
+TNFRSF13B	B cells memory
+TNFRSF17	B cells memory
+TRAF4	B cells memory
+VPREB3	B cells memory
+ZBTB32	B cells memory
+CD19	B cells naive
+CD2	B cells naive
+CD72	B cells naive
+IL2RA	B cells naive
+MME	B cells naive
+ABCB4	B cells naive
+ADAM28	B cells naive
+BACH2	B cells naive
+BANK1	B cells naive
+BCL7A	B cells naive
+BEND5	B cells naive
+BLK	B cells naive
+BRAF	B cells naive
+CD180	B cells naive
+CD22	B cells naive
+CD37	B cells naive
+CD69	B cells naive
+CD79A	B cells naive
+CD79B	B cells naive
+CR2	B cells naive
+CXCR5	B cells naive
+EAF2	B cells naive
+FCGR2B	B cells naive
+FRK	B cells naive
+HHEX	B cells naive
+IGHD	B cells naive
+IGHM	B cells naive
+IGKC	B cells naive
+IRF8	B cells naive
+LTB	B cells naive
+LY86	B cells naive
+MEP1A	B cells naive
+MICAL3	B cells naive
+MS4A1	B cells naive
+NMBR	B cells naive
+P2RX5	B cells naive
+P2RY14	B cells naive
+PNOC	B cells naive
+PTPRCAP	B cells naive
+RALGPS2	B cells naive
+RASGRP2	B cells naive
+SELL	B cells naive
+SIK1	B cells naive
+SLC12A1	B cells naive
+SPIB	B cells naive
+STAP1	B cells naive
+UGT1A8	B cells naive
+VPREB3	B cells naive
+TNFSF8	B cells naive
+FOXP1	B cells naive
+MITF	B cells naive
+CD52	B cells naive
+TNFRSF13C	B cells naive
+STAG3	B cells naive
+BIRC3	B cells naive
+CD74	B cells naive
+KRT5	Basal cells
+KRT17	Basal cells
+BCL2	Basal cells
+KRT14	Basal cells
+CDH3	Basal cells
+KRT6B	Basal cells
+METTL5	Basal cells
+ANXA11	Basal cells
+TMEM14A	Basal cells
+BNIP3	Basal cells
+TYMP	Basal cells
+DPP7	Basal cells
+OPTN	Basal cells
+PLAU	Basal cells
+CAPN1	Basal cells
+BACE2	Basal cells
+CTNNB1	Basal cells
+ILK	Basal cells
+PKP3	Basal cells
+ITGA3	Basal cells
+SRSF4	Basal cells
+RAB38	Basal cells
+ALKBH7	Basal cells
+DNPH1	Basal cells
+KRT23	Basal cells
+SLC16A3	Basal cells
+GYPC	Basal cells
+DUSP23	Basal cells
+RARRES1	Basal cells
+ITGA2	Basal cells
+SLC25A37	Basal cells
+ITGB6	Basal cells
+ITGB4	Basal cells
+SPHK1	Basal cells
+ACTG2	Basal cells
+IRF6	Basal cells
+RAB13	Basal cells
+LAMB3	Basal cells
+ACADVL	Basal cells
+MMP7	Basal cells
+HEBP2	Basal cells
+FBXO32	Basal cells
+SERINC2	Basal cells
+NNMT	Basal cells
+KRT15	Basal cells
+PLP2	Basal cells
+S100A14	Basal cells
+LAMC2	Basal cells
+BMP7	Basal cells
+MYLK	Basal cells
+CD69	Basophils
+IL3RA	Basophils
+CCR3	Basophils
+ENPP3	Basophils
+FCER1A	Basophils
+TLR4	Basophils
+LTC4S	Basophils
+CPA3	Basophils
+ITGAL	Basophils
+ITGAM	Basophils
+ITGAX	Basophils
+ITGB7	Basophils
+IL4	Basophils
+MCPT8	Basophils
+PRSS34	Basophils
+MS4A2	Basophils
+MS4A3	Basophils
+HDC	Basophils
+GATA2	Basophils
+CCL3	Basophils
+CD33	Basophils
+CD44	Basophils
+CDH1	Basophils
+HTR1B	Basophils
+IGFBP7	Basophils
+MRGPRA6	Basophils
+DNASE2B	Basophils
+FADS2	Basophils
+GPC4	Basophils
+GRM6	Basophils
+ACSS2	Basophils
+ADORA2B	Basophils
+ALOX8	Basophils
+AQP9	Basophils
+BACE1	Basophils
+BMP4	Basophils
+CABLES1	Basophils
+CCL4	Basophils
+CCL9	Basophils
+CEBPA	Basophils
+DEFB40	Basophils
+E2F8	Basophils
+FADS1	Basophils
+FAR2	Basophils
+FBXO9	Basophils
+GABBR1	Basophils
+GPR183	Basophils
+HGF	Basophils
+HIST1H1D	Basophils
+HIST1H2AC	Basophils
+IFITM1	Basophils
+INF2	Basophils
+JAZF1	Basophils
+L1CAM	Basophils
+LAMA5	Basophils
+MBOAT1	Basophils
+NFIL3	Basophils
+NPL	Basophils
+NT5C3	Basophils
+OSBPL5	Basophils
+OTUB2	Basophils
+P2RY1	Basophils
+PDK3	Basophils
+PDZD4	Basophils
+PERP	Basophils
+PLEKHG5	Basophils
+PLG	Basophils
+RNF39	Basophils
+SLC26A3	Basophils
+SLC26A8	Basophils
+SNCAIP	Basophils
+ST6GALNAC5	Basophils
+TULP3	Basophils
+TEC	Basophils
+UNC93A	Basophils
+WRN	Basophils
+ID1	Basophils
+GFAP	Bergmann glia
+GDF10	Bergmann glia
+GJB6	Bergmann glia
+GRIA4	Bergmann glia
+GRM3	Bergmann glia
+NTSR2	Bergmann glia
+ITIH3	Bergmann glia
+A2M	Bergmann glia
+PTCH1	Bergmann glia
+CDC42EP4	Bergmann glia
+BTBD17	Bergmann glia
+AQP4	Bergmann glia
+SLC4A4	Bergmann glia
+HOPX	Bergmann glia
+GPR37L1	Bergmann glia
+ACSBG1	Bergmann glia
+ALDH1L1	Bergmann glia
+SLC1A3	Bergmann glia
+SLC1A2	Bergmann glia
+S100B	Bergmann glia
+VIM	Bergmann glia
+FABP7	Bergmann glia
+TTC21B	Bergmann glia
+HEPACAM	Bergmann glia
+ZEB2	Bergmann glia
+UFL1	Bergmann glia
+NRXN3	Bergmann glia
+ATP7A	Bergmann glia
+BICD2	Bergmann glia
+GJA1	Bergmann glia
+METRN	Bergmann glia
+P2RX7	Bergmann glia
+EGFR	Bergmann glia
+GRIA1	Bergmann glia
+P2RY1	Bergmann glia
+GRIN2B	Bergmann glia
+GRIN3A	Bergmann glia
+SEPT4	Bergmann glia
+DAO	Bergmann glia
+ITGB1	Bergmann glia
+KIF1BP	Bergmann glia
+GCGR	Beta cells
+JPH3	Beta cells
+CD40	Beta cells
+HAMP	Beta cells
+EZH1	Beta cells
+NTRK1	Beta cells
+PDX1	Beta cells
+SLC2A2	Beta cells
+NKX6-2	Beta cells
+INS1	Beta cells
+INS2	Beta cells
+FXYD2	Beta cells
+NPY	Beta cells
+RIMS1	Beta cells
+MAFA	Beta cells
+EFNA5	Beta cells
+LMX1A	Beta cells
+NKX2-2	Beta cells
+NKX6-1	Beta cells
+PAX4	Beta cells
+IAPP	Beta cells
+PCSK2	Beta cells
+G6PC2	Beta cells
+SLC30A8	Beta cells
+ERO1LB	Beta cells
+PCSK1	Beta cells
+GJD2	Beta cells
+SCGN	Beta cells
+IGF2	Beta cells
+SYT13	Beta cells
+FFAR2	Beta cells
+NPTX2	Beta cells
+PFKFB2	Beta cells
+EDARADD	Beta cells
+HOPX	Beta cells
+SH3GL2	Beta cells
+ADCYAP1	Beta cells
+CASR	Beta cells
+MAFB	Beta cells
+PAX6	Beta cells
+NEUROD1	Beta cells
+ISL1	Beta cells
+TGFBR3	Beta cells
+SMAD9	Beta cells
+SIX3	Beta cells
+SIX2	Beta cells
+BMP5	Beta cells
+PIR	Beta cells
+STXBP5	Beta cells
+DLK1	Beta cells
+MEG3	Beta cells
+RGS16	Beta cells
+RELN	Cajal-Retzius cells
+DIABLO	Cajal-Retzius cells
+ST3GAL5	Cajal-Retzius cells
+ISOC1	Cajal-Retzius cells
+SMOC2	Cajal-Retzius cells
+DYNC1I1	Cajal-Retzius cells
+NHLH2	Cajal-Retzius cells
+CLSTN2	Cajal-Retzius cells
+TMEM163	Cajal-Retzius cells
+CACNA2D2	Cajal-Retzius cells
+CIB2	Cajal-Retzius cells
+LHX1OS	Cajal-Retzius cells
+NDNF	Cajal-Retzius cells
+LINGO1	Cajal-Retzius cells
+LNPK	Cajal-Retzius cells
+RNF138	Cajal-Retzius cells
+TMEM170B	Cajal-Retzius cells
+ABCC5	Cajal-Retzius cells
+CNRIP1	Cajal-Retzius cells
+EBF3	Cajal-Retzius cells
+FUT9	Cajal-Retzius cells
+PABPN1	Cajal-Retzius cells
+GNL3L	Cajal-Retzius cells
+NUDT2	Cajal-Retzius cells
+SLC25A46	Cajal-Retzius cells
+NSMCE3	Cajal-Retzius cells
+DACH1	Cajal-Retzius cells
+FAM69B	Cajal-Retzius cells
+HOMER2	Cajal-Retzius cells
+MAP9	Cajal-Retzius cells
+DNM3	Cajal-Retzius cells
+LZTFL1	Cajal-Retzius cells
+FSD1	Cajal-Retzius cells
+TCEAL1	Cajal-Retzius cells
+RAB11FIP2	Cajal-Retzius cells
+BARHL2	Cajal-Retzius cells
+TRIM44	Cajal-Retzius cells
+SLC17A6	Cajal-Retzius cells
+B3GALT1	Cajal-Retzius cells
+SLITRK5	Cajal-Retzius cells
+ERC2	Cajal-Retzius cells
+NBEA	Cajal-Retzius cells
+SLC25A36	Cajal-Retzius cells
+ZDBF2	Cajal-Retzius cells
+MAPK8	Cajal-Retzius cells
+GDF5	Cajal-Retzius cells
+ACHE	Cajal-Retzius cells
+CCM2	Cajal-Retzius cells
+WRAP73	Cajal-Retzius cells
+NRG1	Cajal-Retzius cells
+ATP13A2	Cajal-Retzius cells
+CNTNAP2	Cajal-Retzius cells
+PNOC	Cajal-Retzius cells
+LHX1	Cajal-Retzius cells
+LINGO2	Cajal-Retzius cells
+FAT3	Cajal-Retzius cells
+SRGAP3	Cajal-Retzius cells
+CDH4	Cajal-Retzius cells
+FLRT3	Cajal-Retzius cells
+EDIL3	Cajal-Retzius cells
+CAR10	Cajal-Retzius cells
+ZCCHC12	Cajal-Retzius cells
+RALGPS2	Cajal-Retzius cells
+FAM196A	Cajal-Retzius cells
+SMAD1	Cajal-Retzius cells
+TBR1	Cajal-Retzius cells
+KCNH7	Cajal-Retzius cells
+LHX5	Cajal-Retzius cells
+CALB2	Cajal-Retzius cells
+EMX2	Cajal-Retzius cells
+ZIC2	Cajal-Retzius cells
+WNT7B	Cajal-Retzius cells
+AATF	Cajal-Retzius cells
+NANOS1	Cajal-Retzius cells
+TBCK	Cajal-Retzius cells
+RGMB	Cajal-Retzius cells
+DACT1	Cajal-Retzius cells
+TRP73	Cajal-Retzius cells
+EOMES	Cajal-Retzius cells
+CNR1	Cajal-Retzius cells
+MYH6	Cardiac stem and precursor cells
+WT1	Cardiac stem and precursor cells
+TBX18	Cardiac stem and precursor cells
+FUT4	Cardiac stem and precursor cells
+NKX2-5	Cardiac stem and precursor cells
+ISL1	Cardiac stem and precursor cells
+GATA4	Cardiac stem and precursor cells
+ETV2	Cardiac stem and precursor cells
+KIT	Cardiac stem and precursor cells
+ABCG2	Cardiac stem and precursor cells
+MESP1	Cardiac stem and precursor cells
+BMP4	Cardiac stem and precursor cells
+ADGRL2	Cardiac stem and precursor cells
+TBX3	Cardiac stem and precursor cells
+TBX4	Cardiac stem and precursor cells
+WNT5A	Cardiac stem and precursor cells
+ANKRD1	Cardiac stem and precursor cells
+TNNC1	Cardiomyocytes
+ADM	Cardiomyocytes
+ALCAM 	Cardiomyocytes
+NPPA	Cardiomyocytes
+FGF2	Cardiomyocytes
+NPPB	Cardiomyocytes
+TNNI3	Cardiomyocytes
+TNNT2	Cardiomyocytes
+ANKRD1	Cardiomyocytes
+NPPC	Cardiomyocytes
+DES	Cardiomyocytes
+HAND2	Cardiomyocytes
+HAND1	Cardiomyocytes
+GATA4	Cardiomyocytes
+GATA6	Cardiomyocytes
+MYL2	Cardiomyocytes
+NKX2-5	Cardiomyocytes
+PNMT	Cardiomyocytes
+ACTA1	Cardiomyocytes
+CD36	Cardiomyocytes
+RBM20	Cardiomyocytes
+VLDLR	Cardiomyocytes
+ALPK3	Cardiomyocytes
+RBM24	Cardiomyocytes
+FABP4	Cardiomyocytes
+CKMT2	Cardiomyocytes
+SPEG	Cardiomyocytes
+MYH7B	Cardiomyocytes
+MYOM2	Cardiomyocytes
+MYOM1	Cardiomyocytes
+COX8B	Cardiomyocytes
+PDLIM5	Cardiomyocytes
+MYH7	Cardiomyocytes
+PLN	Cardiomyocytes
+TCAP	Cardiomyocytes
+SORBS2	Cardiomyocytes
+RYR2	Cardiomyocytes
+OBSCN	Cardiomyocytes
+ACTC1	Cardiomyocytes
+MYL3	Cardiomyocytes
+CORO6	Cardiomyocytes
+PDE4D	Cardiomyocytes
+NEXN	Cardiomyocytes
+MHRT	Cardiomyocytes
+FHL2	Cardiomyocytes
+MYBPC3	Cardiomyocytes
+MYH6	Cardiomyocytes
+TTN	Cardiomyocytes
+GPIHBP1	Cardiomyocytes
+AQP1	Cardiomyocytes
+DMD	Cardiomyocytes
+MFN2	Cardiomyocytes
+ASB2	Cardiomyocytes
+ART3	Cardiomyocytes
+RRAD	Cardiomyocytes
+ADPRHL1	Cardiomyocytes
+JPH2	Cardiomyocytes
+PYGM	Cardiomyocytes
+HSPB7	Cardiomyocytes
+MYOZ2	Cardiomyocytes
+ENO3	Cardiomyocytes
+TRDN	Cardiomyocytes
+ACTN2	Cardiomyocytes
+TNNI1	Cardiomyocytes
+SMPX	Cardiomyocytes
+MYL7	Cardiomyocytes
+TBX20	Cardiomyocytes
+TRIM63	Cardiomyocytes
+MB	Cardiomyocytes
+CTGF	Cardiomyocytes
+MYL4	Cardiomyocytes
+LOX	Cardiomyocytes
+CTNNB1	Cardiomyocytes
+CPT1A	Cardiomyocytes
+SOX18	Cardiomyocytes
+NOTCH1	Cardiomyocytes
+SLN	Cardiomyocytes
+CSRP3	Cardiomyocytes
+TXLNB	Cardiomyocytes
+ATP2A2	Cardiomyocytes
+CKM	Cardiomyocytes
+CKB	Cardiomyocytes
+CXCR4	Cardiomyocytes
+MITF	Cardiomyocytes
+ZFPM2	Cardiomyocytes
+BDNF	Cardiomyocytes
+GJA5	Cardiomyocytes
+FMOD	Cardiomyocytes
+MTTP	Cardiomyocytes
+SLC5A1	Cardiomyocytes
+ADIPOQ	Cardiomyocytes
+TRPV1	Cardiomyocytes
+HAMP	Cardiomyocytes
+SGPL1	Cardiomyocytes
+HMGB2	Cardiomyocytes
+STC1	Cardiomyocytes
+FGF23	Cardiomyocytes
+STRN	Cardiomyocytes
+HEY2	Cardiomyocytes
+ADIPOR1	Cardiomyocytes
+ADIPOR2	Cardiomyocytes
+PDE1A	Cardiomyocytes
+BMP4	Cardiomyocytes
+CASQ2	Cardiomyocytes
+TPM1	Cardiomyocytes
+SSTR2	Cholangiocytes
+SLC4A2	Cholangiocytes
+SCTR	Cholangiocytes
+KRT7	Cholangiocytes
+KCNN2	Cholangiocytes
+ITGB4	Cholangiocytes
+GGT6	Cholangiocytes
+CFTR	Cholangiocytes
+CCKBR	Cholangiocytes
+AQP4	Cholangiocytes
+AQP1	Cholangiocytes
+PIGR	Cholangiocytes
+GGT1	Cholangiocytes
+JAG1	Cholangiocytes
+GPBAR1	Cholangiocytes
+GGT7	Cholangiocytes
+KRT19	Cholangiocytes
+ONECUT2	Cholangiocytes
+ALPL	Cholangiocytes
+HNF1B	Cholangiocytes
+ALB	Cholangiocytes
+AGR2	Cholangiocytes
+MUC3	Cholangiocytes
+TFF3	Cholangiocytes
+TFF1	Cholangiocytes
+SOX9	Cholangiocytes
+EPCAM	Cholangiocytes
+CLDN4	Cholangiocytes
+MMP7	Cholangiocytes
+TFF2	Cholangiocytes
+SCGB3A1	Cholangiocytes
+FXYD2	Cholangiocytes
+DEFB1	Cholangiocytes
+LCN2	Cholangiocytes
+CXCL1	Cholangiocytes
+LGALS2	Cholangiocytes
+TACSTD2	Cholangiocytes
+ELF3	Cholangiocytes
+SPP1	Cholangiocytes
+MUC5B	Cholangiocytes
+LGALS4	Cholangiocytes
+CHAT	Cholinergic neurons
+SLC18A3	Cholinergic neurons
+ACHE	Cholinergic neurons
+SLC5A7	Cholinergic neurons
+TAC1	Cholinergic neurons
+BRCA1	Cholinergic neurons
+ACLY	Cholinergic neurons
+PRG4	Chondrocytes
+TNC	Chondrocytes
+CRTAC1	Chondrocytes
+CREB3L2	Chondrocytes
+RUNX2	Chondrocytes
+ACAN	Chondrocytes
+COL2A1	Chondrocytes
+COMP	Chondrocytes
+MATN3	Chondrocytes
+RUNX3	Chondrocytes
+SOX6	Chondrocytes
+BMP2	Chondrocytes
+CTNNB1	Chondrocytes
+FGF18	Chondrocytes
+GLI3	Chondrocytes
+PBX3	Chondrocytes
+PTHLH	Chondrocytes
+SMO	Chondrocytes
+STAT1	Chondrocytes
+MMP13	Chondrocytes
+VEGFA	Chondrocytes
+MATN1	Chondrocytes
+COL9A1	Chondrocytes
+COL10A1	Chondrocytes
+IGF2	Chondrocytes
+MIA	Chondrocytes
+SDC3	Chondrocytes
+EMP1	Chondrocytes
+COL6A1	Chondrocytes
+CYTL1	Chondrocytes
+LCN2	Chondrocytes
+LUM	Chondrocytes
+GADD45B	Chondrocytes
+SCRG1	Chondrocytes
+HAPLN1	Chondrocytes
+COL11A1	Chondrocytes
+S100A9	Chondrocytes
+CHAD	Chondrocytes
+COL9A3	Chondrocytes
+DLK1	Chondrocytes
+S100A8	Chondrocytes
+CHODL	Chondrocytes
+ATF4	Chondrocytes
+MGP	Chondrocytes
+TCF4	Chondrocytes
+VDR	Chondrocytes
+ATRX	Chondrocytes
+NOG	Chondrocytes
+AGER	Chondrocytes
+IL10RA	Chondrocytes
+TTR	Choroid plexus cells
+KL	Choroid plexus cells
+SOSTDC1	Choroid plexus cells
+CLIC6	Choroid plexus cells
+SLC4A10	Choroid plexus cells
+HTR2C	Choroid plexus cells
+AQP1	Choroid plexus cells
+SLC16A2	Choroid plexus cells
+SLC4A2	Choroid plexus cells
+SLC4A5	Choroid plexus cells
+SLC31A1	Choroid plexus cells
+CAR12	Choroid plexus cells
+CLDN2	Choroid plexus cells
+SLC13A4	Choroid plexus cells
+SLC29A4	Choroid plexus cells
+PRLR	Choroid plexus cells
+CLDN1	Choroid plexus cells
+SLC2A12	Choroid plexus cells
+WFIKKN2	Choroid plexus cells
+SLC23A2	Choroid plexus cells
+SLC26A11	Choroid plexus cells
+CHMP1A	Choroid plexus cells
+SLC26A4	Chromaffin cells
+AGRP	Chromaffin cells
+IGF2	Chromaffin cells
+SNAP25	Chromaffin cells
+SLC18A2	Chromaffin cells
+SNAPIN	Chromaffin cells
+PNMT	Chromaffin cells
+RAPGEF2	Chromaffin cells
+SERPINE1	Chromaffin cells
+GJD2	Chromaffin cells
+CACNA1D	Chromaffin cells
+PIK3C2A	Chromaffin cells
+NCS1	Chromaffin cells
+PLD1	Chromaffin cells
+PLD2	Chromaffin cells
+DOC2B	Chromaffin cells
+UNC13A	Chromaffin cells
+SLC18A1	Chromaffin cells
+STX1A	Chromaffin cells
+NPY	Chromaffin cells
+NTRK1	Chromaffin cells
+P2RY1	Chromaffin cells
+SLC12A2	Chromaffin cells
+CHGA	Chromaffin cells
+PLAT	Chromaffin cells
+SEC14L3	Ciliated cells
+CCDC153	Ciliated cells
+DYNLT1C	Ciliated cells
+FAM161A	Ciliated cells
+TMEM212	Ciliated cells
+USMG5	Ciliated cells
+CCDC181	Ciliated cells
+CES1D	Ciliated cells
+FOXJ1	Ciliated cells
+CCDC17	Ciliated cells
+CCDC39	Ciliated cells
+FAM177A	Ciliated cells
+ODF3B	Ciliated cells
+CYP2S1	Ciliated cells
+LRRC23	Ciliated cells
+SCGB1A1	Ciliated cells
+APPL2	Ciliated cells
+TUBB4B	Ciliated cells
+SYT2	Clara cells
+CYP2E1	Clara cells
+SCGB1A1	Clara cells
+FOXM1	Clara cells
+CYP2F2	Clara cells
+CTSE	Clara cells
+MUC5B	Clara cells
+SCGB3A2	Clara cells
+SFTPC	Clara cells
+MUC1	Clara cells
+CYP4B1	Clara cells
+ALDH1A1	Clara cells
+BPIFA1	Clara cells
+SCGB3A1	Clara cells
+MUC4	Clara cells
+AHR	Clara cells
+MMP28	Clara cells
+LEPR	Clara cells
+ERN1	Clara cells
+SFTPA1	Clara cells
+CARM1	Clara cells
+CYP2B10	Clara cells
+RAB3D	Clara cells
+SFTPD	Clara cells
+KCNE3	Crypt cells
+KCNQ1	Crypt cells
+OLFM4	Crypt cells
+PROM1	Crypt cells
+LGR5	Crypt cells
+EPHB2	Crypt cells
+ASCL2	Crypt cells
+BMI1	Crypt cells
+HOPX	Crypt cells
+LRIG1	Crypt cells
+TERT	Crypt cells
+MSI1	Crypt cells
+SMOC2	Crypt cells
+TNFRSF19	Crypt cells
+SLC12A2	Crypt cells
+AXIN2	Crypt cells
+XCL1	Decidual cells
+IGFBP1	Decidual cells
+CTSW	Decidual cells
+TRDC	Decidual cells
+KLRC1	Decidual cells
+PRL	Decidual cells
+CST7	Decidual cells
+AREG	Decidual cells
+PDX1	Delta cells
+FFAR4	Delta cells
+SST	Delta cells
+PCSK9	Delta cells
+RBP4	Delta cells
+PAX4	Delta cells
+RESP18	Delta cells
+HHEX	Delta cells
+ISL1	Delta cells
+SCGN	Delta cells
+KCNK16	Delta cells
+IAPP	Delta cells
+FXYD2	Delta cells
+NPTX2	Delta cells
+UCP2	Delta cells
+LEPR	Delta cells
+BAIAP3	Delta cells
+CASR	Delta cells
+BCHE	Delta cells
+GABRB3	Delta cells
+UNC5B	Delta cells
+EDN3	Delta cells
+PRG4	Delta cells
+GHSR	Delta cells
+FRZB	Delta cells
+PCSK1	Delta cells
+GABRG2	Delta cells
+POU3F1	Delta cells
+BHLHE41	Delta cells
+EHF	Delta cells
+LCORL	Delta cells
+ETV1	Delta cells
+IL6	Dendritic cells
+CD86	Dendritic cells
+CD83	Dendritic cells
+CR2	Dendritic cells
+TLR9	Dendritic cells
+LAMP3	Dendritic cells
+TREM2	Dendritic cells
+FABP4	Dendritic cells
+S100A9	Dendritic cells
+ARG1	Dendritic cells
+CLEC10A	Dendritic cells
+DNASE1L3	Dendritic cells
+CLEC9A	Dendritic cells
+ETV6	Dendritic cells
+CD163	Dendritic cells
+CXCR4	Dendritic cells
+VSIG4	Dendritic cells
+NR4A3	Dendritic cells
+CCR7	Dendritic cells
+TRAF1	Dendritic cells
+RELB	Dendritic cells
+BATF3	Dendritic cells
+CCL22	Dendritic cells
+SLAMF7	Dendritic cells
+XCR1	Dendritic cells
+H2-DMA	Dendritic cells
+CXCL16	Dendritic cells
+SCIMP	Dendritic cells
+FCGR2B	Dendritic cells
+FGD2	Dendritic cells
+RAB7B	Dendritic cells
+NAAA	Dendritic cells
+HCK	Dendritic cells
+CD180	Dendritic cells
+RETNLA	Dendritic cells
+HFE	Dendritic cells
+CCR2	Dendritic cells
+RYR1	Dendritic cells
+ITGAE	Dendritic cells
+SEMA4A	Dendritic cells
+DPP4	Dendritic cells
+SLAMF8	Dendritic cells
+CXCR3	Dendritic cells
+BTLA	Dendritic cells
+FLT3	Dendritic cells
+TLR3	Dendritic cells
+H2-M2	Dendritic cells
+ITGAX	Dendritic cells
+GPR132	Dendritic cells
+ADAM19	Dendritic cells
+AP1S3	Dendritic cells
+ASS1	Dendritic cells
+ADGRG5	Dendritic cells
+GPR68	Dendritic cells
+H2-EB2	Dendritic cells
+KIT	Dendritic cells
+KLRI1	Dendritic cells
+KMO	Dendritic cells
+P2RY10	Dendritic cells
+RAB30	Dendritic cells
+SEPT6	Dendritic cells
+ZBTB46	Dendritic cells
+S100A4	Dendritic cells
+CLEC7A	Dendritic cells
+AIF1	Dendritic cells
+LST1	Dendritic cells
+CTSS	Dendritic cells
+CD209A	Dendritic cells
+CD209B	Dendritic cells
+IRF8	Dendritic cells
+H2-AB1	Dendritic cells
+ADGRE1	Dendritic cells
+CCL17	Dendritic cells
+CD14	Dendritic cells
+CD207	Dendritic cells
+CD8A	Dendritic cells
+CX3CR1	Dendritic cells
+H2-EB1	Dendritic cells
+ITGAM	Dendritic cells
+LY75	Dendritic cells
+PDCD1LG2	Dendritic cells
+PTPRC	Dendritic cells
+SIRPA	Dendritic cells
+AXL	Dendritic cells
+PPP1R14A	Dendritic cells
+CD22	Dendritic cells
+DAB2	Dendritic cells
+S100A8	Dendritic cells
+VCAN	Dendritic cells
+ANXA1	Dendritic cells
+FCER1A	Dendritic cells
+CADM1	Dendritic cells
+CAMK2D	Dendritic cells
+LGALS3	Dendritic cells
+NAPSA	Dendritic cells
+PLBD1	Dendritic cells
+RNASE6	Dendritic cells
+PLAC8	Dendritic cells
+IFITM6	Dendritic cells
+EAR2	Dendritic cells
+H2AFY	Dendritic cells
+SLC11A1	Dendritic cells
+PDPN	Dendritic cells
+S100B	Dendritic cells
+CD28	Dendritic cells
+PPL	Dendritic cells
+SLURP1	Dendritic cells
+SERPINB9	Dendritic cells
+CLDN8	Distal tubule cells
+SLC12A3	Distal tubule cells
+UMOD	Distal tubule cells
+JAG1	Distal tubule cells
+CALB1	Distal tubule cells
+PVALB	Distal tubule cells
+PGAM2	Distal tubule cells
+WNK4	Distal tubule cells
+SGMS2	Distal tubule cells
+SLC16A7	Distal tubule cells
+LHX1	Distal tubule cells
+ABCA13	Distal tubule cells
+HOXB5OS	Distal tubule cells
+EMX1	Distal tubule cells
+TRPM6	Distal tubule cells
+CWH43	Distal tubule cells
+TRPM7	Distal tubule cells
+UROC1	Distal tubule cells
+TFRC	Distal tubule cells
+LHX1OS	Distal tubule cells
+TSC22D2	Distal tubule cells
+LARP1B	Distal tubule cells
+CLCNKB	Distal tubule cells
+KLHL3	Distal tubule cells
+KLK1	Distal tubule cells
+KCNJ1	Distal tubule cells
+HOXD8	Distal tubule cells
+KL	Distal tubule cells
+EGF	Distal tubule cells
+TMEM213	Distal tubule cells
+KNG2	Distal tubule cells
+TMEM52B	Distal tubule cells
+WFDC15B	Distal tubule cells
+DEFB1	Distal tubule cells
+FXYD2	Distal tubule cells
+USMG5	Distal tubule cells
+TRHDE	Distal tubule cells
+KAP	Distal tubule cells
+ACSM2	Distal tubule cells
+KCNJ16	Distal tubule cells
+RHCG	Distal tubule cells
+SOSTDC1	Distal tubule cells
+SCNN1A	Distal tubule cells
+VDR	Distal tubule cells
+WNK1	Distal tubule cells
+SLC8A1	Distal tubule cells
+AQP2	Distal tubule cells
+AVPR2	Distal tubule cells
+TH	Dopaminergic neurons
+SLC6A3	Dopaminergic neurons
+FOXA2	Dopaminergic neurons
+KCNJ6	Dopaminergic neurons
+NR4A2	Dopaminergic neurons
+LMX1B	Dopaminergic neurons
+CACNA2D2	Dopaminergic neurons
+CADPS2	Dopaminergic neurons
+CHRNA6	Dopaminergic neurons
+MAPK8IP2	Dopaminergic neurons
+NTN1	Dopaminergic neurons
+PRKCG	Dopaminergic neurons
+TENM1	Dopaminergic neurons
+ZIM3	Dopaminergic neurons
+DDC	Dopaminergic neurons
+SLC18A2	Dopaminergic neurons
+SLC18A3	Dopaminergic neurons
+NEUROD6	Dopaminergic neurons
+SMAD3	Dopaminergic neurons
+PITX3	Dopaminergic neurons
+CFTR	Ductal cells
+HNF1B	Ductal cells
+KRT20	Ductal cells
+MUC1	Ductal cells
+ONECUT1	Ductal cells
+AMBP	Ductal cells
+HHEX	Ductal cells
+ANXA4	Ductal cells
+SPP1	Ductal cells
+PDX1	Ductal cells
+CFB	Ductal cells
+GDF15	Ductal cells
+MMP7	Ductal cells
+DEFB1	Ductal cells
+SERPING1	Ductal cells
+TSPAN8	Ductal cells
+CLDN10	Ductal cells
+SLPI	Ductal cells
+SERPINA5	Ductal cells
+PIGR	Ductal cells
+CLDN1	Ductal cells
+LGALS4	Ductal cells
+PERP	Ductal cells
+PDLIM3	Ductal cells
+WFDC2	Ductal cells
+SLC3A1	Ductal cells
+AQP1	Ductal cells
+ALDH1A3	Ductal cells
+VTCN1	Ductal cells
+KRT19	Ductal cells
+TFF1	Ductal cells
+TFF2	Ductal cells
+KRT7	Ductal cells
+CLDN4	Ductal cells
+LAMB3	Ductal cells
+TACSTD2	Ductal cells
+CCL2	Ductal cells
+CXCL2	Ductal cells
+CTSH	Ductal cells
+S100A10	Ductal cells
+MYC	Embryonic stem cells
+FOXD3	Embryonic stem cells
+POU5F1	Embryonic stem cells
+FUT4	Embryonic stem cells
+ITGA4	Embryonic stem cells
+CDH1	Embryonic stem cells
+ABCG2	Embryonic stem cells
+PODXL	Embryonic stem cells
+ZIC1	Embryonic stem cells
+PRDM5	Embryonic stem cells
+ANO6	Embryonic stem cells
+CDK8	Embryonic stem cells
+SLC46A2	Embryonic stem cells
+ZSCAN10	Embryonic stem cells
+KCNIP3	Embryonic stem cells
+PCGF2	Embryonic stem cells
+NANOG	Embryonic stem cells
+GAL	Embryonic stem cells
+PITX2	Embryonic stem cells
+BCL3	Embryonic stem cells
+SALL4	Embryonic stem cells
+DPPA5A	Embryonic stem cells
+TDGF1	Embryonic stem cells
+HOXB5	Embryonic stem cells
+SUMO2	Embryonic stem cells
+BNIP3	Embryonic stem cells
+GJC1	Embryonic stem cells
+TRIM6	Embryonic stem cells
+PUM2	Embryonic stem cells
+GJB4	Embryonic stem cells
+SOX15	Embryonic stem cells
+UTF1	Embryonic stem cells
+GJB1	Embryonic stem cells
+LMNA	Embryonic stem cells
+FBXO15	Embryonic stem cells
+PML	Embryonic stem cells
+THY1	Embryonic stem cells
+KIT	Embryonic stem cells
+EPCAM	Embryonic stem cells
+CD9	Embryonic stem cells
+ITGB1	Embryonic stem cells
+PROM1	Embryonic stem cells
+PECAM1	Embryonic stem cells
+ITGA6	Embryonic stem cells
+FZD1	Embryonic stem cells
+SOX2	Embryonic stem cells
+KLF4	Embryonic stem cells
+ZFP42	Embryonic stem cells
+ZFX	Embryonic stem cells
+TAF8	Embryonic stem cells
+HMGA2	Embryonic stem cells
+NACC1	Embryonic stem cells
+NR6A1	Embryonic stem cells
+STAT3	Embryonic stem cells
+LEF1	Embryonic stem cells
+L1TD1	Embryonic stem cells
+GDF3	Embryonic stem cells
+DPPA4	Embryonic stem cells
+DPPA2	Embryonic stem cells
+DPPA3	Embryonic stem cells
+SMAD1	Embryonic stem cells
+SMAD5	Embryonic stem cells
+SMAD9	Embryonic stem cells
+SMAD4	Embryonic stem cells
+SMAD2	Embryonic stem cells
+SMAD3	Embryonic stem cells
+CTNNB1	Embryonic stem cells
+HHEX	Embryonic stem cells
+HES1	Embryonic stem cells
+ESRRB	Embryonic stem cells
+DNMT3B	Embryonic stem cells
+TRIM28	Embryonic stem cells
+PIWIL1	Embryonic stem cells
+PIWIL2	Embryonic stem cells
+PIWIL4	Embryonic stem cells
+LIFR	Embryonic stem cells
+IL6ST	Embryonic stem cells
+ZSCAN4D	Embryonic stem cells
+PECAM1	Endothelial cells
+ICAM1	Endothelial cells
+ITGB3	Endothelial cells
+SELE	Endothelial cells
+VCAM1	Endothelial cells
+MCAM	Endothelial cells
+PROCR	Endothelial cells
+TEK	Endothelial cells
+FLT4	Endothelial cells
+APLN	Endothelial cells
+VWF	Endothelial cells
+NOS3	Endothelial cells
+THBD	Endothelial cells
+PLVAP	Endothelial cells
+ACKR1	Endothelial cells
+SLCO1C1	Endothelial cells
+TMEM100	Endothelial cells
+ADGRF5	Endothelial cells
+ABCB1A	Endothelial cells
+ABCG2	Endothelial cells
+PODXL	Endothelial cells
+NOSTRIN	Endothelial cells
+MFSD2A	Endothelial cells
+ACVRL1	Endothelial cells
+AQP1	Endothelial cells
+MYLK	Endothelial cells
+RASIP1	Endothelial cells
+FLI1	Endothelial cells
+TIE1	Endothelial cells
+APLNR	Endothelial cells
+NRP2	Endothelial cells
+ADAMTS1	Endothelial cells
+RPRM	Endothelial cells
+FABP4	Endothelial cells
+GPIHBP1	Endothelial cells
+FHL2	Endothelial cells
+LOX	Endothelial cells
+KLK1	Endothelial cells
+ADORA2A	Endothelial cells
+ARAP3	Endothelial cells
+ARHGEF15	Endothelial cells
+CARD10	Endothelial cells
+CLEC14A	Endothelial cells
+DLL4	Endothelial cells
+ESM1	Endothelial cells
+EXOC3L	Endothelial cells
+GIMAP5	Endothelial cells
+GJA4	Endothelial cells
+MMRN2	Endothelial cells
+NOTCH4	Endothelial cells
+NPR1	Endothelial cells
+PRKCH	Endothelial cells
+RASGRP3	Endothelial cells
+ROBO4	Endothelial cells
+SCARF1	Endothelial cells
+SOX18	Endothelial cells
+SOX7	Endothelial cells
+SPNS2	Endothelial cells
+THSD1	Endothelial cells
+APOLD1	Endothelial cells
+EMP1	Endothelial cells
+CD36	Endothelial cells
+RNASE1	Endothelial cells
+CTGF	Endothelial cells
+HYAL2	Endothelial cells
+CLEC4G	Endothelial cells
+GPR182	Endothelial cells
+F8	Endothelial cells
+RBP7	Endothelial cells
+CALCRL	Endothelial cells
+FOXF1	Endothelial cells
+CASZ1	Endothelial cells
+AQP7	Endothelial cells
+TCF15	Endothelial cells
+CD300LG	Endothelial cells
+BTNL9	Endothelial cells
+MEOX2	Endothelial cells
+ERG	Endothelial cells
+HEXIM1	Endothelial cells
+GLYCAM1	Endothelial cells
+CD55	Endothelial cells
+MMRN1	Endothelial cells
+C7	Endothelial cells
+RAMP3	Endothelial cells
+VEGFC	Endothelial cells
+GJA5	Endothelial cells
+HEY1	Endothelial cells
+RND1	Endothelial cells
+BDP1	Endothelial cells
+CD46	Endothelial cells
+MEOX1	Endothelial cells
+CCL19	Endothelial cells
+CLCA3A1	Endothelial cells
+MADCAM1	Endothelial cells
+CYP1B1	Endothelial cells
+IRX3	Endothelial cells
+BIRC2	Endothelial cells
+LYVE1	Endothelial cells
+SEMA3D	Endothelial cells
+SLCO1A4	Endothelial cells
+EMCN	Endothelial cells
+WFDC1	Endothelial cells
+ADGRL4	Endothelial cells
+VWA1	Endothelial cells
+ECE1	Endothelial cells
+PTPRB	Endothelial cells
+CLDN5	Endothelial cells
+CAR4	Endothelial cells
+TBX1	Endothelial cells
+SEMA7A	Endothelial cells
+FOXF2	Endothelial cells
+PDGFB	Endothelial cells
+ECSCR	Endothelial cells
+ELK3	Endothelial cells
+CDH5	Endothelial cells
+PLEC	Endothelial cells
+STAB1	Endothelial cells
+TGFBR2	Endothelial cells
+CD93	Endothelial cells
+CXCL1	Endothelial cells
+LY6C1	Endothelial cells
+RGS5	Endothelial cells
+SLC7A5	Endothelial cells
+ENG	Endothelial cells
+KDR	Endothelial cells
+SLC2A1	Endothelial cells
+EGFL7	Endothelial cells
+FLT1	Endothelial cells
+EPAS1	Endothelial cells
+EDNRB	Endothelial cells
+KCNJ8	Endothelial cells
+CD82	Endothelial cells
+CHST1	Endothelial cells
+PLAC8	Endothelial cells
+TSPAN8	Endothelial cells
+ETS1	Endothelial cells
+CD34	Endothelial cells
+PDPN	Endothelial cells
+PROX1	Endothelial cells
+EHD3	Endothelial cells
+SRGN	Endothelial cells
+S100A10	Endothelial cells
+CLIC4	Endothelial cells
+LY6A	Endothelial cells
+USHBP1	Endothelial cells
+MYF6	Endothelial cells
+OIT3	Endothelial cells
+IL1A	Endothelial cells
+BMP2	Endothelial cells
+C1QTNF1	Endothelial cells
+PCDH12	Endothelial cells
+DPP4	Endothelial cells
+IGFBP7	Endothelial cells
+PALMD	Endothelial cells
+POSTN	Endothelial cells
+BMX	Endothelial cells
+SLC38A5	Endothelial cells
+XDH	Endothelial cells
+SPARC	Endothelial cells
+MGLL	Endothelial cells
+SLC9A3R2	Endothelial cells
+RGCC	Endothelial cells
+ICAM2	Endothelial cells
+MGP	Endothelial cells
+SPARCL1	Endothelial cells
+TM4SF1	Endothelial cells
+ID1	Endothelial cells
+CD9	Endothelial cells
+SRPX	Endothelial cells
+ID3	Endothelial cells
+CAV1	Endothelial cells
+GNG11	Endothelial cells
+HSPG2	Endothelial cells
+CLEC1B	Endothelial cells
+S100A13	Endothelial cells
+CRHBP	Endothelial cells
+IFI27	Endothelial cells
+SGK1	Endothelial cells
+DNASE1L3	Endothelial cells
+LIFR	Endothelial cells
+CDKN1C	Endothelial cells
+INMT	Endothelial cells
+PTGDS	Endothelial cells
+TIMP3	Endothelial cells
+GPM6A	Endothelial cells
+FAM167B	Endothelial cells
+LTC4S	Endothelial cells
+STAB2	Endothelial cells
+ITGA5	Endothelial cells (aorta)
+TMTC2	Endothelial cells (aorta)
+NR1D1	Endothelial cells (aorta)
+HFE	Endothelial cells (aorta)
+PKN3	Endothelial cells (aorta)
+SULT1A1	Endothelial cells (aorta)
+TMTC1	Endothelial cells (aorta)
+SHE	Endothelial cells (aorta)
+ITGBL1	Endothelial cells (aorta)
+GRASP	Endothelial cells (aorta)
+ENPP4	Endothelial cells (aorta)
+ARHGEF15	Endothelial cells (aorta)
+TMEM184B	Endothelial cells (aorta)
+FOXC2	Endothelial cells (aorta)
+DHH	Endothelial cells (aorta)
+DENND5B	Endothelial cells (aorta)
+KAZALD1	Endothelial cells (aorta)
+FGD5	Endothelial cells (aorta)
+FAS	Endothelial cells (aorta)
+ITGB4	Endothelial cells (aorta)
+EMILIN1	Endothelial cells (aorta)
+MICAL2	Endothelial cells (aorta)
+NKX2-3	Endothelial cells (aorta)
+STXBP6	Endothelial cells (aorta)
+SYNPO	Endothelial cells (aorta)
+ATP2A3	Endothelial cells (aorta)
+GIMAP4	Endothelial cells (aorta)
+CMKLR1	Endothelial cells (aorta)
+ITGA9	Endothelial cells (aorta)
+SMAD6	Endothelial cells (aorta)
+EFNB2	Endothelial cells (aorta)
+LOX	Endothelial cells (aorta)
+FZD4	Endothelial cells (aorta)
+NTN1	Endothelial cells (aorta)
+NPR1	Endothelial cells (aorta)
+ARL4D	Endothelial cells (aorta)
+HEY2	Endothelial cells (aorta)
+HYAL2	Endothelial cells (aorta)
+FKBP7	Endothelial cells (aorta)
+NXN	Endothelial cells (aorta)
+PDIA5	Endothelial cells (aorta)
+APH1B	Endothelial cells (aorta)
+GSTT1	Endothelial cells (aorta)
+SOX18	Endothelial cells (aorta)
+WBP1L	Endothelial cells (aorta)
+LAMB2	Endothelial cells (aorta)
+CHST12	Endothelial cells (aorta)
+P3H3	Endothelial cells (aorta)
+KLK10	Endothelial cells (aorta)
+MALL	Endothelial cells (aorta)
+CLEC1A	Endothelial cells (aorta)
+MARVELD1	Endothelial cells (aorta)
+FAM198B	Endothelial cells (aorta)
+THBD	Endothelial cells (aorta)
+NOS3	Endothelial cells (aorta)
+TNS2	Endothelial cells (aorta)
+ATL2	Endothelial cells (aorta)
+ACKR3	Endothelial cells (aorta)
+COL4A4	Endothelial cells (aorta)
+CALCRL	Endothelial cells (aorta)
+CAR8	Endothelial cells (aorta)
+COL4A3	Endothelial cells (aorta)
+PER3	Endothelial cells (aorta)
+STAB1	Endothelial cells (aorta)
+CYP1B1	Endothelial cells (aorta)
+EPHX2	Endothelial cells (aorta)
+KLK8	Endothelial cells (aorta)
+BACE2	Endothelial cells (aorta)
+BMP6	Endothelial cells (aorta)
+ADH1	Endothelial cells (aorta)
+H2-Q6	Endothelial cells (aorta)
+SULF1	Endothelial cells (aorta)
+CPQ	Endothelial cells (aorta)
+PI16	Endothelial cells (aorta)
+AMIGO2	Endothelial cells (aorta)
+PTPRJ	Endothelial cells (aorta)
+TRIM47	Endothelial cells (aorta)
+LMCD1	Endothelial cells (aorta)
+PDE3A	Endothelial cells (aorta)
+BMX	Endothelial cells (aorta)
+PROCR	Endothelial cells (aorta)
+SMOC1	Endothelial cells (aorta)
+CRACR2B	Endothelial cells (aorta)
+GJA5	Endothelial cells (aorta)
+BMP4	Endothelial cells (aorta)
+SOD3	Endothelial cells (aorta)
+ADH7	Endothelial cells (aorta)
+PCOLCE2	Endothelial cells (aorta)
+PTGIS	Endothelial cells (aorta)
+ACE	Endothelial cells (aorta)
+GXYLT2	Endothelial cells (aorta)
+GKN3	Endothelial cells (aorta)
+CYTL1	Endothelial cells (aorta)
+EHD3	Endothelial cells (aorta)
+ABCG2	Endothelial cells (blood brain barrier)
+GFAP	Endothelial cells (blood brain barrier)
+GPR37L1	Endothelial cells (blood brain barrier)
+SLC13A4	Endothelial cells (blood brain barrier)
+SLC19A1	Endothelial cells (blood brain barrier)
+SLC23A2	Endothelial cells (blood brain barrier)
+SLC38A3	Endothelial cells (blood brain barrier)
+TNFRSF19	Endothelial cells (blood brain barrier)
+TNFRSF21	Endothelial cells (blood brain barrier)
+FOXF2	Endothelial cells (blood brain barrier)
+FOXL2	Endothelial cells (blood brain barrier)
+FOXQ1	Endothelial cells (blood brain barrier)
+LEF1	Endothelial cells (blood brain barrier)
+PPARD	Endothelial cells (blood brain barrier)
+ZFP551	Endothelial cells (blood brain barrier)
+ZIC3	Endothelial cells (blood brain barrier)
+ALCAM	Endothelial cells (blood brain barrier)
+GFRA3	Enteric glia cells
+MPZ	Enteric glia cells
+LGI4	Enteric glia cells
+RGS16	Enteric glia cells
+ALDH1A1	Enteric glia cells
+L1CAM	Enteric glia cells
+CXCL14	Enteric glia cells
+DKK3	Enteric glia cells
+INTS6	Enteric glia cells
+DHRS3	Enteric glia cells
+SOX10	Enteric glia cells
+GFAP	Enteric glia cells
+S100B	Enteric glia cells
+NOS2	Enteric glia cells
+FOXD3	Enteric glia cells
+ALDH1A3	Enteric glia cells
+SLC18A2	Enteric glia cells
+HIVEP3	Enteric neurons
+PLEKHA5	Enteric neurons
+IGF2BP3	Enteric neurons
+ARHGAP26	Enteric neurons
+TTBK2	Enteric neurons
+ASTN1	Enteric neurons
+CACNA1E	Enteric neurons
+TUB	Enteric neurons
+FILIP1	Enteric neurons
+GCNT2	Enteric neurons
+VEZT	Enteric neurons
+RET	Enteric neurons
+AHDC1	Enteric neurons
+MAP6	Enteric neurons
+RGMB	Enteric neurons
+FBXO7	Enteric neurons
+PPP2R5B	Enteric neurons
+SNX21	Enteric neurons
+FSTL5	Enteric neurons
+LIX1	Enteric neurons
+RGS3	Enteric neurons
+CYTH3	Enteric neurons
+TSHZ1	Enteric neurons
+STXBP5	Enteric neurons
+ATF5	Enteric neurons
+DMKN	Enteric neurons
+CACNA1B	Enteric neurons
+PIK3CA	Enteric neurons
+ZDHHC2	Enteric neurons
+MYL1	Enteric neurons
+EML5	Enteric neurons
+MFSD6	Enteric neurons
+SCN7A	Enteric neurons
+ARHGEF28	Enteric neurons
+HAND2	Enteric neurons
+VSTM2L	Enteric neurons
+FAM19A5	Enteric neurons
+EFNA5	Enteric neurons
+HOXB4	Enteric neurons
+TLX2	Enteric neurons
+GOLGA7B	Enteric neurons
+SLC18A3	Enteric neurons
+TOX	Enteric neurons
+CELF6	Enteric neurons
+GPR22	Enteric neurons
+PLCE1	Enteric neurons
+CYB561	Enteric neurons
+GFRA2	Enteric neurons
+FLOT2	Enteric neurons
+SLC7A14	Enteric neurons
+JPH3	Enteric neurons
+CASZ1	Enteric neurons
+TAC1	Enteric neurons
+SCN3A	Enteric neurons
+CHRNA3	Enteric neurons
+PARVA	Enteric neurons
+SLC10A4	Enteric neurons
+TM4SF4	Enteric neurons
+FAM19A1	Enteric neurons
+SLC5A7	Enteric neurons
+PHOX2B	Enteric neurons
+PIRT	Enteric neurons
+HOXB5	Enteric neurons
+HOXA5	Enteric neurons
+GAL	Enteric neurons
+CARTPT	Enteric neurons
+NMU	Enteric neurons
+VIP	Enteric neurons
+CCK	Enteric neurons
+REG4	Enterochromaffin cells
+AFP	Enterochromaffin cells
+SLC18A1	Enterochromaffin cells
+LMX1A	Enterochromaffin cells
+TRPA1	Enterochromaffin cells
+FGF1	Enterochromaffin cells
+PIEZO2	Enterochromaffin cells
+ADGRG4	Enterochromaffin cells
+ADM	Enterochromaffin cells
+TPH1	Enterochromaffin cells
+CRH	Enterochromaffin cells
+GJB1	Enterochromaffin cells
+GATA4	Enterocytes
+LYPD8	Enterocytes
+NLRP6	Enterocytes
+KRT20	Enterocytes
+MYO1A	Enterocytes
+PPARG	Enterocytes
+SLC15A1	Enterocytes
+FLOT2	Enterocytes
+APOBEC1	Enterocytes
+PLIN3	Enterocytes
+SLC10A2	Enterocytes
+SLC40A1	Enterocytes
+SLC5A1	Enterocytes
+NPC1L1	Enterocytes
+FABP1	Enterocytes
+ANPEP	Enterocytes
+CPS1	Enterocytes
+DPP4	Enterocytes
+SLC2A5	Enterocytes
+ALPI	Enterocytes
+FABP2	Enterocytes
+LCT	Enterocytes
+VIL1	Enterocytes
+CLCA4B	Enterocytes
+FUOM	Enterocytes
+FAHD1	Enterocytes
+OTC	Enterocytes
+CDH17	Enterocytes
+KHK	Enterocytes
+ABHD11	Enterocytes
+OLFR77	Enterocytes
+VDR	Enterocytes
+EHF	Enterocytes
+CDC42EP5	Enterocytes
+DEFA24	Enterocytes
+CASP6	Enterocytes
+HNF4A	Enterocytes
+AQP1	Enterocytes
+TMEM45B	Enterocytes
+RGMB	Enterocytes
+PDHA1	Enterocytes
+CDO1	Enterocytes
+ELF3	Enterocytes
+KRTCAP3	Enterocytes
+DEGS2	Enterocytes
+TMC4	Enterocytes
+PRSS32	Enterocytes
+PPP1R14D	Enterocytes
+TM4SF5	Enterocytes
+RNF186	Enterocytes
+CEACAM1	Enterocytes
+KLF5	Enterocytes
+CDX1	Enterocytes
+CDX2	Enterocytes
+CLDN15	Enterocytes
+ASCL2	Enterocytes
+SMOC2	Enterocytes
+PRR15L	Enterocytes
+FBP2	Enterocytes
+SDSL	Enterocytes
+GKN3	Enterocytes
+FERMT1	Enterocytes
+ALDOB	Enterocytes
+MUC13	Enterocytes
+PHGR1	Enterocytes
+PRAP1	Enterocytes
+CCL25	Enterocytes
+LGALS2	Enterocytes
+SPON2	Enterocytes
+ASPN	Enterocytes
+CTRB1	Enterocytes
+CD55	Enterocytes
+CDH19	Enterocytes
+SLC35F1	Enterocytes
+G0S2	Enterocytes
+GULP1	Enterocytes
+NKD2	Enterocytes
+COL18A1	Enterocytes
+SOX10	Enterocytes
+COL20A1	Enterocytes
+PMEPA1	Enterocytes
+GFRA2	Enterocytes
+ART3	Enterocytes
+SLC26A2	Enterocytes
+CAR1	Enterocytes
+TRY4	Enterocytes
+TRY5	Enterocytes
+PRSS2	Enterocytes
+L1CAM	Enterocytes
+SLC11A2	Enterocytes
+SLC26A3	Enterocytes
+APOA1	Enterocytes
+APOA4	Enterocytes
+CBR1	Enterocytes
+EPHX2	Enterocytes
+GSTM3	Enterocytes
+ADH6A	Enterocytes
+CREB3L3	Enterocytes
+MEP1A	Enterocytes
+FGF15	Enterocytes
+MUC3	Enterocytes
+CLEC2H	Enterocytes
+FABP6	Enterocytes
+RBP2	Enterocytes
+APOB	Enterocytes
+MTTP	Enterocytes
+SLC2A2	Enterocytes
+APOC3	Enterocytes
+CD36	Enterocytes
+REG3A	Enterocytes
+ISX	Enterocytes
+S100G	Enterocytes
+SLC28A1	Enterocytes
+SLC28A2	Enterocytes
+SLC30A10	Enterocytes
+SLC51B	Enterocytes
+VNN1	Enterocytes
+SLC23A1	Enterocytes
+TREH	Enterocytes
+ABCC2	Enterocytes
+ABCG5	Enterocytes
+DMBT1	Enterocytes
+ABCG8	Enterocytes
+PLIN2	Enterocytes
+GSTA1	Enterocytes
+CYBRD1	Enterocytes
+ABCG2	Enterocytes
+NR1H4	Enterocytes
+DAB1	Enterocytes
+TM6SF2	Enterocytes
+NR5A2	Enterocytes
+PDZK1	Enterocytes
+ACSL5	Enterocytes
+AQP11	Enterocytes
+AQP7	Enterocytes
+AQP8	Enterocytes
+HMOX1	Enterocytes
+SLC39A5	Enterocytes
+SLC51A	Enterocytes
+TRPM6	Enterocytes
+MOGAT2	Enterocytes
+GLS	Enterocytes
+MAOA	Enterocytes
+DGAT1	Enterocytes
+DGAT2	Enterocytes
+NPSR1	Enteroendocrine cells
+FFAR3	Enteroendocrine cells
+SCN3A	Enteroendocrine cells
+NEUROG3	Enteroendocrine cells
+FFAR1	Enteroendocrine cells
+ARX	Enteroendocrine cells
+NKX2-2	Enteroendocrine cells
+SCT	Enteroendocrine cells
+CCK	Enteroendocrine cells
+GFRA3	Enteroendocrine cells
+VWA5B2	Enteroendocrine cells
+NEUROD1	Enteroendocrine cells
+SCGN	Enteroendocrine cells
+PCSK1	Enteroendocrine cells
+ISL1	Enteroendocrine cells
+FABP5	Enteroendocrine cells
+TAC1	Enteroendocrine cells
+RIMBP2	Enteroendocrine cells
+PAX6	Enteroendocrine cells
+GIP	Enteroendocrine cells
+GLP1R	Enteroendocrine cells
+PYY	Enteroendocrine cells
+GLP2R	Enteroendocrine cells
+GAST	Enteroendocrine cells
+NTS	Enteroendocrine cells
+SST	Enteroendocrine cells
+GPR119	Enteroendocrine cells
+GCG	Enteroendocrine cells
+CHGB	Enteroendocrine cells
+CPE	Enteroendocrine cells
+GAL	Enteroendocrine cells
+NUCB2	Enteroendocrine cells
+IAPP	Enteroendocrine cells
+GHRL	Enteroendocrine cells
+CHGA	Enteroendocrine cells
+TRPA1	Enteroendocrine cells
+ENPP2	Enteroendocrine cells
+AFP	Enteroendocrine cells
+VEGFA	Enteroendocrine cells
+FFAR4	Enteroendocrine cells
+MC4R	Enteroendocrine cells
+INSL5	Enteroendocrine cells
+SSTR2	Enteroendocrine cells
+ALCAM	Enteroendocrine cells
+TAS1R2	Enteroendocrine cells
+TAS1R3	Enteroendocrine cells
+GNAT3	Enteroendocrine cells
+C3AR1	Eosinophils
+FUT4	Eosinophils
+C5AR1	Eosinophils
+CXCR3	Eosinophils
+CCR1	Eosinophils
+CCR3	Eosinophils
+CD244	Eosinophils
+PTGDR2	Eosinophils
+S100A9	Eosinophils
+PGLYRP1	Eosinophils
+LTC4S	Eosinophils
+EAR1	Eosinophils
+EAR2	Eosinophils
+EPX	Eosinophils
+CD69	Eosinophils
+IL5	Eosinophils
+PRG2	Eosinophils
+PRG3	Eosinophils
+CPA3	Eosinophils
+IKZF2	Eosinophils
+CCL11	Eosinophils
+CCL5	Eosinophils
+CSF2	Eosinophils
+IL5RA	Eosinophils
+SIGLECF	Eosinophils
+FOXJ1	Ependymal cells
+TRIM71	Ependymal cells
+SIX3	Ependymal cells
+USP18	Ependymal cells
+CETN4	Ependymal cells
+AQP4	Ependymal cells
+CELSR2	Ependymal cells
+AQP1	Ependymal cells
+GFAP	Ependymal cells
+ENKUR	Ependymal cells
+FAM216B	Ependymal cells
+KRT15	Ependymal cells
+CATIP	Ependymal cells
+DNAH12	Ependymal cells
+FAM166B	Ependymal cells
+IQCG	Ependymal cells
+SPEF2	Ependymal cells
+RABL2	Ependymal cells
+MYO16	Ependymal cells
+ODF3B	Ependymal cells
+PLXNB2	Ependymal cells
+TEKT1	Ependymal cells
+CHEK2	Ependymal cells
+CROCC	Ependymal cells
+NME9	Ependymal cells
+CFAP126	Ependymal cells
+MEIG1	Ependymal cells
+HSPA2	Ependymal cells
+CFAP65	Ependymal cells
+LRRC23	Ependymal cells
+TEKT4	Ependymal cells
+CALML4	Ependymal cells
+PIFO	Ependymal cells
+CRYGN	Ependymal cells
+HDC	Ependymal cells
+FAM183B	Ependymal cells
+PCP4L1	Ependymal cells
+DYNLRB2	Ependymal cells
+TMEM107	Ependymal cells
+RIIAD1	Ependymal cells
+TMEM212	Ependymal cells
+RSPH1	Ependymal cells
+CCDC153	Ependymal cells
+S100B	Ependymal cells
+AK7	Ependymal cells
+RARRES2	Ependymal cells
+PVALB	Ependymal cells
+ANGPTL2	Ependymal cells
+CFAP54	Ependymal cells
+STOML3	Ependymal cells
+PLTP	Ependymal cells
+SSPO	Ependymal cells
+EFNB3	Ependymal cells
+MYB	Ependymal cells
+RFX2	Ependymal cells
+ZMYND10	Ependymal cells
+AK8	Ependymal cells
+CFAP44	Ependymal cells
+TM4SF1	Ependymal cells
+NANOG	Epiblast cells
+POU5F1	Epiblast cells
+ERAS	Epiblast cells
+CDH1	Epiblast cells
+EPCAM	Epiblast cells
+CLDN6	Epiblast cells
+CLDN7	Epiblast cells
+FGF15	Epiblast cells
+SLC35D3	Epiblast cells
+TDGF1	Epiblast cells
+CXCL12	Epiblast cells
+SOX11	Epiblast cells
+LEF1	Epiblast cells
+CRMP1	Epiblast cells
+DPYSL5	Epiblast cells
+BCL11A	Epiblast cells
+INA	Epiblast cells
+MFAP2	Epiblast cells
+CEACAM1	Epithelial cells
+ST6GAL1	Epithelial cells
+ITGB4	Epithelial cells
+IL1R1	Epithelial cells
+PROM1	Epithelial cells
+CDH1	Epithelial cells
+KRT1	Epithelial cells
+KRT7	Epithelial cells
+MUC1	Epithelial cells
+ICAM1	Epithelial cells
+KRT14	Epithelial cells
+KRT5	Epithelial cells
+ITGAL	Epithelial cells
+CD2	Epithelial cells
+ITGA5	Epithelial cells
+ITGA4	Epithelial cells
+ITGA2	Epithelial cells
+KRT16	Epithelial cells
+SCNN1A	Epithelial cells
+KRT15	Epithelial cells
+ITGA1	Epithelial cells
+KRT2	Epithelial cells
+SCNN1B	Epithelial cells
+SCNN1G	Epithelial cells
+BOK	Epithelial cells
+NKD1	Epithelial cells
+FZD6	Epithelial cells
+DKK3	Epithelial cells
+NRP2	Epithelial cells
+KAP	Epithelial cells
+SFRP5	Epithelial cells
+RAI14	Epithelial cells
+DEFB1	Epithelial cells
+KLK1	Epithelial cells
+AGR2	Epithelial cells
+APOA1	Epithelial cells
+GPA33	Epithelial cells
+ANPEP	Epithelial cells
+CRYBA1	Epithelial cells
+BMI1	Epithelial cells
+BRCA1	Epithelial cells
+MUC16	Epithelial cells
+CEACAM5	Epithelial cells
+CTSE	Epithelial cells
+SCGB1A1	Epithelial cells
+EXO1	Epithelial cells
+FOXA1	Epithelial cells
+GABRP	Epithelial cells
+GGT1	Epithelial cells
+SFN	Epithelial cells
+KRT13	Epithelial cells
+LTF	Epithelial cells
+SLC46A2	Epithelial cells
+KLK10	Epithelial cells
+P2RX7	Epithelial cells
+CDKN2A	Epithelial cells
+CDH3	Epithelial cells
+PSCA	Epithelial cells
+AGER	Epithelial cells
+ZFP42	Epithelial cells
+SPRR1B	Epithelial cells
+TTR	Epithelial cells
+TM4SF20	Epithelial cells
+TSTD1	Epithelial cells
+SYCN	Epithelial cells
+HBEGF	Epithelial cells
+PIGR	Epithelial cells
+PRSS32	Epithelial cells
+MUC13	Epithelial cells
+SELENBP1	Epithelial cells
+ELF3	Epithelial cells
+MUC3	Epithelial cells
+OIT1	Epithelial cells
+TSPAN1	Epithelial cells
+GUCA2A	Epithelial cells
+PHGR1	Epithelial cells
+LYPD8	Epithelial cells
+LGALS4	Epithelial cells
+GATA2	Epithelial cells
+SEC23B	Epithelial cells
+TSPAN8	Epithelial cells
+DLX5	Epithelial cells
+DGAT2	Epithelial cells
+ITPR2	Epithelial cells
+THRSP	Epithelial cells
+PLA2G4A	Epithelial cells
+SLC25A48	Epithelial cells
+PGR	Epithelial cells
+ZFP322A	Epithelial cells
+FERMT1	Epithelial cells
+ZFP704	Epithelial cells
+EHF	Epithelial cells
+PLEKHS1	Epithelial cells
+CDKL1	Epithelial cells
+MECOM	Epithelial cells
+MSX1	Epithelial cells
+RNF128	Epithelial cells
+ANLN	Epithelial cells
+CKAP2	Epithelial cells
+HMMR	Epithelial cells
+KIF15	Epithelial cells
+CKAP2L	Epithelial cells
+KIF20B	Epithelial cells
+HIRIP3	Epithelial cells
+INCENP	Epithelial cells
+KIF23	Epithelial cells
+PRC1	Epithelial cells
+ECT2	Epithelial cells
+CXCL10	Epithelial cells
+CCL20	Epithelial cells
+CXCL17	Epithelial cells
+PRG4	Epithelial cells
+ALOX15	Epithelial cells
+F5	Epithelial cells
+EMILIN2	Epithelial cells
+SAA3	Epithelial cells
+SPRR2A1	Epithelial cells
+SPTSSB	Epithelial cells
+FMO5	Epithelial cells
+IVL	Epithelial cells
+VSIG2	Epithelial cells
+AQP3	Epithelial cells
+PAQR5	Epithelial cells
+EPCAM	Epithelial cells
+CLDN1	Epithelial cells
+OCLN	Epithelial cells
+MUC5AC	Epithelial cells
+GHRL	Epsilon cells
+ANXA13	Epsilon cells
+PHGR1	Epsilon cells
+BMP4	Epsilon cells
+HMGCS2	Epsilon cells
+TM4SF5	Epsilon cells
+OLFML3	Epsilon cells
+ASGR1	Epsilon cells
+COX6A2	Epsilon cells
+NPY1R	Epsilon cells
+SLC7A9	Epsilon cells
+GRAMD2	Epsilon cells
+BHMT	Epsilon cells
+OPRK1	Epsilon cells
+PTGER4	Epsilon cells
+ITGA4	Epsilon cells
+EYA4	Epsilon cells
+XYLB	Epsilon cells
+ELOVL2	Epsilon cells
+AFF3	Epsilon cells
+CORIN	Epsilon cells
+MYO1A	Epsilon cells
+HRH2	Epsilon cells
+CALCR	Epsilon cells
+SLC6A16	Epsilon cells
+PCSK6	Epsilon cells
+ADAMTS6	Epsilon cells
+COL22A1	Epsilon cells
+FAM124A	Epsilon cells
+COL12A1	Epsilon cells
+CD109	Epsilon cells
+THSD4	Epsilon cells
+ARX	Epsilon cells
+NKX2-2	Epsilon cells
+ACSL1	Epsilon cells
+FRZB	Epsilon cells
+MS4A8A	Epsilon cells
+VTN	Epsilon cells
+APOH	Epsilon cells
+SPINK1	Epsilon cells
+VSTM2L	Epsilon cells
+SPTSSB	Epsilon cells
+S100A6	Epsilon cells
+KRT8	Epsilon cells
+CGA	Erythroblasts
+TFRC	Erythroblasts
+CDH1	Erythroblasts
+WRN	Erythroblasts
+CD44	Erythroblasts
+KLF1	Erythroblasts
+BCL11A	Erythroblasts
+BPGM	Erythroblasts
+ETS1	Erythroblasts
+EPOR	Erythroblasts
+IGBP1	Erythroblasts
+TFR2	Erythroblasts
+GYPA	Erythroblasts
+LMNB1	Erythroblasts
+LRP8	Erythroblasts
+GRSF1	Erythroblasts
+USE1	Erythroblasts
+ITGB1	Erythroblasts
+CFP	Erythroblasts
+ENG	Erythroblasts
+KIT	Erythroblasts
+LMO2	Erythroblasts
+GATA1	Erythroblasts
+TAL1	Erythroblasts
+PIEZO1	Erythroblasts
+HBB-BS	Erythroid-like and erythroid precursor cells
+ALAS2	Erythroid-like and erythroid precursor cells
+HEXA	Erythroid-like and erythroid precursor cells
+AQP1	Erythroid-like and erythroid precursor cells
+CCNA2	Erythroid-like and erythroid precursor cells
+PKLR	Erythroid-like and erythroid precursor cells
+LOX	Erythroid-like and erythroid precursor cells
+ARG1	Erythroid-like and erythroid precursor cells
+CEACAM1	Erythroid-like and erythroid precursor cells
+CD36	Erythroid-like and erythroid precursor cells
+GYPA	Erythroid-like and erythroid precursor cells
+THBS1	Erythroid-like and erythroid precursor cells
+ITGA4	Erythroid-like and erythroid precursor cells
+FECH	Erythroid-like and erythroid precursor cells
+EPOR	Erythroid-like and erythroid precursor cells
+KIT	Erythroid-like and erythroid precursor cells
+BPGM	Erythroid-like and erythroid precursor cells
+DCAF12	Erythroid-like and erythroid precursor cells
+HEMGN	Erythroid-like and erythroid precursor cells
+HMBS	Erythroid-like and erythroid precursor cells
+NCOA4	Erythroid-like and erythroid precursor cells
+RBM38	Erythroid-like and erythroid precursor cells
+UCP2	Erythroid-like and erythroid precursor cells
+UBB	Erythroid-like and erythroid precursor cells
+TMCC2	Erythroid-like and erythroid precursor cells
+SLC4A1	Erythroid-like and erythroid precursor cells
+SLC25A39	Erythroid-like and erythroid precursor cells
+SLC25A37	Erythroid-like and erythroid precursor cells
+FOSB	Erythroid-like and erythroid precursor cells
+GH	Erythroid-like and erythroid precursor cells
+HTATSF1	Erythroid-like and erythroid precursor cells
+EPB41	Erythroid-like and erythroid precursor cells
+RSAD2	Erythroid-like and erythroid precursor cells
+CAR1	Erythroid-like and erythroid precursor cells
+COX6B2	Erythroid-like and erythroid precursor cells
+APOA1	Erythroid-like and erythroid precursor cells
+ASNS	Erythroid-like and erythroid precursor cells
+HIST1H2AO	Erythroid-like and erythroid precursor cells
+STFA1	Erythroid-like and erythroid precursor cells
+ALAD	Erythroid-like and erythroid precursor cells
+S100A9	Erythroid-like and erythroid precursor cells
+AHSG	Erythroid-like and erythroid precursor cells
+S100A8	Erythroid-like and erythroid precursor cells
+HBA-A2	Erythroid-like and erythroid precursor cells
+HBB-BT	Erythroid-like and erythroid precursor cells
+HBA-A1	Erythroid-like and erythroid precursor cells
+ERMAP	Erythroid-like and erythroid precursor cells
+KCNN4	Erythroid-like and erythroid precursor cells
+PAN3	Erythroid-like and erythroid precursor cells
+PFAS	Erythroid-like and erythroid precursor cells
+VAMP5	Erythroid-like and erythroid precursor cells
+HBB-BH1	Erythroid-like and erythroid precursor cells
+HBA-X	Erythroid-like and erythroid precursor cells
+PNPO	Erythroid-like and erythroid precursor cells
+TSPO2	Erythroid-like and erythroid precursor cells
+RHD	Erythroid-like and erythroid precursor cells
+KLF1	Erythroid-like and erythroid precursor cells
+CLDN13	Erythroid-like and erythroid precursor cells
+TSPAN33	Erythroid-like and erythroid precursor cells
+EPB42	Erythroid-like and erythroid precursor cells
+CD44	Erythroid-like and erythroid precursor cells
+CD47	Erythroid-like and erythroid precursor cells
+CD55	Erythroid-like and erythroid precursor cells
+CD59A	Erythroid-like and erythroid precursor cells
+EDRF1	Erythroid-like and erythroid precursor cells
+EPB41L2	Erythroid-like and erythroid precursor cells
+GYPC	Erythroid-like and erythroid precursor cells
+KEL	Erythroid-like and erythroid precursor cells
+RHAG	Erythroid-like and erythroid precursor cells
+THRB	Erythroid-like and erythroid precursor cells
+UROD	Erythroid-like and erythroid precursor cells
+UROS	Erythroid-like and erythroid precursor cells
+SNCA	Erythroid-like and erythroid precursor cells
+IL1R1	Fibroblasts
+FAP	Fibroblasts
+FLI1	Fibroblasts
+CELA1	Fibroblasts
+LOX	Fibroblasts
+PDGFRB	Fibroblasts
+P4HA1	Fibroblasts
+UCP2	Fibroblasts
+CCR2	Fibroblasts
+MS4A4C	Fibroblasts
+ITGAL	Fibroblasts
+EAR2	Fibroblasts
+FGR	Fibroblasts
+HCK	Fibroblasts
+ADGRE4	Fibroblasts
+TNFRSF1B	Fibroblasts
+PRKCD	Fibroblasts
+ENO3	Fibroblasts
+CD209A	Fibroblasts
+ABI3	Fibroblasts
+TREML4	Fibroblasts
+LY6I	Fibroblasts
+PIP4K2A	Fibroblasts
+CD300E	Fibroblasts
+SERPINB10	Fibroblasts
+CTHRC1	Fibroblasts
+TBX18	Fibroblasts
+COL15A1	Fibroblasts
+GJB2	Fibroblasts
+IL34	Fibroblasts
+EDN3	Fibroblasts
+SLC6A13	Fibroblasts
+VTN	Fibroblasts
+ITIH5	Fibroblasts
+LUM	Fibroblasts
+DPT	Fibroblasts
+POSTN	Fibroblasts
+PENK	Fibroblasts
+MMP14	Fibroblasts
+COL6A2	Fibroblasts
+FABP4	Fibroblasts
+ASPN	Fibroblasts
+ANGPTL2	Fibroblasts
+EFEMP1	Fibroblasts
+SCARA5	Fibroblasts
+IGFBP3	Fibroblasts
+COPZ2	Fibroblasts
+DPEP1	Fibroblasts
+ADAMTS5	Fibroblasts
+COL5A1	Fibroblasts
+CD248	Fibroblasts
+PI16	Fibroblasts
+PAMR1	Fibroblasts
+TNXB	Fibroblasts
+MMP2	Fibroblasts
+COL14A1	Fibroblasts
+CLEC3B	Fibroblasts
+IGFBP6	Fibroblasts
+AKR1C18	Fibroblasts
+COL5A2	Fibroblasts
+FBN1	Fibroblasts
+MFAP5	Fibroblasts
+FKBP10	Fibroblasts
+PALLD	Fibroblasts
+WIF1	Fibroblasts
+SNHG18	Fibroblasts
+CDH11	Fibroblasts
+PTCH1	Fibroblasts
+ARAP1	Fibroblasts
+FBLN2	Fibroblasts
+IGF1	Fibroblasts
+PRRX1	Fibroblasts
+FKBP7	Fibroblasts
+OAF	Fibroblasts
+COL6A3	Fibroblasts
+CTSK	Fibroblasts
+DKK1	Fibroblasts
+RARRES2	Fibroblasts
+GREM1	Fibroblasts
+SPON2	Fibroblasts
+TCF21	Fibroblasts
+PCSK6	Fibroblasts
+COL8A1	Fibroblasts
+ENTPD2	Fibroblasts
+MMP23	Fibroblasts
+CXCL3	Fibroblasts
+IL6	Fibroblasts
+CYP1B1	Fibroblasts
+COL13A1	Fibroblasts
+ADAMTS10	Fibroblasts
+CCL11	Fibroblasts
+ADAM33	Fibroblasts
+COL4A3	Fibroblasts
+COL4A4	Fibroblasts
+LAMA2	Fibroblasts
+ACKR3	Fibroblasts
+CD55	Fibroblasts
+FBLN7	Fibroblasts
+FIBIN	Fibroblasts
+THBS2	Fibroblasts
+NOV	Fibroblasts
+PTX3	Fibroblasts
+MMP3	Fibroblasts
+LRRK1	Fibroblasts
+HGF	Fibroblasts
+FRZB	Fibroblasts
+COL12A1	Fibroblasts
+COL7A1	Fibroblasts
+MEOX1	Fibroblasts
+PRG4	Fibroblasts
+PKD2	Fibroblasts
+CCL19	Fibroblasts
+NNMT	Fibroblasts
+FOXF1	Fibroblasts
+HAS1	Fibroblasts
+CTGF	Fibroblasts
+ERCC1	Fibroblasts
+WISP1	Fibroblasts
+TWIST2	Fibroblasts
+RIPK3	Fibroblasts
+DDR2	Fibroblasts
+ELN	Fibroblasts
+FN1	Fibroblasts
+HHIP	Fibroblasts
+FMO2	Fibroblasts
+COL1A2	Fibroblasts
+COL3A1	Fibroblasts
+VIM	Fibroblasts
+FSTL1	Fibroblasts
+GSN	Fibroblasts
+SPARC	Fibroblasts
+S100A4	Fibroblasts
+NT5E	Fibroblasts
+COL1A1	Fibroblasts
+MGP	Fibroblasts
+NOX4	Fibroblasts
+THY1	Fibroblasts
+CD40	Fibroblasts
+SERPINH1	Fibroblasts
+CD44	Fibroblasts
+PDGFRA	Fibroblasts
+EN1	Fibroblasts
+DCN	Fibroblasts
+CEBPB	Fibroblasts
+EGR1	Fibroblasts
+FOSB	Fibroblasts
+FOSL2	Fibroblasts
+HIF1A	Fibroblasts
+KLF2	Fibroblasts
+KLF4	Fibroblasts
+KLF6	Fibroblasts
+KLF9	Fibroblasts
+NFAT5	Fibroblasts
+NFATC1	Fibroblasts
+NFKB1	Fibroblasts
+NR4A1	Fibroblasts
+NR4A2	Fibroblasts
+PBX1	Fibroblasts
+RUNX1	Fibroblasts
+STAT3	Fibroblasts
+TCF4	Fibroblasts
+ZEB2	Fibroblasts
+LAMC1	Fibroblasts
+MEDAG	Fibroblasts
+MS4A4D	Fibroblasts
+LAMB1	Fibroblasts
+DKK3	Fibroblasts
+TBX20	Fibroblasts
+MDK	Fibroblasts
+GSTM5	Fibroblasts
+NGF	Fibroblasts
+VEGFA	Fibroblasts
+FGF2	Fibroblasts
+P4HTM	Fibroblasts
+CKAP4	Fibroblasts
+INMT	Fibroblasts
+CXCL14	Fibroblasts
+TTF1	Follicular cells
+SLC6A4	Follicular cells
+KCNIP3	Follicular cells
+TSHR	Follicular cells
+TG	Follicular cells
+IYD	Follicular cells
+ASGR1	Follicular cells
+PRLR	Follicular cells
+TPO	Follicular cells
+DIO1	Follicular cells
+SLC26A7	Follicular cells
+CDH16	Follicular cells
+SLC16A11	Follicular cells
+FOXE1	Follicular cells
+MUC1	Foveolar cells
+ANXA10	Foveolar cells
+MUC5AC	Foveolar cells
+TFF1	Foveolar cells
+FOXQ1	Foveolar cells
+SULT1C2	Foveolar cells
+PTGR1	Foveolar cells
+GSDMA2	Foveolar cells
+PLA2G1B	Foveolar cells
+CLPS	Foveolar cells
+GSTA1	Foveolar cells
+PGC	Foveolar cells
+SPRR2A1	Foveolar cells
+TFF2	Foveolar cells
+LGALS2	Foveolar cells
+PSCA	Foveolar cells
+SPRR2A3	Foveolar cells
+GKN2	Foveolar cells
+GKN1	Foveolar cells
+CLDN18	Foveolar cells
+KRT20	Foveolar cells
+LGALS4	Foveolar cells
+AKR1B10	Foveolar cells
+IL33	Foveolar cells
+SLC6A1	GABAergic neurons
+GABBR2	GABAergic neurons
+GAD1	GABAergic neurons
+GADD45B	GABAergic neurons
+PAX2	GABAergic neurons
+SLC32A1	GABAergic neurons
+GAD2	GABAergic neurons
+VIP	GABAergic neurons
+SST	GABAergic neurons
+PVALB	GABAergic neurons
+TNFAIP8L3	GABAergic neurons
+SEMA3C	GABAergic neurons
+MYBPC1	GABAergic neurons
+PARM1	GABAergic neurons
+DLX1	GABAergic neurons
+PPY	Gamma (PP) cells
+SCGN	Gamma (PP) cells
+FXYD2	Gamma (PP) cells
+CMTM8	Gamma (PP) cells
+ARX	Gamma (PP) cells
+ETV1	Gamma (PP) cells
+PXK	Gamma (PP) cells
+SERTM1	Gamma (PP) cells
+SLITRK6	Gamma (PP) cells
+SEMA3E	Gamma (PP) cells
+APOBEC2	Gamma (PP) cells
+ABCC9	Gamma (PP) cells
+NEUROD1	Gamma (PP) cells
+PAX6	Gamma (PP) cells
+ISL1	Gamma (PP) cells
+CARTPT	Gamma (PP) cells
+THSD7A	Gamma (PP) cells
+AQP3	Gamma (PP) cells
+ENTPD2	Gamma (PP) cells
+PTGFR	Gamma (PP) cells
+CHN2	Gamma (PP) cells
+EGR3	Gamma (PP) cells
+LMO3	Gamma (PP) cells
+MEIS1	Gamma (PP) cells
+FGB	Gamma (PP) cells
+PTGDS	Gamma delta T cells
+GZMB	Gamma delta T cells
+S100B	Gamma delta T cells
+NKG7	Gamma delta T cells
+PRF1	Gamma delta T cells
+HOPX	Gamma delta T cells
+CST7	Gamma delta T cells
+KLRD1	Gamma delta T cells
+CTSW	Gamma delta T cells
+SPON2	Gamma delta T cells
+IFITM1	Gamma delta T cells
+GZMA	Gamma delta T cells
+CD247	Gamma delta T cells
+CLIC3	Gamma delta T cells
+CD7	Gamma delta T cells
+ADGRG1	Gamma delta T cells
+CCL5	Gamma delta T cells
+TRDC	Gamma delta T cells
+STMN1	Gamma delta T cells
+HMGB2	Gamma delta T cells
+TYMS	Gamma delta T cells
+MKI67	Gamma delta T cells
+UBE2C	Gamma delta T cells
+TUBA1B	Gamma delta T cells
+ASPM	Gamma delta T cells
+CENPA	Gamma delta T cells
+TOP2A	Gamma delta T cells
+PCNA	Gamma delta T cells
+AURKB	Gamma delta T cells
+BIRC5	Gamma delta T cells
+NUSAP1	Gamma delta T cells
+TROAP	Gamma delta T cells
+H2AFX	Gamma delta T cells
+CENPF	Gamma delta T cells
+CCNB1	Gamma delta T cells
+H2AFZ	Gamma delta T cells
+TRGV2	Gamma delta T cells
+TRGJ1	Gamma delta T cells
+TRGJ2	Gamma delta T cells
+TRDD1	Gamma delta T cells
+TRDD2	Gamma delta T cells
+TRDJ1	Gamma delta T cells
+TRDJ2	Gamma delta T cells
+TRDV1	Gamma delta T cells
+TRDV3	Gamma delta T cells
+ANPEP	Gastric chief cells
+BHLHA15	Gastric chief cells
+RAB3D	Gastric chief cells
+LEP	Gastric chief cells
+LGR5	Gastric chief cells
+KCNQ1	Gastric chief cells
+EGFR	Gastric chief cells
+PRKCZ	Gastric chief cells
+CHRM3	Gastric chief cells
+EGFR	Germ cells
+POU5F1	Germ cells
+TFAP2C	Germ cells
+DAZL	Germ cells
+MAGEA4	Germ cells
+DDX4	Germ cells
+ZAR1	Germ cells
+TEX101	Germ cells
+PRM1	Germ cells
+TNP2	Germ cells
+FABP9	Germ cells
+ODF2	Germ cells
+CRISP2	Germ cells
+TCP11	Germ cells
+GGNBP1	Germ cells
+PHF7	Germ cells
+CREB5	Germ cells
+CETN4	Germ cells
+SLFNL1	Germ cells
+COX7B2	Germ cells
+KIF2B	Germ cells
+CCDC30	Germ cells
+LRRC57	Germ cells
+FAM209	Germ cells
+BCL2L14	Germ cells
+AQP11	Germ cells
+ADAM3	Germ cells
+TEX35	Germ cells
+SPINK2	Germ cells
+TSSK3	Germ cells
+CREB3L4	Germ cells
+TSACC	Germ cells
+SPATA46	Germ cells
+TSGA8	Germ cells
+TEKT1	Germ cells
+MORN5	Germ cells
+TMCO5	Germ cells
+OTUB2	Germ cells
+TSSK1	Germ cells
+TSKS	Germ cells
+PRDX6B	Germ cells
+H2AFB1	Germ cells
+ATL3	Germ cells
+DMRTB1	Germ cells
+WBSCR25	Germ cells
+TMCO2	Germ cells
+TUBA3A	Germ cells
+FHL5	Germ cells
+MS4A5	Germ cells
+CST8	Germ cells
+TMEM247	Germ cells
+GALNTL5	Germ cells
+OSBP2	Germ cells
+MARCH11	Germ cells
+TEX33	Germ cells
+SPATA20	Germ cells
+TUBA3B	Germ cells
+CDRT4	Germ cells
+SPATA18	Germ cells
+LRRC18	Germ cells
+SCP2D1	Germ cells
+IQCF1	Germ cells
+PGK2	Germ cells
+TULP2	Germ cells
+CMTM2A	Germ cells
+CCDC54	Germ cells
+AKAP4	Germ cells
+GTSF1	Germ cells
+PPP3R2	Germ cells
+TPPP2	Germ cells
+GSTT4	Germ cells
+LELP1	Germ cells
+NUPR1L	Germ cells
+SPERT	Germ cells
+CMTM2B	Germ cells
+CATSPERZ	Germ cells
+MAEL	Germ cells
+PGAM2	Germ cells
+TMEM53	Germ cells
+ACTRT2	Germ cells
+ROPN1	Germ cells
+RNF151	Germ cells
+IQCF3	Germ cells
+CABS1	Germ cells
+CCDC91	Germ cells
+SPATA3	Germ cells
+LRRC46	Germ cells
+PDCL2	Germ cells
+H1FNT	Germ cells
+TSSK6	Germ cells
+COX8C	Germ cells
+CETN1	Germ cells
+SPATA19	Germ cells
+TSSK2	Germ cells
+ZNRF4	Germ cells
+CYPT4	Germ cells
+SPATA24	Germ cells
+SPATA4	Germ cells
+FAM71E1	Germ cells
+FAM229A	Germ cells
+CYPT12	Germ cells
+HILS1	Germ cells
+HRASLS5	Germ cells
+GAPDHS	Germ cells
+FHL4	Germ cells
+HSPB9	Germ cells
+SPATA33	Germ cells
+SPZ1	Germ cells
+IRGC1	Germ cells
+PRM3	Germ cells
+RBAKDN	Germ cells
+DNAJB3	Germ cells
+HMGB4	Germ cells
+ROPN1L	Germ cells
+GSG1	Germ cells
+DBIL5	Germ cells
+TNP1	Germ cells
+SMCP	Germ cells
+LDHC	Germ cells
+PRM2	Germ cells
+DNAAF1	Germ cells
+ACYP1	Germ cells
+SORD	Germ cells
+DKKL1	Germ cells
+RSPH1	Germ cells
+COX6B2	Germ cells
+MLF1	Germ cells
+SMIM24	Germ cells
+SPA17	Germ cells
+MEIG1	Germ cells
+FKBP6	Germ cells
+TAF7L	Germ cells
+TEX19.1	Germ cells
+SYCP1	Germ cells
+SOHLH1	Germ cells
+SLC25A31	Germ cells
+PHF13	Germ cells
+EGR4	Germ cells
+SMC1B	Germ cells
+TEX15	Germ cells
+MOV10L1	Germ cells
+TRAP1A	Germ cells
+WDR5	Germ cells
+DMRT1	Germ cells
+STRA8	Germ cells
+ZMYND19	Germ cells
+MDN1	Germ cells
+PIWIL2	Germ cells
+CYCT	Germ cells
+NR6A1	Germ cells
+RSBN1L	Germ cells
+DYNLT1	Germ cells
+PARN	Germ cells
+MKI67	Germ cells
+CHEK1	Germ cells
+BRCA1	Germ cells
+DMC1	Germ cells
+MRPL14	Germ cells
+MLH3	Germ cells
+SPAG6	Germ cells
+ZPBP2	Germ cells
+DNAH6	Germ cells
+CAMK4	Germ cells
+CREM	Germ cells
+MYO1D	Germ cells
+HOOK1	Germ cells
+DRD2	Glomus cells
+NOS1	Glomus cells
+PHOX2B	Glomus cells
+TH	Glomus cells
+HMOX2	Glomus cells
+NDUFA4L2	Glomus cells
+COX4I2	Glomus cells
+IL1R1	Glomus cells
+TNFRSF1A	Glomus cells
+CTH	Glomus cells
+CBS	Glomus cells
+GJA1	Glomus cells
+KCNK3	Glomus cells
+ASIC1	Glomus cells
+ASIC3	Glomus cells
+CALD1	Glomus cells
+COL4A1	Glomus cells
+VIM	Glomus cells
+EPAS1	Glomus cells
+GFRA1	Glomus cells
+GFRA2	Glomus cells
+GAP43	Glomus cells
+MMP9	Glomus cells
+IL6ST	Glomus cells
+KCNJ11	Glomus cells
+KCNJ8	Glomus cells
+ABCC8	Glomus cells
+KCNK9	Glomus cells
+SLC17A7	Glutaminergic neurons
+SLC17A6	Glutaminergic neurons
+GRIN1	Glutaminergic neurons
+GRIN2B	Glutaminergic neurons
+GLS	Glutaminergic neurons
+MEIS2	Glutaminergic neurons
+SLC17A8	Glutaminergic neurons
+SLC1A1	Glutaminergic neurons
+SLC1A2	Glutaminergic neurons
+SLC1A6	Glutaminergic neurons
+SLC6A9	Glycinergic neurons
+SLC32A1	Glycinergic neurons
+CREB3L1	Goblet cells
+NLRP6	Goblet cells
+MUC5AC	Goblet cells
+MUC2	Goblet cells
+SLC9A8	Goblet cells
+OTOGL	Goblet cells
+ITLN1	Goblet cells
+AQP3	Goblet cells
+CDON	Goblet cells
+MUC4	Goblet cells
+MUC5B	Goblet cells
+TMEM207	Goblet cells
+TFF3	Goblet cells
+AGR2	Goblet cells
+CDX2	Goblet cells
+KRT7	Goblet cells
+KRT20	Goblet cells
+MUC3	Goblet cells
+GUCA2A	Goblet cells
+PHGR1	Goblet cells
+MUC13	Goblet cells
+FCGBP	Goblet cells
+CLCA1	Goblet cells
+ZG16	Goblet cells
+TPSG1	Goblet cells
+GALNT12	Goblet cells
+ATOH1	Goblet cells
+REP15	Goblet cells
+PDIA5	Goblet cells
+PLA2G10	Goblet cells
+KLK1	Goblet cells
+SPDEF	Goblet cells
+LRRC26	Goblet cells
+BACE2	Goblet cells
+MANF	Goblet cells
+CCL9	Goblet cells
+SPINK4	Goblet cells
+AMH	Granulosa cells
+MCAM	Granulosa cells
+KITL	Granulosa cells
+BOK	Granulosa cells
+ADAMTS1	Granulosa cells
+LOX	Granulosa cells
+FHL1	Granulosa cells
+INHA	Granulosa cells
+HSD3B1	Granulosa cells
+AKR1CL	Granulosa cells
+HTRA1	Granulosa cells
+GAPDH	Granulosa cells
+TNNI3	Granulosa cells
+HSD17B1	Granulosa cells
+HJURP	Granulosa cells
+FSHR	Granulosa cells
+FOXL2	Granulosa cells
+CYP19A1	Granulosa cells
+ETV2	Hemangioblasts
+T	Hemangioblasts
+TAL1	Hemangioblasts
+THY1	Hematopoietic stem cells
+MPL	Hematopoietic stem cells
+KIT	Hematopoietic stem cells
+PROM1	Hematopoietic stem cells
+FLT3	Hematopoietic stem cells
+SLAMF1	Hematopoietic stem cells
+CXCR4	Hematopoietic stem cells
+TEK	Hematopoietic stem cells
+ABCG2	Hematopoietic stem cells
+BAALC	Hematopoietic stem cells
+SPN	Hematopoietic stem cells
+CDCP1	Hematopoietic stem cells
+MYADM	Hematopoietic stem cells
+TGFB2	Hematopoietic stem cells
+PTPRE	Hematopoietic stem cells
+TAF7	Hematopoietic stem cells
+GATA2	Hematopoietic stem cells
+GPR171	Hematopoietic stem cells
+ANGPT1	Hematopoietic stem cells
+PROCR	Hematopoietic stem cells
+NFE2	Hematopoietic stem cells
+NKX2-3	Hematopoietic stem cells
+HHEX	Hematopoietic stem cells
+MEIS1	Hematopoietic stem cells
+LYL1	Hematopoietic stem cells
+ELF1	Hematopoietic stem cells
+HLF	Hematopoietic stem cells
+RGS18	Hematopoietic stem cells
+MYCT1	Hematopoietic stem cells
+ADGRG1	Hematopoietic stem cells
+DNMT3B	Hematopoietic stem cells
+MYCN	Hematopoietic stem cells
+ARID3A	Hematopoietic stem cells
+ITGA2B	Hematopoietic stem cells
+GATA3	Hematopoietic stem cells
+ROBO4	Hematopoietic stem cells
+PITX2	Hematopoietic stem cells
+TXNIP	Hematopoietic stem cells
+RUNX1	Hematopoietic stem cells
+PTPRS	Hematopoietic stem cells
+PTPRC	Hematopoietic stem cells
+CD44	Hematopoietic stem cells
+GFI1	Hematopoietic stem cells
+CD48	Hematopoietic stem cells
+HMGB3	Hematopoietic stem cells
+TLR2	Hematopoietic stem cells
+APC	Hematopoietic stem cells
+GNL3	Hematopoietic stem cells
+MGST1	Hematopoietic stem cells
+G0S2	Hematopoietic stem cells
+PRNP	Hematopoietic stem cells
+CD34	Hematopoietic stem cells
+BMI1	Hematopoietic stem cells
+ITGA4	Hematopoietic stem cells
+ANPEP	Hematopoietic stem cells
+CD33	Hematopoietic stem cells
+IL3RA	Hematopoietic stem cells
+HLX	Hematopoietic stem cells
+NKX3-1	Hematopoietic stem cells
+THSD1	Hematopoietic stem cells
+NCOR2	Hematopoietic stem cells
+EGR1	Hematopoietic stem cells
+FGD5	Hematopoietic stem cells
+MECOM	Hematopoietic stem cells
+CTNNAL1	Hematopoietic stem cells
+VWF	Hematopoietic stem cells
+PBX2	Hematopoietic stem cells
+TAL1	Hematopoietic stem cells
+ERG	Hematopoietic stem cells
+NEO1	Hematopoietic stem cells
+EGR3	Hematopoietic stem cells
+MAFF	Hematopoietic stem cells
+ITGA6	Hematopoietic stem cells
+GJB1	Hematopoietic stem cells
+CDH2	Hematopoietic stem cells
+ALDH1A1	Hematopoietic stem cells
+GFI1B	Hematopoietic stem cells
+NOTCH1	Hematopoietic stem cells
+NOTCH2	Hematopoietic stem cells
+PLXDC2	Hematopoietic stem cells
+ESAM	Hematopoietic stem cells
+ACE	Hematopoietic stem cells
+TRPC6	Hematopoietic stem cells
+HOXB5	Hematopoietic stem cells
+TET2	Hematopoietic stem cells
+ADAMTS13	Hepatic stellate cells
+CYGB	Hepatic stellate cells
+PPARG	Hepatic stellate cells
+PDGFRA	Hepatic stellate cells
+RGS5	Hepatic stellate cells
+PPARA	Hepatic stellate cells
+FOXF1	Hepatic stellate cells
+ALB	Hepatic stellate cells
+NR1H4	Hepatic stellate cells
+CTGF	Hepatic stellate cells
+SEMA7A	Hepatic stellate cells
+PNPLA3	Hepatic stellate cells
+WT1	Hepatic stellate cells
+FGF10	Hepatic stellate cells
+GFAP	Hepatic stellate cells
+NGFR	Hepatic stellate cells
+VEGFA	Hepatic stellate cells
+ACTA2	Hepatic stellate cells
+MYB	Hepatic stellate cells
+DES	Hepatic stellate cells
+FAP	Hepatic stellate cells
+SLC8A1	Hepatic stellate cells
+RELN	Hepatic stellate cells
+SYP	Hepatic stellate cells
+VCL	Hepatic stellate cells
+TIMP1	Hepatic stellate cells
+COL1A1	Hepatic stellate cells
+TAGLN	Hepatic stellate cells
+COL1A2	Hepatic stellate cells
+COL3A1	Hepatic stellate cells
+SPARC	Hepatic stellate cells
+RBP1	Hepatic stellate cells
+DCN	Hepatic stellate cells
+MYL9	Hepatic stellate cells
+TPM2	Hepatic stellate cells
+MEG3	Hepatic stellate cells
+BGN	Hepatic stellate cells
+IGFBP7	Hepatic stellate cells
+IGFBP3	Hepatic stellate cells
+CYR61	Hepatic stellate cells
+OLFML3	Hepatic stellate cells
+IGFBP6	Hepatic stellate cells
+CCL2	Hepatic stellate cells
+COLEC11	Hepatic stellate cells
+HGF	Hepatic stellate cells
+AFP	Hepatoblasts
+ALB	Hepatoblasts
+CEBPA	Hepatoblasts
+KRT14	Hepatoblasts
+DLK1	Hepatoblasts
+CDH1	Hepatoblasts
+FOXM1	Hepatoblasts
+GGT1	Hepatoblasts
+HNF4A	Hepatoblasts
+PROX1	Hepatoblasts
+MAP2K4	Hepatoblasts
+SMAD5	Hepatoblasts
+KRT18	Hepatoblasts
+KRT8	Hepatoblasts
+HNF1B	Hepatoblasts
+HHEX	Hepatoblasts
+MET	Hepatoblasts
+FOSL1	Hepatocytes
+EPPK1	Hepatocytes
+UCP2	Hepatocytes
+GCK	Hepatocytes
+LRP5	Hepatocytes
+SLC10A1	Hepatocytes
+NOS2	Hepatocytes
+ATP7B	Hepatocytes
+HNF4A	Hepatocytes
+GJB2	Hepatocytes
+FGFR4	Hepatocytes
+PROX1	Hepatocytes
+CRP	Hepatocytes
+SLC2A2	Hepatocytes
+TFR2	Hepatocytes
+KIF13B	Hepatocytes
+LIPC	Hepatocytes
+VDR	Hepatocytes
+ASGR1	Hepatocytes
+ARG1	Hepatocytes
+AFP	Hepatocytes
+ALB	Hepatocytes
+G6PC	Hepatocytes
+OTC	Hepatocytes
+UGT1A1	Hepatocytes
+ZHX2	Hepatocytes
+HHEX	Hepatocytes
+FOXA3	Hepatocytes
+FOXA2	Hepatocytes
+FOXA1	Hepatocytes
+CYP7A1	Hepatocytes
+CYP2E1	Hepatocytes
+CYP1A2	Hepatocytes
+CEBPA	Hepatocytes
+CDH1	Hepatocytes
+GPC3	Hepatocytes
+AHR	Hepatocytes
+CYP1A1	Hepatocytes
+NR1I3	Hepatocytes
+CPS1	Hepatocytes
+GLS2	Hepatocytes
+PCK1	Hepatocytes
+FCNA	Hepatocytes
+TAT	Hepatocytes
+WT1	Hepatocytes
+PRRG4	Hepatocytes
+SULT1A1	Hepatocytes
+APOH	Hepatocytes
+CTNNB1	Hepatocytes
+ABCC3	Hepatocytes
+FGB	Hepatocytes
+AQP3	Hepatocytes
+PLSCR1	Hepatocytes
+FGA	Hepatocytes
+APOB	Hepatocytes
+ANG	Hepatocytes
+ANXA13	Hepatocytes
+SAT2	Hepatocytes
+SFRP5	Hepatocytes
+A1CF	Hepatocytes
+APOA1	Hepatocytes
+BNIP3	Hepatocytes
+FGL1	Hepatocytes
+PAH	Hepatocytes
+SERPINA6	Hepatocytes
+APOA2	Hepatocytes
+AZGP1	Hepatocytes
+FGG	Hepatocytes
+APOC3	Hepatocytes
+DEFB1	Hepatocytes
+TM4SF4	Hepatocytes
+GC	Hepatocytes
+AMBP	Hepatocytes
+ORM1	Hepatocytes
+TTR	Hepatocytes
+SERPINA1C	Hepatocytes
+GULO	Hepatocytes
+CYP2F2	Hepatocytes
+HAL	Hepatocytes
+ASS1	Hepatocytes
+HMGCS1	Hepatocytes
+ACSS2	Hepatocytes
+TM7SF2	Hepatocytes
+SEC16B	Hepatocytes
+SLBP	Hepatocytes
+RND3	Hepatocytes
+BCHE	Hepatocytes
+GHR	Hepatocytes
+ALDH6A1	Hepatocytes
+MASP2	Hepatocytes
+HAMP	Hepatocytes
+GLUL	Hepatocytes
+ACLY	Hepatocytes
+ASL	Hepatocytes
+MUP3	Hepatocytes
+TMEM97	Hepatocytes
+CP	Hepatocytes
+SLPI	Hepatocytes
+ACAT2	Hepatocytes
+TM4SF5	Hepatocytes
+MSMO1	Hepatocytes
+LEPR	Hepatocytes
+RCAN1	Hepatocytes
+AR	Hepatocytes
+PLIN1	Hepatocytes
+RPP25L	Hepatocytes
+HSD11B1	Hepatocytes
+APOM	Hepatocytes
+TKFC	Hepatocytes
+G0S2	Hepatocytes
+PON3	Hepatocytes
+TTC36	Hepatocytes
+GOLT1A	Hepatocytes
+FST	Hepatocytes
+MCC	Hepatocytes
+AQP9	Hepatocytes
+GSTA2	Hepatocytes
+NNT	Hepatocytes
+SAA4	Hepatocytes
+MRPS18C	Hepatocytes
+OCIAD1	Hepatocytes
+APOA5	Hepatocytes
+ENTPD5	Hepatocytes
+C4B	Hepatocytes
+EID2	Hepatocytes
+ATIC	Hepatocytes
+SERPINH1	Hepatocytes
+SAMD5	Hepatocytes
+GRB14	Hepatocytes
+ABCD3	Hepatocytes
+RHOB	Hepatocytes
+EPB41L4B	Hepatocytes
+GPAT4	Hepatocytes
+SPTBN1	Hepatocytes
+SDC2	Hepatocytes
+PHLDA1	Hepatocytes
+WTAP	Hepatocytes
+ACADM	Hepatocytes
+GJA5	His bundle cells
+GJC1	His bundle cells
+KCNK3	His bundle cells
+PAX6	Immature neurons
+PCLO	Immature neurons
+CUX2	Immature neurons
+SLC12A5	Immature neurons
+POMC	Immature neurons
+STIM2	Immature neurons
+RAX	Immature neurons
+CUL5	Immature neurons
+HIVEP2	Immature neurons
+FUT9	Immature neurons
+TBR1	Immature neurons
+PROX1	Immature neurons
+NTRK3	Immature neurons
+RND2	Immature neurons
+FEZF2	Immature neurons
+SOX5	Immature neurons
+ROBO1	Immature neurons
+EPHA7	Immature neurons
+EPHA3	Immature neurons
+YY2	Immature neurons
+SLC1A1	Immature neurons
+NOTCH3	Immature neurons
+NOTCH1	Immature neurons
+LHX6	Immature neurons
+NES	Immature neurons
+RBFOX3	Immature neurons
+CREB1	Immature neurons
+NEUROD1	Immature neurons
+ASCL1	Immature neurons
+NTRK1	Immature neurons
+SYN1	Immature neurons
+NF1	Immature neurons
+BCL2	Immature neurons
+SLC6A5	Immature neurons
+FOXD2	Immature neurons
+ICAM5	Immature neurons
+SSTR2	Immature neurons
+NEUROG2	Immature neurons
+FOXI1	Intercalated cells
+SLC26A11	Intercalated cells
+CLCNKB	Intercalated cells
+SLC4A1	Intercalated cells
+SLC26A4	Intercalated cells
+ATP6V1B1	Intercalated cells
+SLC4A8	Intercalated cells
+AQP6	Intercalated cells
+ATP6V1C2	Intercalated cells
+ATP6V1G3	Intercalated cells
+ATP6V0D2	Intercalated cells
+OXGR1	Intercalated cells
+RHCG	Intercalated cells
+TMEM213	Intercalated cells
+EGF	Intercalated cells
+FXYD2	Intercalated cells
+AVPR1A	Intercalated cells
+CLCNKA	Intercalated cells
+RHBG	Intercalated cells
+DMRT2	Intercalated cells
+P2RY14	Intercalated cells
+AP1S3	Intercalated cells
+INSRR	Intercalated cells
+JAG1	Intercalated cells
+ADGRF5	Intercalated cells
+CALB1	Interneurons
+CCK	Interneurons
+CHAT	Interneurons
+VSX2	Interneurons
+EN1	Interneurons
+ETV1	Interneurons
+EVX1	Interneurons
+GAD1	Interneurons
+ISL1	Interneurons
+LHX1	Interneurons
+LHX5	Interneurons
+LHX3	Interneurons
+LHX6	Interneurons
+GRM1	Interneurons
+NPY	Interneurons
+OPRM1	Interneurons
+GRIN2D	Interneurons
+NOS1	Interneurons
+PVALB	Interneurons
+PAX2	Interneurons
+SST	Interneurons
+TACR1	Interneurons
+VIP	Interneurons
+CRHR1	Interneurons
+PACSIN1	Interneurons
+SYN1	Interneurons
+FGF12	Interneurons
+NXPH1	Interneurons
+SYT7	Interneurons
+PTPRO	Interneurons
+DLGAP1	Interneurons
+GNG4	Interneurons
+HAP1	Interneurons
+SHISA8	Interneurons
+PCBP3	Interneurons
+ABAT	Interneurons
+PCP4L1	Interneurons
+GAL	Interneurons
+TH	Interneurons
+SYNPR	Interneurons
+TRH	Interneurons
+ADCY8	Interneurons
+CTGF	Interneurons
+EML5	Interneurons
+TMEM132D	Interneurons
+BACE1	Interneurons
+CACNG2	Interneurons
+ISCA1	Interneurons
+LPGAT1	Interneurons
+NAT14	Interneurons
+SLC12A5	Interneurons
+DEPTOR	Interneurons
+SLC22A15	Interneurons
+PDE4A	Interneurons
+CACNA1I	Interneurons
+FRYL	Interneurons
+CAR11	Interneurons
+SURF1	Interneurons
+TRIM9	Interneurons
+KCNC1	Interneurons
+RAB3B	Interneurons
+CDK17	Interneurons
+RGS17	Interneurons
+ABCC5	Interneurons
+RAB26	Interneurons
+VLDLR	Interneurons
+CACNG7	Interneurons
+INAFM1	Interneurons
+BRINP1	Interneurons
+PIANP	Interneurons
+CPLX1	Interneurons
+SHISA6	Interneurons
+DHRS3	Interneurons
+GRIA4	Interneurons
+NRSN2	Interneurons
+CDHR1	Interneurons
+ABR	Interneurons
+NRN1	Interneurons
+HIVEP2	Interneurons
+NXPH4	Interneurons
+CDH4	Interneurons
+CHST1	Interneurons
+SHISA9	Interneurons
+EOMES	Interneurons
+NMB	Interneurons
+LY6G6E	Interneurons
+CALN1	Interneurons
+CASK	Interneurons
+CACNA1E	Interneurons
+FAM81A	Interneurons
+CAMKV	Interneurons
+ARHGAP21	Interneurons
+DDN	Interneurons
+SV2B	Interneurons
+FRRS1L	Interneurons
+ACSL4	Interneurons
+CAMK4	Interneurons
+NPTXR	Interneurons
+LINGO1	Interneurons
+HPCAL4	Interneurons
+LMO3	Interneurons
+LYPD1	Interneurons
+CHN1	Interneurons
+NRGN	Interneurons
+SLC17A7	Interneurons
+CAMK2A	Interneurons
+PRKCB	Interneurons
+NCALD	Interneurons
+RAB15	Interneurons
+FBXW11	Interneurons
+ADCY1	Interneurons
+FBXO11	Interneurons
+IGSF21	Interneurons
+SRGAP3	Interneurons
+NTNG1	Interneurons
+MAGEE1	Interneurons
+SCAMP1	Interneurons
+PSD3	Interneurons
+RORA	Interneurons
+DCAF7	Interneurons
+VGF	Interneurons
+EID2	Interneurons
+RGMA	Interneurons
+SCRT1	Interneurons
+POU2F2	Interneurons
+NBEA	Interneurons
+SRGAP1	Interneurons
+FCHSD2	Interneurons
+SLC16A1	Interneurons
+SLC36A1	Interneurons
+ATG12	Interneurons
+SLC17A6	Interneurons
+AGAP1	Interneurons
+ZDHHC22	Interneurons
+ACBD5	Interneurons
+AQP4	Interneurons
+TMEM163	Interneurons
+ZDHHC17	Interneurons
+KITL	Interneurons
+ZIC4	Interneurons
+NEFM	Interneurons
+L1CAM	Interneurons
+IDS	Interneurons
+DNM3	Interneurons
+DNAJC6	Interneurons
+ADGRA1	Interneurons
+DZANK1	Interneurons
+SCN2B	Interneurons
+HSPA12A	Interneurons
+SYT13	Interneurons
+RAMP3	Interneurons
+LYNX1	Interneurons
+KCNA2	Interneurons
+OXR1	Interneurons
+DISP2	Interneurons
+PCSK2	Interneurons
+SHOX2	Interneurons
+SCN8A	Interneurons
+AAK1	Interneurons
+GABRA4	Interneurons
+NRIP3	Interneurons
+HLF	Interneurons
+PRKCD	Interneurons
+PTPN3	Interneurons
+KCNC2	Interneurons
+CDKL5	Interneurons
+CCDC136	Interneurons
+KCNMA1	Interneurons
+SPOCK3	Interneurons
+PTPN4	Interneurons
+PDP1	Interneurons
+RGS7BP	Interneurons
+PLCB4	Interneurons
+GABBR2	Interneurons
+ELMO1	Interneurons
+ADARB1	Interneurons
+ILDR2	Interneurons
+AKAP8L	Interneurons
+SPTY2D1	Interneurons
+PCF11	Interneurons
+PARM1	Interneurons
+PITX2	Interneurons
+PITX1	Interneurons
+CLDN9	Interneurons
+TCEAL3	Interneurons
+KCNK9	Interneurons
+TSHB	Interneurons
+RORB	Interneurons
+GATA2	Interneurons
+TIMELESS	Interneurons
+CXCL14	Interneurons
+APOC3	Interneurons
+CES1D	Interneurons
+CGA	Interneurons
+ADORA2A	Interneurons
+RPRML	Interneurons
+CACNB1	Interneurons
+KCNQ5	Interneurons
+PRKCG	Interneurons
+GABRA5	Interneurons
+PAX6	Interneurons
+PNOC	Interneurons
+HTR3A	Interneurons
+RELN	Interneurons
+CALB2	Interneurons
+PDE1A	Interneurons
+ADGRL2	Interneurons
+KCNIP2	Interneurons
+RGS10	Interneurons
+NOV	Interneurons
+CPNE5	Interneurons
+SLC5A7	Interneurons
+CRH	Interneurons
+GDA	Interneurons
+SEMA3E	Interneurons
+DLX1	Interneurons
+DLX2	Interneurons
+DLX5	Interneurons
+ARX	Interneurons
+NDNF	Interneurons
+FOXI1	Ionocytes
+CFTR	Ionocytes
+ASCL3	Ionocytes
+CYP2F2	Ionocytes
+SCGB1A1	Ionocytes
+FOXN4	Ionocytes
+TFCP2L1	Ionocytes
+SLC12A2	Ionocytes
+CLCNKB	Ionocytes
+KCNMA1	Ionocytes
+SLC9A4	Ionocytes
+SLC9A7	Ionocytes
+TRPV4	Juxtaglomerular cells
+TH	Juxtaglomerular cells
+REN1	Juxtaglomerular cells
+AKR1B7	Juxtaglomerular cells
+ACTA2	Juxtaglomerular cells
+MYH11	Juxtaglomerular cells
+CNN1	Juxtaglomerular cells
+FLG	Keratinocytes
+KPRP	Keratinocytes
+ICAM1	Keratinocytes
+IVL	Keratinocytes
+TGM1	Keratinocytes
+KRT1	Keratinocytes
+KRT5	Keratinocytes
+KRT14	Keratinocytes
+KRT16	Keratinocytes
+KRT17	Keratinocytes
+LAMA5	Keratinocytes
+LCN2	Keratinocytes
+PLEC	Keratinocytes
+SPRR1A	Keratinocytes
+SPRR1B	Keratinocytes
+GJB3	Keratinocytes
+IRF3	Keratinocytes
+LAMC2	Keratinocytes
+SIRT7	Keratinocytes
+RIPK4	Keratinocytes
+REL	Keratinocytes
+IL13RA1	Keratinocytes
+SGPP1	Keratinocytes
+PKP3	Keratinocytes
+PKP1	Keratinocytes
+ANXA8	Keratinocytes
+TRIM29	Keratinocytes
+DSC3	Keratinocytes
+FST	Keratinocytes
+AQP3	Keratinocytes
+KRT15	Keratinocytes
+S100A14	Keratinocytes
+DMKN	Keratinocytes
+ENTPD2	Keratinocytes
+FGF5	Keratinocytes
+NGFR	Keratinocytes
+TFAP2A	Keratinocytes
+LGALS7	Keratinocytes
+CXCL1	Keratinocytes
+CCL2	Keratinocytes
+SFN	Keratinocytes
+KRT10	Keratinocytes
+SBSN	Keratinocytes
+KRT84	Keratinocytes
+KRT36	Keratinocytes
+OSR1	Kidney progenitor cells
+PAX2	Kidney progenitor cells
+EYA1	Kidney progenitor cells
+WT1	Kidney progenitor cells
+SIX2	Kidney progenitor cells
+SALL1	Kidney progenitor cells
+CITED1	Kidney progenitor cells
+TNF	Kupffer cells
+MPO	Kupffer cells
+VSIG4	Kupffer cells
+PROK2	Kupffer cells
+STARD5	Kupffer cells
+MSR1	Kupffer cells
+TLR9	Kupffer cells
+PPARA	Kupffer cells
+TREM1	Kupffer cells
+SLC11A1	Kupffer cells
+TLR4	Kupffer cells
+MMP13	Kupffer cells
+CD14	Kupffer cells
+VDR	Kupffer cells
+CHIT1	Kupffer cells
+OSM	Kupffer cells
+PPARD	Kupffer cells
+CLEC4F	Kupffer cells
+ADGRE1	Kupffer cells
+IL1B	Kupffer cells
+SLC40A1	Kupffer cells
+FCNA	Kupffer cells
+TIMD4	Kupffer cells
+MNDA	Kupffer cells
+SLC15A3	Kupffer cells
+DNASE1L3	Kupffer cells
+MARCO	Kupffer cells
+EAR2	Kupffer cells
+HFE	Kupffer cells
+CD38	Kupffer cells
+ADGRE4	Kupffer cells
+CD163	Kupffer cells
+CCR5	Kupffer cells
+CLEC1B	Kupffer cells
+SIGLECF	Kupffer cells
+CLEC4G	Kupffer cells
+GPIHBP1	Kupffer cells
+FOLR2	Kupffer cells
+PLTP	Kupffer cells
+IRF7	Kupffer cells
+SPIC	Kupffer cells
+CSF1R	Kupffer cells
+C1QC	Kupffer cells
+C1QA	Kupffer cells
+C1QB	Kupffer cells
+CLEC4E	Kupffer cells
+ACHE	Langerhans cells
+CD207	Langerhans cells
+EHF	Langerhans cells
+PRKCB	Langerhans cells
+AHR	Langerhans cells
+GPNMB	Langerhans cells
+EPCAM	Langerhans cells
+CD80	Langerhans cells
+PTPRC	Langerhans cells
+TLR2	Langerhans cells
+TLR4	Langerhans cells
+TLR9	Langerhans cells
+CCR6	Langerhans cells
+DEFB3	Langerhans cells
+CLDN1	Langerhans cells
+HSD11B2	Leydig cells
+MAFB	Leydig cells
+ALDH1A1	Leydig cells
+SLC9A8	Leydig cells
+KISS1	Leydig cells
+PDE8A	Leydig cells
+LEP	Leydig cells
+CXCL10	Leydig cells
+PTCH1	Leydig cells
+GATA4	Leydig cells
+ACSBG1	Leydig cells
+INHA	Leydig cells
+HSD3B1	Leydig cells
+DHCR7	Leydig cells
+CALB2	Leydig cells
+CYP17A1	Leydig cells
+CYP11A1	Leydig cells
+IGF1	Leydig cells
+INSL3	Leydig cells
+NR5A2	Leydig cells
+LHCGR	Leydig cells
+MLANA	Leydig cells
+RLN1	Leydig cells
+RLN3	Leydig cells
+TAC1	Leydig cells
+STAR	Leydig cells
+THBS2	Leydig cells
+PTGDS	Leydig cells
+LCN2	Leydig cells
+HSD17B3	Leydig cells
+ASS1	Leydig cells
+PRLR	Leydig cells
+REN1	Leydig cells
+AKR1CL	Leydig cells
+CYP26B1	Leydig cells
+IGF2	Leydig cells
+IGFBP5	Leydig cells
+CFD	Leydig cells
+DLK1	Leydig cells
+IGFBP3	Leydig cells
+INHBA	Leydig cells
+VIT	Leydig cells
+ALDH1A3	Leydig cells
+NOS1	Leydig cells
+EDNRA	Leydig cells
+SMOC2	Leydig cells
+ADAM21	Leydig cells
+ESRRG	Leydig cells
+GPRC6A	Leydig cells
+GJA1	Leydig cells
+GAS6	Leydig cells
+SULT1E1	Leydig cells
+CYP19A1	Leydig cells
+PLAUR	Leydig cells
+FABP9	Leydig cells
+CLDN16	Loop of Henle cells
+CLDN8	Loop of Henle cells
+UMOD	Loop of Henle cells
+FABP4	Loop of Henle cells
+AQP1	Loop of Henle cells
+CLDN10	Loop of Henle cells
+CLDN19	Loop of Henle cells
+SLC12A1	Loop of Henle cells
+DEFB1	Loop of Henle cells
+CLCNKA	Loop of Henle cells
+TRPM7	Loop of Henle cells
+CDH6	Loop of Henle cells
+LCN2	Loop of Henle cells
+DKK1	Loop of Henle cells
+DACH1	Loop of Henle cells
+SLC12A3	Loop of Henle cells
+SLC11A2	Loop of Henle cells
+ARVCF	Loop of Henle cells
+RGS5	Loop of Henle cells
+COX4I2	Loop of Henle cells
+CYP4B1	Loop of Henle cells
+PARVB	Loop of Henle cells
+SH3RF2	Loop of Henle cells
+HEY2	Loop of Henle cells
+NKAIN4	Loop of Henle cells
+ADAMTS5	Loop of Henle cells
+CXCL1	Loop of Henle cells
+GEM	Loop of Henle cells
+FGA	Loop of Henle cells
+PLA2G7	Loop of Henle cells
+THBS1	Loop of Henle cells
+ENC1	Loop of Henle cells
+SPSB1	Loop of Henle cells
+ARID5A	Loop of Henle cells
+CD40	Loop of Henle cells
+SLC14A2	Loop of Henle cells
+NRGN	Loop of Henle cells
+RNF182	Loop of Henle cells
+PCSK9	Loop of Henle cells
+DRAM1	Loop of Henle cells
+ARC	Loop of Henle cells
+NEK6	Loop of Henle cells
+CDKN1C	Loop of Henle cells
+CALCRL	Loop of Henle cells
+SMARCD3	Loop of Henle cells
+KCNT1	Loop of Henle cells
+PTGS2	Loop of Henle cells
+IRX2	Loop of Henle cells
+PPP1R1B	Loop of Henle cells
+LIPG	Loop of Henle cells
+TNNI1	Loop of Henle cells
+LRRC66	Loop of Henle cells
+IGF1	Loop of Henle cells
+FGFR2	Luminal epithelial cells
+FGG	Luminal epithelial cells
+KRT18	Luminal epithelial cells
+SLPI	Luminal epithelial cells
+PROM1	Luminal epithelial cells
+KRT19	Luminal epithelial cells
+SYTL2	Luminal epithelial cells
+CD74	Luminal epithelial cells
+AGR2	Luminal epithelial cells
+LTF	Luminal epithelial cells
+SAA2	Luminal epithelial cells
+KRT23	Luminal epithelial cells
+WFDC2	Luminal epithelial cells
+LCN2	Luminal epithelial cells
+BTG1	Luminal epithelial cells
+CLDN4	Luminal epithelial cells
+ANXA1	Luminal epithelial cells
+HMGA1	Luminal epithelial cells
+STC2	Luminal epithelial cells
+AREG	Luminal epithelial cells
+TNFSF10	Luminal epithelial cells
+PIP	Luminal epithelial cells
+ATP7B	Luminal epithelial cells
+HIF1A	Luminal epithelial cells
+FGFR4	Luminal epithelial cells
+DDR1	Luminal epithelial cells
+CEBPD	Luminal epithelial cells
+PGR	Luminal epithelial cells
+KRT8	Luminal epithelial cells
+UXT	Luminal epithelial cells
+PTH1R	Luminal epithelial cells
+CD9	Luminal epithelial cells
+AR	Luminal epithelial cells
+AQP3	Luminal epithelial cells
+ATP2C2	Luminal epithelial cells
+WNT5A	Luminal epithelial cells
+SLC12A2	Luminal epithelial cells
+ESR1	Luminal epithelial cells
+AQP5	Luminal epithelial cells
+RUNX1	Luminal epithelial cells
+CDH1	Luminal epithelial cells
+MUC1	Luminal epithelial cells
+ANPEP	Luminal epithelial cells
+AKT1	Luteal cells
+LHCGR	Luteal cells
+HSD3B1	Luteal cells
+CYP11A1	Luteal cells
+EPHX2	Luteal cells
+SFRP4	Luteal cells
+PLIN5	Luteal cells
+BHMT	Luteal cells
+PGAM1	Luteal cells
+CHKA	Luteal cells
+ADAMTS1	Luteal cells
+SLC16A2	Luteal cells
+PMPCB	Luteal cells
+SDC1	Luteal cells
+BCAT1	Luteal cells
+RORA	Luteal cells
+AIF1L	Luteal cells
+DHCR7	Luteal cells
+EPDR1	Luteal cells
+AVPI1	Luteal cells
+GAMT	Luteal cells
+PRLR	Luteal cells
+TMEM86A	Luteal cells
+CITED4	Luteal cells
+DYNLT1A	Luteal cells
+GAPDH	Luteal cells
+FKBP5	Luteal cells
+ME1	Luteal cells
+ITGAL	Macrophages
+ITGAM	Macrophages
+CD14	Macrophages
+FUT4	Macrophages
+CD33	Macrophages
+CD80	Macrophages
+CD86	Macrophages
+CD163	Macrophages
+CCR5	Macrophages
+TLR2	Macrophages
+TLR4	Macrophages
+ADGRE1	Macrophages
+GPR34	Macrophages
+CCL9	Macrophages
+TREM2	Macrophages
+FABP4	Macrophages
+S100A8	Macrophages
+WFDC17	Macrophages
+CPM	Macrophages
+CHIT1	Macrophages
+F13A1	Macrophages
+H2-DMA	Macrophages
+CX3CR1	Macrophages
+CXCL16	Macrophages
+TGFBR1	Macrophages
+SLAMF9	Macrophages
+MGL2	Macrophages
+SCIMP	Macrophages
+LILRA5	Macrophages
+CLEC4A2	Macrophages
+CCL12	Macrophages
+CD83	Macrophages
+C3AR1	Macrophages
+STAB1	Macrophages
+MRC1	Macrophages
+PARP14	Macrophages
+FGD2	Macrophages
+FCGR1	Macrophages
+RAB7B	Macrophages
+RBPJ	Macrophages
+SLCO2B1	Macrophages
+NAAA	Macrophages
+MARCH1	Macrophages
+EGLN3	Macrophages
+FGL2	Macrophages
+CCL6	Macrophages
+GPNMB	Macrophages
+CLEC4D	Macrophages
+ADAM8	Macrophages
+ARL11	Macrophages
+MMP12	Macrophages
+LYVE1	Macrophages
+PLTP	Macrophages
+VSIG4	Macrophages
+MS4A4A	Macrophages
+FPR1	Macrophages
+CD180	Macrophages
+RETNLA	Macrophages
+GDF15	Macrophages
+RAB20	Macrophages
+HFE	Macrophages
+TNF	Macrophages
+CCR2	Macrophages
+SNX20	Macrophages
+CD209A	Macrophages
+FMNL1	Macrophages
+GPR132	Macrophages
+SLAMF7	Macrophages
+NCEH1	Macrophages
+CCL24	Macrophages
+C5AR1	Macrophages
+CD300A	Macrophages
+CXCL2	Macrophages
+CCL7	Macrophages
+CCL2	Macrophages
+IL1B	Macrophages
+IRF5	Macrophages
+AHR	Macrophages
+MYO1G	Macrophages
+DUSP5	Macrophages
+GPR171	Macrophages
+CCR7	Macrophages
+DNASE1L3	Macrophages
+CXCL1	Macrophages
+SAMSN1	Macrophages
+NR4A3	Macrophages
+CCL22	Macrophages
+S100A4	Macrophages
+MMP9	Macrophages
+HILPDA	Macrophages
+NRP2	Macrophages
+SLC37A2	Macrophages
+CTSK	Macrophages
+CD36	Macrophages
+LPCAT2	Macrophages
+HPGDS	Macrophages
+IFNAR2	Macrophages
+MS4A7	Macrophages
+SLC11A1	Macrophages
+HPGD	Macrophages
+CCL3	Macrophages
+CLEC7A	Macrophages
+CD5L	Macrophages
+LILR4B	Macrophages
+CCL5	Macrophages
+CYTH4	Macrophages
+CLEC4N	Macrophages
+CD209F	Macrophages
+CD3E	Macrophages
+CD19	Macrophages
+CD74	Macrophages
+LYZ1	Macrophages
+CSF1R	Macrophages
+LGALS3	Macrophages
+CD68	Macrophages
+UCP2	Macrophages
+TREML4	Macrophages
+FGR	Macrophages
+CYBB	Macrophages
+CD200	Macrophages
+CD200R1	Macrophages
+GATA6	Macrophages
+H2-AB1	Macrophages
+H2-EB1	Macrophages
+IL4RA	Macrophages
+ITGAX	Macrophages
+LY6C1	Macrophages
+PPARG	Macrophages
+SIGLECF	Macrophages
+TYROBP	Macrophages
+RGS1	Macrophages
+DAB2	Macrophages
+P2RY6	Macrophages
+MAF	Macrophages
+LYZ2	Macrophages
+AIF1	Macrophages
+CLEC10A	Macrophages
+ADGRE4	Macrophages
+ADGRE5	Macrophages
+CLEC4A3	Macrophages
+CLEC4A1	Macrophages
+SLC15A3	Macrophages
+AKR1B3	Macrophages
+CYP27A1	Macrophages
+SLC7A7	Macrophages
+RUNX3	Macrophages
+SYK	Macrophages
+CSN2	Mammary epithelial cells
+CSN1S2A	Mammary epithelial cells
+BTN1A1	Mammary epithelial cells
+BTN2A2	Mammary epithelial cells
+MMP14	Mammary epithelial cells
+TOX3	Mammary epithelial cells
+CDH1	Mammary epithelial cells
+FFAR1	Mammary epithelial cells
+PYGO2	Mammary epithelial cells
+SERPINB5	Mammary epithelial cells
+RUNX2	Mammary epithelial cells
+WAP	Mammary epithelial cells
+CITED1	Mammary epithelial cells
+IRF6	Mammary epithelial cells
+SULT1E1	Mammary epithelial cells
+KRT14	Mammary epithelial cells
+KDM3A	Mammary epithelial cells
+SLC30A2	Mammary epithelial cells
+PADI2	Mammary epithelial cells
+CLDN1	Mammary epithelial cells
+ABCG2	Mammary epithelial cells
+PIP	Mammary epithelial cells
+KRT5	Mammary epithelial cells
+PRLR	Mammary epithelial cells
+CLDN4	Mammary epithelial cells
+CSN3	Mammary epithelial cells
+CSN1S1	Mammary epithelial cells
+RARRES1	Mammary epithelial cells
+KRT17	Mammary epithelial cells
+NNMT	Mammary epithelial cells
+ALDH1A3	Mammary epithelial cells
+SGMS2	Mammary epithelial cells
+PIEZO1	Mammary epithelial cells
+ANO1	Mammary epithelial cells
+WNT5B	Mammary epithelial cells
+NEDD9	Mammary epithelial cells
+FOXP4	Mammary epithelial cells
+LSR	Mammary epithelial cells
+LIF	Mammary epithelial cells
+KRT19	Mammary epithelial cells
+KRT7	Mammary epithelial cells
+STAT3	Mammary epithelial cells
+KRT8	Mammary epithelial cells
+KRT18	Mammary epithelial cells
+WFDC18	Mammary epithelial cells
+KIT	Mast cells
+ENPP3	Mast cells
+IL2RA	Mast cells
+IL17A	Mast cells
+CRH	Mast cells
+HSD11B1	Mast cells
+CD274	Mast cells
+CXCR2	Mast cells
+CXCR4	Mast cells
+CCR3	Mast cells
+CCR5	Mast cells
+LTC4S	Mast cells
+GPR34	Mast cells
+MGST2	Mast cells
+ACHE	Mast cells
+CPA3	Mast cells
+CPA1	Mast cells
+CMA1	Mast cells
+HNMT	Mast cells
+TPSAB1	Mast cells
+PTGDS 	Mast cells
+CFP	Mast cells
+RAB27B	Mast cells
+ATP8B5	Mast cells
+SLA	Mast cells
+IL1RL1	Mast cells
+CSF2RB2	Mast cells
+GNAI1	Mast cells
+CFD	Mast cells
+OSBPL8	Mast cells
+ADORA3	Mast cells
+HS3ST1	Mast cells
+CSF2RB	Mast cells
+DAPP1	Mast cells
+SLC6A4	Mast cells
+MAOB	Mast cells
+LILR4B	Mast cells
+CSRNP1	Mast cells
+CYP11A1	Mast cells
+RGS1	Mast cells
+MRGPRB2	Mast cells
+PLEK	Mast cells
+MRGPRB1	Mast cells
+HDC	Mast cells
+MCPT4	Mast cells
+TPSB2	Mast cells
+TPH1	Mast cells
+CD55	Mast cells
+CD200R3	Mast cells
+RGS13	Mast cells
+TPSG1	Mast cells
+SOCS1	Mast cells
+BTK	Mast cells
+IL4	Mast cells
+MS4A2	Mast cells
+VWA5A	Mast cells
+FCER1A	Mast cells
+MCEMP1	Mast cells
+MILR1	Mast cells
+CCL2	Mast cells
+CMA2	Mast cells
+CREB3L1	Mast cells
+EDNRA	Mast cells
+HS6ST2	Mast cells
+KCNE3	Mast cells
+MCPT9	Mast cells
+MEIS2	Mast cells
+MRGPRA4	Mast cells
+MRGPRX2	Mast cells
+OLFR920	Mast cells
+PLAU	Mast cells
+ADAMTS9	Mast cells
+CHST1	Mast cells
+COBL	Mast cells
+CTSG	Mast cells
+DNM3	Mast cells
+FAM198B	Mast cells
+GRIK2	Mast cells
+HPGDS	Mast cells
+HS3ST3A1	Mast cells
+PAPSS2	Mast cells
+PCBD1	Mast cells
+PCP4L1	Mast cells
+RNF128	Mast cells
+SERPINB1A	Mast cells
+SLC29A1	Mast cells
+SLC45A3	Mast cells
+STARD13	Mast cells
+A4GALT	Mast cells
+ACER3	Mast cells
+ARMCX3	Mast cells
+ATL2	Mast cells
+BBS10	Mast cells
+BMPR2	Mast cells
+C2	Mast cells
+CAR13	Mast cells
+CCDC141	Mast cells
+CCL7	Mast cells
+CDC42BPA	Mast cells
+CDH9	Mast cells
+COPZ2	Mast cells
+MCPT2	Mast cells
+ZFP9	Mast cells
+ZFP521	Mast cells
+ZDHHC13	Mast cells
+WDR60	Mast cells
+UNC13B	Mast cells
+TRANK1	Mast cells
+TIAM2	Mast cells
+TCF7L1	Mast cells
+STK32B	Mast cells
+ST6GALNAC3	Mast cells
+SOCS2	Mast cells
+SPRED1	Mast cells
+SMPX	Mast cells
+SMARCA1	Mast cells
+SLC7A5	Mast cells
+SLC4A4	Mast cells
+SLC31A2	Mast cells
+SGCE	Mast cells
+ROR1	Mast cells
+RNF180	Mast cells
+RBFOX1	Mast cells
+RAPGEF2	Mast cells
+PDE1C	Mast cells
+PCDH7	Mast cells
+OPTN	Mast cells
+OLFR918	Mast cells
+OLFR917	Mast cells
+OLFR915	Mast cells
+OAF	Mast cells
+NEO1	Mast cells
+NDST2	Mast cells
+NCEH1	Mast cells
+MT2	Mast cells
+MRGPRX1	Mast cells
+MLPH	Mast cells
+MITF	Mast cells
+MFGE8	Mast cells
+LSAMP	Mast cells
+LRRC66	Mast cells
+LIMA1	Mast cells
+KRT4	Mast cells
+KDELR3	Mast cells
+IDS	Mast cells
+HSPA13	Mast cells
+HS2ST1	Mast cells
+GPM6A	Mast cells
+GP1BA	Mast cells
+GNAZ	Mast cells
+FAM84A	Mast cells
+FAM129B	Mast cells
+EXT1	Mast cells
+ESYT3	Mast cells
+ENO2	Mast cells
+ENAH	Mast cells
+DUSP1	Mast cells
+DGKI	Mast cells
+DDC	Mast cells
+DCLK3	Mast cells
+ITGA2B	Megakaryocytes
+GP1BA	Megakaryocytes
+ITGB3	Megakaryocytes
+MPL	Megakaryocytes
+LAT	Megakaryocytes
+PLEK	Megakaryocytes
+S100A9	Megakaryocytes
+S100A8	Megakaryocytes
+PF4	Megakaryocytes
+F13A1	Megakaryocytes
+CD9	Megakaryocytes
+EPOR	Megakaryocytes
+CXCR4	Megakaryocytes
+GP5	Megakaryocytes
+CXCR1	Megakaryocytes
+CXCR2	Megakaryocytes
+SLAMF1	Megakaryocytes
+PDE6B	Megakaryocytes
+MATK	Megakaryocytes
+SPON2	Megakaryocytes
+MKL2	Megakaryocytes
+TLR9	Megakaryocytes
+KIF5B	Megakaryocytes
+GATA1	Megakaryocytes
+FLI1	Megakaryocytes
+PROX1	Megakaryocytes
+SYP	Megakaryocytes
+TSPAN9	Megakaryocytes
+RGS18	Megakaryocytes
+TREML1	Megakaryocytes
+GATA2	Megakaryocytes
+VWF	Megakaryocytes
+ALOX12	Megakaryocytes
+SELP	Megakaryocytes
+NFATC1	Megakaryocytes
+CIB1	Megakaryocytes
+PLK3	Megakaryocytes
+MAFG	Megakaryocytes
+IL2RA	Megakaryocytes
+PECAM1	Megakaryocytes
+PPARG	Megakaryocytes
+IL6	Megakaryocytes
+IL21R	Megakaryocytes
+LRP1	Megakaryocytes
+ACHE	Megakaryocytes
+VEGFA	Megakaryocytes
+TGFB1	Megakaryocytes
+GP9	Megakaryocytes
+AHR	Melanocytes
+MC1R	Melanocytes
+PMEL	Melanocytes
+PTGDS	Melanocytes
+SLC45A2	Melanocytes
+MLANA	Melanocytes
+MITF	Melanocytes
+TYR	Melanocytes
+TYRP1	Melanocytes
+DCT	Melanocytes
+FILIP1L	Melanocytes
+GPNMB	Melanocytes
+LOXL2	Melanocytes
+ZC3H7A	Melanocytes
+SLK	Melanocytes
+SERPINB1A	Melanocytes
+DKK3	Melanocytes
+AHNAK2	Melanocytes
+HSPB1	Melanocytes
+PAX3	Melanocytes
+TRPM1	Melanocytes
+CTNS	Melanocytes
+ENPP1	Melanocytes
+SOX9	Melanocytes
+BNC2	Melanocytes
+MEN1	Melanocytes
+POMC	Melanocytes
+TFAP2A	Melanocytes
+RAB38	Melanocytes
+CRABP1	Melanocytes
+BMI1	Melanocytes
+PTN	Melanocytes
+KLC2	Melanocytes
+IL24	Melanocytes
+TPH2	Melanocytes
+PPARA	Melanocytes
+PPARD	Melanocytes
+PPARG	Melanocytes
+PRKCA	Melanocytes
+FOXC1	Meningeal cells
+FOXC2	Meningeal cells
+BMP7	Meningeal cells
+ZIC1	Meningeal cells
+ZIC3	Meningeal cells
+ALDH1A2	Meningeal cells
+ALX4	Meningeal cells
+IGF2	Meningeal cells
+VTN	Meningeal cells
+IGFBP2	Meningeal cells
+DCN	Meningeal cells
+LUM	Meningeal cells
+PDGFRA	Meningeal cells
+IL33	Meningeal cells
+PTGDS	Meningeal cells
+NNAT	Meningeal cells
+NOV	Meningeal cells
+SLC47A1	Meningeal cells
+CHGA	Merkel cells
+KRT20	Merkel cells
+FLI1	Merkel cells
+GNAI1	Merkel cells
+VIL1	Merkel cells
+PIEZO2	Merkel cells
+ID2	Merkel cells
+TRPV4	Merkel cells
+ATOH1	Merkel cells
+SOX2	Merkel cells
+TTF1	Merkel cells
+POU4F3	Merkel cells
+GFI1	Merkel cells
+KRT8	Merkel cells
+KRT18	Merkel cells
+PDGFB	Mesangial cells
+PDGFRB	Mesangial cells
+ACTA2	Mesangial cells
+TNS1	Mesangial cells
+SFRP2	Mesangial cells
+ECM1	Mesangial cells
+ANGPT2	Mesangial cells
+FGF1	Mesangial cells
+CTGF	Mesangial cells
+PLAU	Mesangial cells
+GATA3	Mesangial cells
+LEF1	Mesangial cells
+MRC1	Mesangial cells
+PML	Mesangial cells
+OGT	Mesangial cells
+NOCT	Mesangial cells
+NCOA2	Mesangial cells
+PER3	Mesangial cells
+PLA2R1	Mesangial cells
+TRIP4	Mesangial cells
+AMOTL2	Mesangial cells
+LATS2	Mesangial cells
+YAP1	Mesangial cells
+LRP5	Mesangial cells
+MIB1	Mesangial cells
+NOSTRIN	Mesangial cells
+ADAMTSL4	Mesangial cells
+EMILIN1	Mesangial cells
+ITGA8	Mesangial cells
+DYRK1A	Mesangial cells
+ARID5B	Mesangial cells
+CCR7	Mesangial cells
+FN1	Mesangial cells
+PAWR	Mesangial cells
+PTN	Mesangial cells
+SERPINE2	Mesangial cells
+TBX18	Mesangial cells
+TEK	Mesangial cells
+THY1	Mesangial cells
+MYL9	Mesangial cells
+TPM2	Mesangial cells
+CALD1	Mesangial cells
+HOPX	Mesangial cells
+NR4A2	Mesangial cells
+ACTN1	Mesangial cells
+AKAP12	Mesangial cells
+ROCK1	Mesangial cells
+SH3BGRL	Mesangial cells
+RASD1	Mesangial cells
+SNCG	Mesangial cells
+FILIP1L	Mesangial cells
+FLNA	Mesangial cells
+MEF2C	Mesangial cells
+CSTB	Mesangial cells
+SMARCA5	Mesangial cells
+PDE3A	Mesangial cells
+MAP3K20	Mesangial cells
+CALB2	Mesothelial cells
+MUC16	Mesothelial cells
+KRT5	Mesothelial cells
+KRT6A	Mesothelial cells
+DES	Mesothelial cells
+CDH1	Mesothelial cells
+HAS2	Mesothelial cells
+KRT7	Mesothelial cells
+ME1	Mesothelial cells
+ME2	Mesothelial cells
+MSLN	Mesothelial cells
+THBD	Mesothelial cells
+WT1	Mesothelial cells
+LRRN4	Mesothelial cells
+IL17RE	Mesothelial cells
+LOX	Mesothelial cells
+OASL2	Mesothelial cells
+KCNAB1	Mesothelial cells
+PKHD1L1	Mesothelial cells
+SULF1	Mesothelial cells
+DUSP5	Mesothelial cells
+MIR22HG	Mesothelial cells
+COBLL1	Mesothelial cells
+ST3GAL1	Mesothelial cells
+FBXO33	Mesothelial cells
+FZD1	Mesothelial cells
+RASL11A	Mesothelial cells
+CDON	Mesothelial cells
+BCL3	Mesothelial cells
+ACKR3	Mesothelial cells
+NPR1	Mesothelial cells
+PCSK6	Mesothelial cells
+DPP4	Mesothelial cells
+RND1	Mesothelial cells
+GBP2	Mesothelial cells
+C1RA	Mesothelial cells
+MEDAG	Mesothelial cells
+AR	Mesothelial cells
+LGALS7	Mesothelial cells
+GSTT1	Mesothelial cells
+ANO1	Mesothelial cells
+GSTA3	Mesothelial cells
+OSR1	Mesothelial cells
+TWSG1	Mesothelial cells
+MMP23	Mesothelial cells
+ADGRD1	Mesothelial cells
+CRLS1	Mesothelial cells
+FLNC	Mesothelial cells
+PTGS2	Mesothelial cells
+C2	Mesothelial cells
+FMO2	Mesothelial cells
+FMOD	Mesothelial cells
+FGF1	Mesothelial cells
+TRIM30C	Mesothelial cells
+EFEMP1	Mesothelial cells
+FRAS1	Mesothelial cells
+RSPO1	Mesothelial cells
+RARRES2	Mesothelial cells
+GP2	Microfold cells
+SPIB	Microfold cells
+PGLYRP1	Microfold cells
+CCL9	Microfold cells
+EHF	Microfold cells
+ANXA5	Microfold cells
+SOX8	Microfold cells
+MIER3	Microfold cells
+NFIC	Microfold cells
+SERPINB6A	Microfold cells
+CXCL16	Microfold cells
+CTSD	Microfold cells
+CCL20	Microfold cells
+CTSH	Microfold cells
+CCL6	Microfold cells
+MARCKSL1	Microfold cells
+RAC2	Microfold cells
+TNFAIP2	Microfold cells
+FABP5	Microfold cells
+GJB2	Microfold cells
+MFGE8	Microfold cells
+CYBA	Microfold cells
+TMPRSS2	Microfold cells
+AHR	Microfold cells
+MTF1	Microfold cells
+RELB	Microfold cells
+TULP4	Microfold cells
+ONECUT2	Microfold cells
+FOSL2	Microfold cells
+IRF6	Microfold cells
+IRF2	Microfold cells
+ZFP553	Microfold cells
+NFIB	Microfold cells
+FOXP4	Microfold cells
+ITGAM	Microglia
+ITGAX	Microglia
+C5AR1	Microglia
+CX3CR1	Microglia
+P2RY12	Microglia
+P2RX7	Microglia
+CD40	Microglia
+TREM2	Microglia
+TMEM119	Microglia
+GPR34	Microglia
+TFF3	Microglia
+CBR2	Microglia
+ZEB2OS	Microglia
+SALL1	Microglia
+CSF3R	Microglia
+TCIRG1	Microglia
+SUSD3	Microglia
+GPR183	Microglia
+VAV1	Microglia
+SLC2A5	Microglia
+IL21R	Microglia
+IL10RA	Microglia
+PTAFR	Microglia
+LAG3	Microglia
+IL6RA	Microglia
+ENTPD1	Microglia
+ADRB2	Microglia
+TMEM173	Microglia
+TBXAS1	Microglia
+P2RY6	Microglia
+P2RY13	Microglia
+CEBPA	Microglia
+CD180	Microglia
+MYO1F	Microglia
+FCRLS	Microglia
+OLFML3	Microglia
+SIGLECH	Microglia
+S100A8	Microglia
+LTC4S	Microglia
+TGFBR1	Microglia
+S100A9	Microglia
+LPCAT2	Microglia
+ITGB5	Microglia
+LAIR1	Microglia
+SPHK1	Microglia
+COLEC12	Microglia
+ALDH1A2	Microglia
+AEBP1	Microglia
+PTGDS	Microglia
+CCR5	Microglia
+SLCO2B1	Microglia
+PTGS1	Microglia
+APBB1IP	Microglia
+CYFIP1	Microglia
+CYTH4	Microglia
+MERTK	Microglia
+MAFB	Microglia
+HPGDS	Microglia
+BIN2	Microglia
+FCGR1	Microglia
+CMTM6	Microglia
+CCL4	Microglia
+CCL3	Microglia
+CCRL2	Microglia
+UCP2	Microglia
+CLEC3B	Microglia
+MRC2	Microglia
+CLEC10A	Microglia
+PF4	Microglia
+CTS3	Microglia
+FCGR3	Microglia
+CD53	Microglia
+FOS	Microglia
+EGR1	Microglia
+AIF1	Microglia
+CTSS	Microglia
+CSF1R	Microglia
+SKI	Microglia
+C1QB	Microglia
+RGS1	Monocytes
+CD7	Monocytes
+TET2	Monocytes
+CD40	Monocytes
+DYSF	Monocytes
+CMKLR1	Monocytes
+MEFV	Monocytes
+HCK	Monocytes
+PADI4	Monocytes
+GHSR	Monocytes
+ITGAX	Monocytes
+SELE	Monocytes
+TLR4	Monocytes
+AR	Monocytes
+CXCR4	Monocytes
+CD86	Monocytes
+CCR2	Monocytes
+TNFRSF14	Monocytes
+MGMT	Monocytes
+CD14	Monocytes
+CD33	Monocytes
+ITGAM	Monocytes
+ACE	Monocytes
+FUT4	Monocytes
+ICAM1	Monocytes
+SELL	Monocytes
+CD163	Monocytes
+FCGR2B	Monocytes
+ACP5	Monocytes
+MRC1	Monocytes
+TNF	Monocytes
+PLAU	Monocytes
+IRF7	Monocytes
+PLSCR1	Monocytes
+MX1	Monocytes
+IL1RN	Monocytes
+IFIT1	Monocytes
+IDO1	Monocytes
+IFIT3	Monocytes
+TNFSF10	Monocytes
+CXCL10	Monocytes
+S100A9	Monocytes
+S100A8	Monocytes
+S100A4	Monocytes
+CLEC7A	Monocytes
+CSF3R	Monocytes
+MNDA	Monocytes
+ZFP36L2	Monocytes
+LTA4H	Monocytes
+CLEC12A	Monocytes
+CD48	Monocytes
+PRTN3	Monocytes
+VCAN	Monocytes
+LY6C2	Monocytes
+IFITM3	Monocytes
+FN1	Monocytes
+ADGRE1	Monocytes
+CD44	Monocytes
+CSF1R	Monocytes
+CX3CR1	Monocytes
+ITGAL	Monocytes
+LY6C1	Monocytes
+LY6G	Monocytes
+PECAM1	Monocytes
+PTPRC	Monocytes
+SPN	Monocytes
+PSAP	Monocytes
+RHOC	Monocytes
+PILRA	Monocytes
+NFKBIZ	Monocytes
+NAAA	Monocytes
+LY6E	Monocytes
+LYN	Monocytes
+MS4A7	Monocytes
+CEBPB	Monocytes
+CD68	Monocytes
+IFI30	Monocytes
+RGS2	Monocytes
+LST1	Monocytes
+SPI1	Monocytes
+TYMP	Monocytes
+FGL2	Monocytes
+PYCARD	Monocytes
+LYST	Monocytes
+CCL3	Monocytes
+IL1B	Monocytes
+CFP	Monocytes
+CD36	Monocytes
+ISL1	Motor neurons
+MNX1	Motor neurons
+ISL2	Motor neurons
+CHAT	Motor neurons
+VSX2	Motor neurons
+EN1	Motor neurons
+EVX1	Motor neurons
+EVX2	Motor neurons
+FGF1	Motor neurons
+LHX3	Motor neurons
+NKX6-1	Motor neurons
+NGFR	Motor neurons
+REG2	Motor neurons
+SIM1	Motor neurons
+TLR2	Müller cells
+IL6	Müller cells
+CNR2	Müller cells
+VEGFA	Müller cells
+SLC38A5	Müller cells
+SLC38A3	Müller cells
+IL33	Müller cells
+RDH10	Müller cells
+SLITRK2	Müller cells
+SYNPR	Müller cells
+ABCA8A	Müller cells
+CROT	Müller cells
+CRYM	Müller cells
+CAR14	Müller cells
+COL9A1	Müller cells
+SIX3OS1	Müller cells
+DAPL1	Müller cells
+AQP4	Müller cells
+RLBP1	Müller cells
+DKK3	Müller cells
+VSX2	Müller cells
+COL1A1	Müller cells
+COL2A1	Müller cells
+COL3A1	Müller cells
+COL4A2	Müller cells
+COL5A1	Müller cells
+COL6A1	Müller cells
+COL11A1	Müller cells
+GLUL	Müller cells
+CLU	Müller cells
+S100A16	Müller cells
+SOX2	Müller cells
+APOE	Müller cells
+DBI	Müller cells
+GNAI2	Müller cells
+GPR37	Müller cells
+KCNJ2	Müller cells
+KCNJ10	Müller cells
+SPC25	Müller cells
+ITM2B	Müller cells
+ATG4B	Müller cells
+ZBED4	Müller cells
+PRDX6	Müller cells
+SLC1A3	Müller cells
+HES1	Müller cells
+KIT	Müller cells
+CRB1	Müller cells
+ANXA4	Müller cells
+CD44	Müller cells
+GSTT1	Müller cells
+GSTM5	Müller cells
+SLC6A1	Müller cells
+SFTPA1	Müller cells
+ITGAM	Myeloid-derived suppressor cells
+FUT4	Myeloid-derived suppressor cells
+CD33	Myeloid-derived suppressor cells
+CCR2	Myeloid-derived suppressor cells
+ICAM1	Myeloid-derived suppressor cells
+CD80	Myeloid-derived suppressor cells
+CXCR1	Myeloid-derived suppressor cells
+ADGRE1	Myeloid-derived suppressor cells
+LY6G	Myeloid-derived suppressor cells
+S100A9	Myeloid-derived suppressor cells
+S100A4	Myeloid-derived suppressor cells
+S100A8	Myeloid-derived suppressor cells
+MYOG	Myoblasts
+LIF	Myoblasts
+NGF	Myoblasts
+IGF2	Myoblasts
+ANGPT2	Myoblasts
+ACHE	Myoblasts
+ADAM12	Myoblasts
+TPM2	Myoblasts
+ENO3	Myoblasts
+DES	Myoblasts
+CDH15	Myoblasts
+CAPN1	Myoblasts
+MYF6	Myoblasts
+MYF5	Myoblasts
+MYOD1	Myoblasts
+PAX3	Myoblasts
+PAX7	Myoblasts
+TBX3	Myoblasts
+TTN	Myoblasts
+MUSK	Myoblasts
+FLNC	Myoblasts
+FGFR4	Myoblasts
+STK40	Myoblasts
+CXCL1	Myoblasts
+TNFRSF12A	Myoblasts
+ARL4D	Myoblasts
+CCL2	Myoblasts
+MYD88	Myoblasts
+BRAF	Myoblasts
+EGFR	Myoblasts
+ZBTB16	Myoblasts
+SIX1	Myoblasts
+PDZRN3	Myoblasts
+ACTC1	Myocytes
+FHL2	Myocytes
+ACTA1	Myocytes
+TNNI1	Myocytes
+TNNI2	Myocytes
+TNNT1	Myocytes
+TNNT3	Myocytes
+TNNC1	Myocytes
+TNNC2	Myocytes
+ACTN2	Myocytes
+ACTN3	Myocytes
+ANKRD1	Myocytes
+ANKRD2	Myocytes
+CAPZA3	Myocytes
+CLOCK	Myocytes
+DES	Myocytes
+DMD	Myocytes
+IL4	Myocytes
+ITGA7	Myocytes
+LAMA2	Myocytes
+LAMB1	Myocytes
+LDB1	Myocytes
+LDB3	Myocytes
+MSTN	Myocytes
+MYH1	Myocytes
+MYH4	Myocytes
+MYH7	Myocytes
+MYH8	Myocytes
+NBR1	Myocytes
+NEB	Myocytes
+NID1	Myocytes
+NID2	Myocytes
+TMOD4	Myocytes
+TPM2	Myocytes
+TTN	Myocytes
+MYF5	Myocytes
+MYF6	Myocytes
+MYOD1	Myocytes
+MYOG	Myocytes
+SIX1	Myocytes
+SIX4	Myocytes
+PAX3	Myocytes
+PAX7	Myocytes
+ADAM12	Myocytes
+ARHGAP26	Myocytes
+CAV3	Myocytes
+CDH15	Myocytes
+CMKLR1	Myocytes
+CXCR4	Myocytes
+DLL1	Myocytes
+DOCK1	Myocytes
+DOCK5	Myocytes
+FLNC	Myocytes
+IL4RA	Myocytes
+IQSEC1	Myocytes
+ITGA3	Myocytes
+MMP2	Myocytes
+MMP9	Myocytes
+MRC1	Myocytes
+MYH14	Myocytes
+NOTCH3	Myocytes
+NPHS1	Myocytes
+OLFR599	Myocytes
+PLD1	Myocytes
+PRKCQ	Myocytes
+PTGIR	Myocytes
+PTK2	Myocytes
+PXN	Myocytes
+SULF1	Myocytes
+TRIO	Myocytes
+WASHC1	Myocytes
+WIPF1	Myocytes
+NPPA	Myocytes
+NPPB	Myocytes
+EDN1	Myocytes
+GATA4	Myocytes
+GATA5	Myocytes
+MEF2A	Myocytes
+MEF2B	Myocytes
+MEF2D	Myocytes
+POPDC2	Myocytes
+CHODL	Myocytes
+MYLPF	Myocytes
+MYL1	Myocytes
+CKM	Myocytes
+TCAP	Myocytes
+MYOZ1	Myocytes
+PYGM	Myocytes
+ENO3	Myocytes
+THBS4	Myocytes
+SFN	Myoepithelial cells
+ACTA2	Myoepithelial cells
+CNN1	Myoepithelial cells
+MME	Myoepithelial cells
+CD109	Myoepithelial cells
+KRT14	Myoepithelial cells
+KRT17	Myoepithelial cells
+EGFR	Myoepithelial cells
+SERPINB5	Myoepithelial cells
+NGFR	Myoepithelial cells
+CDH3	Myoepithelial cells
+MYH11	Myoepithelial cells
+FST	Myoepithelial cells
+ACTG2	Myoepithelial cells
+MDFI	Myoepithelial cells
+PXN	Myoepithelial cells
+LAMB3	Myoepithelial cells
+LAMC2	Myoepithelial cells
+GRWD1	Myoepithelial cells
+SPHK1	Myoepithelial cells
+SMIM3	Myoepithelial cells
+KRT5	Myoepithelial cells
+MYLK	Myoepithelial cells
+MYL9	Myoepithelial cells
+CDH11	Myofibroblasts
+DES	Myofibroblasts
+PALLD	Myofibroblasts
+ACTA2	Myofibroblasts
+GFAP	Myofibroblasts
+TNS1	Myofibroblasts
+CALD1	Myofibroblasts
+MYL9	Myofibroblasts
+TAGLN	Myofibroblasts
+IL12RB2	Natural killer T cells
+IL17RA	Natural killer T cells
+IL12RB1	Natural killer T cells
+KLRB1	Natural killer T cells
+RORA	Natural killer T cells
+ITGB2	Natural killer T cells
+EGR1	Natural killer T cells
+MAP3K8	Natural killer T cells
+NR4A1	Natural killer T cells
+GZMB	Natural killer T cells
+TNFRSF8	Natural killer T cells
+PRF1	Natural killer T cells
+IL2RB	Natural killer T cells
+ZBTB16	Natural killer T cells
+TBX21	Natural killer T cells
+GATA3	Natural killer T cells
+NCAM1	Natural killer T cells
+S1PR1	Natural killer T cells
+STYK1	Natural killer T cells
+TCF7	Natural killer T cells
+SLAMF7	Natural killer T cells
+ZFP683	Natural killer T cells
+CXCR4	Natural killer T cells
+CD44	Natural killer T cells
+SOX1	Neural stem/precursor cells
+PROM1	Neural stem/precursor cells
+IGF1R	Neural stem/precursor cells
+SP8	Neural stem/precursor cells
+GFAP	Neural stem/precursor cells
+RBM3	Neural stem/precursor cells
+SOX3	Neural stem/precursor cells
+S100B	Neural stem/precursor cells
+SLC1A3	Neural stem/precursor cells
+NEUROD4	Neural stem/precursor cells
+NEUROG1	Neural stem/precursor cells
+NEUROG2	Neural stem/precursor cells
+NHLH1	Neural stem/precursor cells
+PPP1R17	Neural stem/precursor cells
+TMTC4	Neural stem/precursor cells
+EOMES	Neural stem/precursor cells
+PLEKHH2	Neural stem/precursor cells
+TLR3	Neural stem/precursor cells
+PARP12	Neural stem/precursor cells
+P2RX7	Neural stem/precursor cells
+INAFM2	Neural stem/precursor cells
+ISG15	Neural stem/precursor cells
+IGFBP3	Neural stem/precursor cells
+IFIT1	Neural stem/precursor cells
+IFI44	Neural stem/precursor cells
+MGAT5	Neural stem/precursor cells
+PBK	Neural stem/precursor cells
+DLX2	Neural stem/precursor cells
+CBX3	Neural stem/precursor cells
+RND3	Neural stem/precursor cells
+DLX5	Neural stem/precursor cells
+SP9	Neural stem/precursor cells
+POU3F4	Neural stem/precursor cells
+DYNLT1C	Neural stem/precursor cells
+BARHL2	Neural stem/precursor cells
+LHX9	Neural stem/precursor cells
+SHOX2	Neural stem/precursor cells
+DBX1	Neural stem/precursor cells
+DLL3	Neural stem/precursor cells
+PITX2	Neural stem/precursor cells
+OTX1	Neural stem/precursor cells
+ARX	Neural stem/precursor cells
+NXPH1	Neural stem/precursor cells
+TOX3	Neural stem/precursor cells
+ASCL2	Neural stem/precursor cells
+HES5	Neural stem/precursor cells
+HOPX	Neural stem/precursor cells
+NEUROD1	Neural stem/precursor cells
+PRSS56	Neural stem/precursor cells
+SOX9	Neural stem/precursor cells
+ALDOC	Neural stem/precursor cells
+APOE	Neural stem/precursor cells
+ID4	Neural stem/precursor cells
+SOX2	Neural stem/precursor cells
+DCX	Neural stem/precursor cells
+CCND2	Neural stem/precursor cells
+DLX1	Neural stem/precursor cells
+S100A6	Neural stem/precursor cells
+NTNG1	Neuroblasts
+TSHZ1	Neuroblasts
+SP9	Neuroblasts
+SP8	Neuroblasts
+PROK2	Neuroblasts
+ASCL1	Neuroblasts
+DLL3	Neuroblasts
+SALL3	Neuroblasts
+DRAXIN	Neuroblasts
+ERBB4	Neuroblasts
+TRIM32	Neuroblasts
+IGFBPL1	Neuroblasts
+EOMES	Neuroblasts
+PBX1	Neuroblasts
+CUX2	Neuroblasts
+ISL1	Neuroblasts
+PHF1	Neuroblasts
+NEUROG1	Neuroblasts
+NKX6-1	Neuroblasts
+NEUROG2	Neuroblasts
+MAPK7	Neuroblasts
+PROKR2	Neuroblasts
+POU6F2	Neuroblasts
+ITGA6	Neuroblasts
+EFNA2	Neuroblasts
+DCX	Neuroblasts
+CCKAR	Neuroblasts
+CCKBR	Neuroblasts
+GRM5	Neuroblasts
+EZH2	Neuroblasts
+DLX2	Neuroblasts
+MARK2	Neuroblasts
+LRP8	Neuroblasts
+VLDLR	Neuroblasts
+DAB1	Neuroblasts
+NCAN	Neuroblasts
+EPHA4	Neuroblasts
+TACC3	Neuroblasts
+EGFR	Neuroblasts
+TUBB3	Neuroblasts
+SIRT1	Neuroblasts
+NCAM1	Neuroblasts
+NEUROD1	Neuroblasts
+SCGN	Neuroblasts
+NES	Neuroblasts
+WT1	Neuroblasts
+ZBED4	Neuroblasts
+PROS1	Neuroblasts
+CNR1	Neuroblasts
+PPP1R1B	Neuroendocrine cells
+CLASP2	Neuroendocrine cells
+MKL2	Neuroendocrine cells
+FXYD7	Neuroendocrine cells
+DPF1	Neuroendocrine cells
+PENK	Neuroendocrine cells
+GRM5	Neuroendocrine cells
+SFXN5	Neuroendocrine cells
+TAC1	Neuroendocrine cells
+CCDC85C	Neuroendocrine cells
+ATXN1	Neuroendocrine cells
+GPR88	Neuroendocrine cells
+PDE10A	Neuroendocrine cells
+SST	Neuroendocrine cells
+CXCL14	Neuroendocrine cells
+NPY	Neuroendocrine cells
+NRGN	Neuroendocrine cells
+SCN2B	Neuroendocrine cells
+ABHD2	Neuroendocrine cells
+SPOCK1	Neuroendocrine cells
+NEGR1	Neuroendocrine cells
+DUSP26	Neuroendocrine cells
+ARHGDIG	Neuroendocrine cells
+CCK	Neuroendocrine cells
+PRSS12	Neuroendocrine cells
+SERPINI1	Neuroendocrine cells
+NKX2-2	Neuroendocrine cells
+ENO2	Neurons
+RBFOX3	Neurons
+CHAT	Neurons
+TH	Neurons
+CALB1	Neurons
+CALB2	Neurons
+ISL1	Neurons
+EPO	Neurons
+CSF3	Neurons
+NEFH	Neurons
+NEFM	Neurons
+DLG4	Neurons
+SLC12A5	Neurons
+GABRA1	Neurons
+AQP1	Neurons
+IFIT3	Neurons
+SLC11A1	Neurons
+TFF3	Neurons
+SLC1A1	Neurons
+CXCL1	Neurons
+CXCR5	Neurons
+AIM2	Neurons
+MATN2	Neurons
+SLC36A4	Neurons
+PRPH	Neurons
+MECP2	Neurons
+RIN1	Neurons
+OMP	Neurons
+PTPN11	Neurons
+GHSR	Neurons
+NPY	Neurons
+AGRP	Neurons
+RESP18	Neurons
+STX1A	Neurons
+SCN2B	Neurons
+DISP2	Neurons
+CBARP	Neurons
+B3GAT2	Neurons
+FMO1	Neurons
+FBLN2	Neurons
+SHISA2	Neurons
+LUZP2	Neurons
+SCRG1	Neurons
+FAM181B	Neurons
+IGF1	Neurons
+CD59A	Neurons
+CTXN2	Neurons
+TMEM130	Neurons
+DZANK1	Neurons
+ACSL4	Neurons
+CLSTN3	Neurons
+ARHGDIG	Neurons
+HAP1	Neurons
+NRSN2	Neurons
+ABAT	Neurons
+HDAC11	Neurons
+SLC30A9	Neurons
+SCAMP1	Neurons
+MAGEE1	Neurons
+NCALD	Neurons
+COPG1	Neurons
+KCNC1	Neurons
+FBXW7	Neurons
+GABRG2	Neurons
+NMT1	Neurons
+ARID4A	Neurons
+ZRSR1	Neurons
+RGS17	Neurons
+TMEM91	Neurons
+CDK5	Neurons
+SAFB	Neurons
+RNF220	Neurons
+RASGRF1	Neurons
+TCEAL6	Neurons
+TMEM179	Neurons
+NICN1	Neurons
+PNMAL1	Neurons
+NAPG	Neurons
+CMIP	Neurons
+ZMYND11	Neurons
+RHBDD2	Neurons
+ST8SIA3	Neurons
+PQBP1	Neurons
+MATK	Neurons
+TRO	Neurons
+CKMT1	Neurons
+AKAP8L	Neurons
+DUSP26	Neurons
+SYT5	Neurons
+GAD1	Neurons
+FLYWCH1	Neurons
+RIT2	Neurons
+TCEAL5	Neurons
+PNCK	Neurons
+TMEM59L	Neurons
+TCEAL3	Neurons
+GPRASP2	Neurons
+MAP7D2	Neurons
+MIAT	Neurons
+RB1CC1	Neurons
+PABPN1	Neurons
+GRIA3	Neurons
+NBEA	Neurons
+SFSWAP	Neurons
+WDR60	Neurons
+MIRG	Neurons
+SCN1A	Neurons
+RNPC3	Neurons
+HOXC8	Neurons
+RERE	Neurons
+SCN8A	Neurons
+TRIP11	Neurons
+EML5	Neurons
+KMT2C	Neurons
+AAK1	Neurons
+SAFB2	Neurons
+SACS	Neurons
+RYR2	Neurons
+CSPP1	Neurons
+GRIA4	Neurons
+CHD6	Neurons
+ZFP445	Neurons
+ZCCHC7	Neurons
+GPATCH8	Neurons
+PCLO	Neurons
+SYNE1	Neurons
+PROX1	Neurons
+NRGN	Neurons
+PPP1R14C	Neurons
+UBE2D2A	Neurons
+SYNPR	Neurons
+CCDC28B	Neurons
+KCNK1	Neurons
+CNRIP1	Neurons
+FRRS1L	Neurons
+FAM69B	Neurons
+GPR162	Neurons
+CACNG2	Neurons
+SPOCK3	Neurons
+RGS7BP	Neurons
+DNM3	Neurons
+TMEM191C	Neurons
+SLC6A17	Neurons
+DNER	Neurons
+GRM5	Neurons
+CNTNAP2	Neurons
+CPLX1	Neurons
+SLC32A1	Neurons
+DLGAP1	Neurons
+PPP1R9A	Neurons
+GNL3L	Neurons
+ZCCHC12	Neurons
+ATP6V1H	Neurons
+HPCA	Neurons
+CHN1	Neurons
+CPNE6	Neurons
+PDE1A	Neurons
+GNAI1	Neurons
+CCK	Neurons
+RIMS3	Neurons
+OGFOD1	Neurons
+CELF6	Neurons
+DTD1	Neurons
+PRMT2	Neurons
+AVP	Neurons
+RORA	Neurons
+VGF	Neurons
+PCSK2	Neurons
+CHODL	Neurons
+NECAB2	Neurons
+TAC2	Neurons
+KCNMA1	Neurons
+CACNB3	Neurons
+NWD2	Neurons
+ZIC1	Neurons
+TESC	Neurons
+NECAB3	Neurons
+NRN1	Neurons
+GABBR2	Neurons
+SLC17A7	Neurons
+CAR10	Neurons
+DGKB	Neurons
+CACNB4	Neurons
+CTTNBP2	Neurons
+PPP1R1B	Neurons
+PCP4	Neurons
+MEG3	Neurons
+BEX2	Neurons
+BEX1	Neurons
+NDN	Neurons
+CAMK2N1	Neurons
+PNISR	Neurons
+SNHG11	Neurons
+STMN2	Neurons
+PTK2B	Neurons
+DDN	Neurons
+ICAM5	Neurons
+GNG2	Neurons
+SNAP25	Neurons
+VSNL1	Neurons
+PACSIN1	Neurons
+CACNA2D1	Neurons
+SGIP1	Neurons
+ATP6V0A1	Neurons
+MYO5A	Neurons
+DYNC1I1	Neurons
+PRUNE2	Neurons
+CACNA2D2	Neurons
+SLC17A6	Neurons
+TUBB3	Neurons
+ELAVL3	Neurons
+MME	Neutrophils
+ITGAM	Neutrophils
+ITGAX	Neutrophils
+CD14	Neutrophils
+FUT4	Neutrophils
+PECAM1	Neutrophils
+CD33	Neutrophils
+SELL	Neutrophils
+C5AR1	Neutrophils
+CXCR1	Neutrophils
+CXCR2	Neutrophils
+TLR2	Neutrophils
+MYLK	Neutrophils
+S100A9	Neutrophils
+MPO	Neutrophils
+CCL6	Neutrophils
+CEACAM1	Neutrophils
+CRP	Neutrophils
+LCN2	Neutrophils
+DEFA2	Neutrophils
+DEFA3	Neutrophils
+LTF	Neutrophils
+ELANE	Neutrophils
+S100A8	Neutrophils
+RETNLG	Neutrophils
+IL1B	Neutrophils
+NGP	Neutrophils
+CXCL2	Neutrophils
+HP	Neutrophils
+CCL3	Neutrophils
+CCL9	Neutrophils
+HDC	Neutrophils
+MMP8	Neutrophils
+STFA2L1	Neutrophils
+LRG1	Neutrophils
+OSM	Neutrophils
+MMP9	Neutrophils
+PILRA	Neutrophils
+CLEC4D	Neutrophils
+CLEC4E	Neutrophils
+TREM3	Neutrophils
+ASPRV1	Neutrophils
+CCRL2	Neutrophils
+CCR1	Neutrophils
+NCF1	Neutrophils
+LY6G	Neutrophils
+TREM1	Neutrophils
+SORL1	Neutrophils
+ARG2	Neutrophils
+BST1	Neutrophils
+MRGPRA2B	Neutrophils
+IL1R2	Neutrophils
+CFP	Neutrophils
+ADAM8	Neutrophils
+CD177	Neutrophils
+PTGS2	Neutrophils
+OAS3	Neutrophils
+PRTN3	Neutrophils
+CTSG	Neutrophils
+CAMP	Neutrophils
+CAR1	Neutrophils
+SLC1A5	Neutrophils
+CHIL3	Neutrophils
+SNX20	Neutrophils
+ADPGK	Neutrophils
+PSTPIP1	Neutrophils
+LYST	Neutrophils
+DOCK8	Neutrophils
+S100A4	Neutrophils
+NLRP3	Neutrophils
+CSF3R	Neutrophils
+ITGAM	NK cells
+ITGAX	NK cells
+CD69	NK cells
+KLRD1	NK cells
+IL2RB	NK cells
+KLRB1	NK cells
+CD244	NK cells
+KLRK1	NK cells
+SLAMF7	NK cells
+NCR1	NK cells
+KLRA1	NK cells
+SLAMF6	NK cells
+KIT	NK cells
+CD27	NK cells
+KLRC1	NK cells
+NKG7	NK cells
+GZMM	NK cells
+CTSW	NK cells
+HMBOX1	NK cells
+FASL	NK cells
+AHR	NK cells
+PRF1	NK cells
+CCL4	NK cells
+SEMA6D	NK cells
+FHL2	NK cells
+CD2	NK cells
+CD7	NK cells
+CD3G	NK cells
+CD33	NK cells
+DPP4	NK cells
+LAT	NK cells
+PCDH15	NK cells
+CCL5	NK cells
+GZMA	NK cells
+GZMB	NK cells
+KLRE1	NK cells
+KLRA4	NK cells
+CMA1	NK cells
+KLRB1C	NK cells
+DUSP2	NK cells
+TXK	NK cells
+KLRA8	NK cells
+DOK2	NK cells
+CST7	NK cells
+KLRA7	NK cells
+KLRA9	NK cells
+HSD11B1	NK cells
+KLRC2	NK cells
+KLRB1B	NK cells
+SAMD3	NK cells
+KLRB1A	NK cells
+TBX21	NK cells
+KLRB1F	NK cells
+CHSY1	NK cells
+TRDC	NK cells
+CXCR4	NK cells
+IL18R1	NK cells
+KLRA3	NK cells
+SERPINB9	NK cells
+DOCK2	NK cells
+SH2D2A	NK cells
+MS4A4B	NK cells
+S100A4	NK cells
+XCL1	NK cells
+GZMK	NK cells
+IFNG	NK cells
+CCL3	NK cells
+CSF2	NK cells
+IL2RG	NK cells
+TGFB1	NK cells
+CTLA2A	NK cells
+KIR3DL1	NK cells
+KLRA5	NK cells
+KLRG1	NK cells
+ADAMTS14	NK cells
+KLRA10	NK cells
+ITGA2	NK cells
+SERPINB9B	NK cells
+STYK1	NK cells
+CAR5B	NK cells
+CLEC2D	NK cells
+CD247	NK cells
+ZBTB16	NK cells
+SPON2	NK cells
+HOPX	NK cells
+CD8A	NK cells
+TH	Noradrenergic neurons
+DDC	Noradrenergic neurons
+DBH	Noradrenergic neurons
+SLC18A2	Noradrenergic neurons
+SLC18A3	Noradrenergic neurons
+SLC6A2	Noradrenergic neurons
+SLC39A11	Noradrenergic neurons
+SLC9B2	Noradrenergic neurons
+ICOS	Nuocytes
+IL1RL1	Nuocytes
+RORA	Nuocytes
+IL17RB	Nuocytes
+IL7R	Nuocytes
+CRLF2	Nuocytes
+ARG1	Nuocytes
+GATA3	Nuocytes
+PTGDS	Nuocytes
+BCL11B	Nuocytes
+IL5	Nuocytes
+IL13	Nuocytes
+ANO2	Olfactory epithelial cells
+RARG	Olfactory epithelial cells
+LRRC45	Olfactory epithelial cells
+RAB3B	Olfactory epithelial cells
+KCNC4	Olfactory epithelial cells
+MANEA	Olfactory epithelial cells
+PACRG	Olfactory epithelial cells
+PDE1C	Olfactory epithelial cells
+GADL1	Olfactory epithelial cells
+TSTD1	Olfactory epithelial cells
+TTC21A	Olfactory epithelial cells
+KCNA5	Olfactory epithelial cells
+ACSM4	Olfactory epithelial cells
+CLDN9	Olfactory epithelial cells
+DUSP8	Olfactory epithelial cells
+TTLL3	Olfactory epithelial cells
+ABHD3	Olfactory epithelial cells
+KIF9	Olfactory epithelial cells
+CCPG1OS	Olfactory epithelial cells
+CLSTN2	Olfactory epithelial cells
+MEIG1	Olfactory epithelial cells
+ENDOD1	Olfactory epithelial cells
+TTC9	Olfactory epithelial cells
+PPP1R14C	Olfactory epithelial cells
+RETREG1	Olfactory epithelial cells
+WDFY1	Olfactory epithelial cells
+CASP6	Olfactory epithelial cells
+FGF12	Olfactory epithelial cells
+TRAF3IP1	Olfactory epithelial cells
+RNF128	Olfactory epithelial cells
+LMAN2L	Olfactory epithelial cells
+IFT74	Olfactory epithelial cells
+B9D1	Olfactory epithelial cells
+WDR54	Olfactory epithelial cells
+TOLLIP	Olfactory epithelial cells
+ORMDL3	Olfactory epithelial cells
+DNAJB14	Olfactory epithelial cells
+SCN4B	Olfactory epithelial cells
+NRG1	Olfactory epithelial cells
+MAPK8IP2	Olfactory epithelial cells
+EBF3	Olfactory epithelial cells
+MAPK15	Olfactory epithelial cells
+CNGA4	Olfactory epithelial cells
+KIF1BP	Olfactory epithelial cells
+EML2	Olfactory epithelial cells
+RIIAD1	Olfactory epithelial cells
+CCDC184	Olfactory epithelial cells
+MACROD1	Olfactory epithelial cells
+RNF220	Olfactory epithelial cells
+CERS5	Olfactory epithelial cells
+RNF121	Olfactory epithelial cells
+LINGO1	Olfactory epithelial cells
+BORCS7	Olfactory epithelial cells
+ELMOD3	Olfactory epithelial cells
+KLHL5	Olfactory epithelial cells
+CWC22	Olfactory epithelial cells
+TRIM66	Olfactory epithelial cells
+CARNS1	Olfactory epithelial cells
+TMEM107	Olfactory epithelial cells
+CNPPD1	Olfactory epithelial cells
+NGRN	Olfactory epithelial cells
+EFNA5	Olfactory epithelial cells
+OSCP1	Olfactory epithelial cells
+PCOLCE2	Olfactory epithelial cells
+RIC8B	Olfactory epithelial cells
+SIAH2	Olfactory epithelial cells
+CBX4	Olfactory epithelial cells
+CYB561	Olfactory epithelial cells
+SPA17	Olfactory epithelial cells
+NAT14	Olfactory epithelial cells
+NXNL2	Olfactory epithelial cells
+TTC5	Olfactory epithelial cells
+SLC16A11	Olfactory epithelial cells
+LRRIQ1	Olfactory epithelial cells
+ARL6	Olfactory epithelial cells
+SPEF2	Olfactory epithelial cells
+MAPKAP1	Olfactory epithelial cells
+FAM131C	Olfactory epithelial cells
+FAM81A	Olfactory epithelial cells
+SH3GLB2	Olfactory epithelial cells
+MLF1	Olfactory epithelial cells
+FAM92B	Olfactory epithelial cells
+PKIB	Olfactory epithelial cells
+PDE4A	Olfactory epithelial cells
+FETUB	Olfactory epithelial cells
+EBF2	Olfactory epithelial cells
+CCDC28B	Olfactory epithelial cells
+NQO1	Olfactory epithelial cells
+DUSP14	Olfactory epithelial cells
+GRAMD1C	Olfactory epithelial cells
+RTP2	Olfactory epithelial cells
+SGPL1	Olfactory epithelial cells
+GOLGA7B	Olfactory epithelial cells
+CFAP126	Olfactory epithelial cells
+CACNB3	Olfactory epithelial cells
+IFT43	Olfactory epithelial cells
+ACSL6	Olfactory epithelial cells
+SPOCK1	Olfactory epithelial cells
+CLGN	Olfactory epithelial cells
+EFCAB10	Olfactory epithelial cells
+HOMER2	Olfactory epithelial cells
+CKMT1	Olfactory epithelial cells
+MYCBP	Olfactory epithelial cells
+RD3	Olfactory epithelial cells
+HIST2H2BE	Olfactory epithelial cells
+SCN9A	Olfactory epithelial cells
+ABHD16A	Olfactory epithelial cells
+IMPDH1	Olfactory epithelial cells
+CMIP	Olfactory epithelial cells
+TESC	Olfactory epithelial cells
+CTXN3	Olfactory epithelial cells
+S100A5	Olfactory epithelial cells
+RSPH1	Olfactory epithelial cells
+FAIM	Olfactory epithelial cells
+THEM6	Olfactory epithelial cells
+CNGA2	Olfactory epithelial cells
+CNTN4	Olfactory epithelial cells
+EFNA3	Olfactory epithelial cells
+RTP1	Olfactory epithelial cells
+DCDC2A	Olfactory epithelial cells
+AK1	Olfactory epithelial cells
+FLRT1	Olfactory epithelial cells
+JAKMIP1	Olfactory epithelial cells
+TMEM74BOS	Olfactory epithelial cells
+CALB2	Olfactory epithelial cells
+SULT1D1	Olfactory epithelial cells
+GNG13	Olfactory epithelial cells
+ACBD7	Olfactory epithelial cells
+FSTL5	Olfactory epithelial cells
+GNAL	Olfactory epithelial cells
+GFY	Olfactory epithelial cells
+ATF5	Olfactory epithelial cells
+STOM	Olfactory epithelial cells
+CARTPT	Olfactory epithelial cells
+STOML3	Olfactory epithelial cells
+OMP	Olfactory epithelial cells
+CSPG4	Oligodendrocyte progenitor cells
+PDGFRA	Oligodendrocyte progenitor cells
+SOX10	Oligodendrocyte progenitor cells
+OLIG2	Oligodendrocyte progenitor cells
+MATN4	Oligodendrocyte progenitor cells
+C1QL1	Oligodendrocyte progenitor cells
+GPR37L1	Oligodendrocyte progenitor cells
+GPR17	Oligodendrocyte progenitor cells
+KCNIP3	Oligodendrocyte progenitor cells
+TMEM100	Oligodendrocyte progenitor cells
+VCAN	Oligodendrocyte progenitor cells
+CDO1	Oligodendrocyte progenitor cells
+EPN2	Oligodendrocyte progenitor cells
+LHFPL3	Oligodendrocyte progenitor cells
+NEU4	Oligodendrocyte progenitor cells
+ASCL1	Oligodendrocyte progenitor cells
+LAD1	Oligodendrocyte progenitor cells
+SLC25A47	Oligodendrocyte progenitor cells
+ETV5	Oligodendrocyte progenitor cells
+NNAT	Oligodendrocyte progenitor cells
+CSPG5	Oligodendrocyte progenitor cells
+OLIG1	Oligodendrocyte progenitor cells
+PCDH15	Oligodendrocyte progenitor cells
+ALDOC	Oligodendrocyte progenitor cells
+TNR	Oligodendrocyte progenitor cells
+FYN	Oligodendrocyte progenitor cells
+NKX6-2	Oligodendrocyte progenitor cells
+CNP	Oligodendrocyte progenitor cells
+GALC	Oligodendrocytes
+MOG	Oligodendrocytes
+OLIG1	Oligodendrocytes
+OLIG2	Oligodendrocytes
+OLIG3	Oligodendrocytes
+SOX10	Oligodendrocytes
+GJC2	Oligodendrocytes
+GAMT	Oligodendrocytes
+BCAS1	Oligodendrocytes
+ENPP6	Oligodendrocytes
+TMEM63A	Oligodendrocytes
+GPR62	Oligodendrocytes
+BACE1	Oligodendrocytes
+CREB5	Oligodendrocytes
+FGFR2	Oligodendrocytes
+SLC25A38	Oligodendrocytes
+HDAC11	Oligodendrocytes
+TYRO3	Oligodendrocytes
+S1PR5	Oligodendrocytes
+ASPA	Oligodendrocytes
+EPHB1	Oligodendrocytes
+HEPACAM	Oligodendrocytes
+SOX8	Oligodendrocytes
+FASN	Oligodendrocytes
+OMG	Oligodendrocytes
+ZDHHC9	Oligodendrocytes
+PTGDS	Oligodendrocytes
+ADAMTS4	Oligodendrocytes
+MYRF	Oligodendrocytes
+SEMA4D	Oligodendrocytes
+TMEM125	Oligodendrocytes
+KLHL2	Oligodendrocytes
+DPY19L1	Oligodendrocytes
+TSPAN15	Oligodendrocytes
+HAPLN2	Oligodendrocytes
+NKX6-2	Oligodendrocytes
+GJB1	Oligodendrocytes
+OPALIN	Oligodendrocytes
+VLDLR	Oligodendrocytes
+MCAM	Oligodendrocytes
+TMEM163	Oligodendrocytes
+ERMN	Oligodendrocytes
+FA2H	Oligodendrocytes
+CLDN11	Oligodendrocytes
+ANLN	Oligodendrocytes
+ELOVL7	Oligodendrocytes
+PLLP	Oligodendrocytes
+DDC	Oligodendrocytes
+POU3F1	Oligodendrocytes
+NINJ2	Oligodendrocytes
+SGK2	Oligodendrocytes
+GJC3	Oligodendrocytes
+GPR37	Oligodendrocytes
+IL33	Oligodendrocytes
+KLK6	Oligodendrocytes
+NFE2L3	Oligodendrocytes
+PEX5L	Oligodendrocytes
+CLDN14	Oligodendrocytes
+ITGB4	Oligodendrocytes
+MYO1D	Oligodendrocytes
+PDE8A	Oligodendrocytes
+CNTF	Oligodendrocytes
+EML1	Oligodendrocytes
+KIF13B	Oligodendrocytes
+KIF6	Oligodendrocytes
+NIPAL4	Oligodendrocytes
+SEC14L5	Oligodendrocytes
+SP7	Oligodendrocytes
+ST18	Oligodendrocytes
+DUSP15	Oligodendrocytes
+PRKCZ	Oligodendrocytes
+ARSG	Oligodendrocytes
+NPC1	Oligodendrocytes
+MAG	Oligodendrocytes
+SLC25A29	Oligodendrocytes
+SLC25A19	Oligodendrocytes
+PLEKHH1	Oligodendrocytes
+TMEM88B	Oligodendrocytes
+DBNDD2	Oligodendrocytes
+EFNB3	Oligodendrocytes
+SGK3	Oligodendrocytes
+PNPLA2	Oligodendrocytes
+ARRDC2	Oligodendrocytes
+ENPP2	Oligodendrocytes
+PLP1	Oligodendrocytes
+ITPR2	Oligodendrocytes
+MBP	Oligodendrocytes
+SLC6A6	Osteoblasts
+VDR	Osteoblasts
+LRP4	Osteoblasts
+EGFL6	Osteoblasts
+MMP13	Osteoblasts
+GPER1	Osteoblasts
+RUNX2	Osteoblasts
+NF2	Osteoblasts
+LRP5	Osteoblasts
+PHEX	Osteoblasts
+HIF1A	Osteoblasts
+C5AR1	Osteoblasts
+CXCL12	Osteoblasts
+COL1A1	Osteoblasts
+PLCD4	Osteoblasts
+FOXO1	Osteoblasts
+SOCS3	Osteoblasts
+IL33	Osteoblasts
+MAGED1	Osteoblasts
+PARD6G	Osteoblasts
+CD44	Osteoblasts
+NLRP3	Osteoblasts
+ALPL	Osteoblasts
+TNFSF11	Osteoblasts
+CCL11	Osteoblasts
+SPP1	Osteoblasts
+FAS	Osteoblasts
+WNT5A	Osteoblasts
+CX3CL1	Osteoblasts
+F2R	Osteoblasts
+PTH1R	Osteoblasts
+ITGA2	Osteoblasts
+ITGA5	Osteoblasts
+NOD1	Osteoblasts
+NOD2	Osteoblasts
+THY1	Osteoblasts
+ESR1	Osteoblasts
+CYP27B1	Osteoblasts
+P2RX4	Osteoblasts
+P2RX5	Osteoblasts
+INSR	Osteoblasts
+EFNB2	Osteoblasts
+EPHB4	Osteoblasts
+VCAM1	Osteoblasts
+FGFR1	Osteoblasts
+FGFR2	Osteoblasts
+BGLAP	Osteoblasts
+TLR5	Osteoblasts
+CALB1	Osteoblasts
+COL11A1	Osteoblasts
+BGLAP2	Osteoblasts
+COL11A2	Osteoblasts
+IBSP	Osteoblasts
+POSTN	Osteoblasts
+SFRP4	Osteoblasts
+BMP1	Osteoblasts
+OLFML2B	Osteoblasts
+COL12A1	Osteoblasts
+WISP2	Osteoblasts
+SP7	Osteoblasts
+PENK	Osteoblasts
+NPNT	Osteoblasts
+OLFML1	Osteoblasts
+MITF	Osteoclast precursor cells
+NFKB1	Osteoclast precursor cells
+NFKB2	Osteoclast precursor cells
+TNFRSF11A	Osteoclast precursor cells
+TRAF6	Osteoclast precursor cells
+TREM2	Osteoclast precursor cells
+CYSLTR1	Osteoclast precursor cells
+TLR4	Osteoclast precursor cells
+SOST	Osteoclasts
+ZBTB7A	Osteoclasts
+SEMA4D	Osteoclasts
+KCNMA1	Osteoclasts
+TNFRSF11B	Osteoclasts
+PTPRA	Osteoclasts
+TNFRSF11A	Osteoclasts
+MMP9	Osteoclasts
+ACP5	Osteoclasts
+RAB3B	Osteoclasts
+ITPR3	Osteoclasts
+NRP2	Osteoclasts
+THRA	Osteoclasts
+AGER	Osteoclasts
+RGS18	Osteoclasts
+PTH1R	Osteoclasts
+TRPV5	Osteoclasts
+SNX10	Osteoclasts
+CTSK	Osteoclasts
+OSCAR	Osteoclasts
+SLC2A1	Osteoclasts
+DCSTAMP	Osteoclasts
+EGFL7	Osteoclasts
+SLC39A14	Osteoclasts
+AQP9	Osteoclasts
+ONECUT1	Osteoclasts
+ITGB3	Osteoclasts
+ITGB5	Osteoclasts
+IRAK3	Osteoclasts
+ITGA2	Osteoclasts
+TAS1R3	Osteoclasts
+SERPINF1	Osteoclasts
+ITGAV	Osteoclasts
+ITGB1	Osteoclasts
+P2RY6	Osteoclasts
+CCL3	Osteoclasts
+EPHB1	Osteoclasts
+HIF1A	Osteoclasts
+CX3CR1	Osteoclasts
+ESR1	Osteoclasts
+EFNB2	Osteoclasts
+VDR	Osteoclasts
+CASR	Osteoclasts
+CD68	Osteoclasts
+GRM8	Osteoclasts
+SMAD4	Osteoclasts
+SPP1	Osteoclasts
+SOST	Osteocytes
+PFN1	Osteocytes
+EFNB2	Osteocytes
+PDPN	Osteocytes
+FGF23	Osteocytes
+SLC2A4	Oxyphil cells
+GCM2	Oxyphil cells
+ONECUT1	Pancreatic progenitor cells
+PDX1	Pancreatic progenitor cells
+PTF1A	Pancreatic progenitor cells
+CXCR4	Pancreatic progenitor cells
+ISL1	Pancreatic progenitor cells
+NKX2-2	Pancreatic progenitor cells
+EPAS1	Pancreatic progenitor cells
+ARX	Pancreatic progenitor cells
+NEUROG3	Pancreatic progenitor cells
+SOX9	Pancreatic progenitor cells
+RPL23A	Pancreatic progenitor cells
+CTNNB1	Pancreatic progenitor cells
+YAP1	Pancreatic progenitor cells
+RGS16	Pancreatic progenitor cells
+MFNG	Pancreatic progenitor cells
+TIMP1	Pancreatic stellate cells
+RGS5	Pancreatic stellate cells
+SPON2	Pancreatic stellate cells
+GEM	Pancreatic stellate cells
+DYNLT1	Pancreatic stellate cells
+PDGFRB	Pancreatic stellate cells
+KRT10	Pancreatic stellate cells
+CYGB	Pancreatic stellate cells
+CTGF	Pancreatic stellate cells
+MMP14	Pancreatic stellate cells
+NDUFA4L2	Pancreatic stellate cells
+PDGFRA	Pancreatic stellate cells
+INHBA	Pancreatic stellate cells
+TGFB1	Pancreatic stellate cells
+COL6A1	Pancreatic stellate cells
+MMP11	Pancreatic stellate cells
+FN1	Pancreatic stellate cells
+COL4A1	Pancreatic stellate cells
+COL6A2	Pancreatic stellate cells
+MGP	Pancreatic stellate cells
+COL3A1	Pancreatic stellate cells
+SPARC	Pancreatic stellate cells
+COL1A1	Pancreatic stellate cells
+TIMP3	Pancreatic stellate cells
+TNFAIP6	Pancreatic stellate cells
+COL1A2	Pancreatic stellate cells
+SFRP2	Pancreatic stellate cells
+COL6A3	Pancreatic stellate cells
+THY1	Pancreatic stellate cells
+DEFA5	Paneth cells
+MMP7	Paneth cells
+AGR2	Paneth cells
+CSF2	Paneth cells
+PLA2G2A	Paneth cells
+PRSS1	Paneth cells
+GUCA2B	Paneth cells
+LYZ1	Paneth cells
+REG3B	Paneth cells
+MUC2	Paneth cells
+CLCA1	Paneth cells
+GUCA2A	Paneth cells
+REG3G	Paneth cells
+ITLN1	Paneth cells
+RETNLB	Paneth cells
+ANG4	Paneth cells
+GPX2	Paneth cells
+LGALS2	Paneth cells
+SPINK4	Paneth cells
+FABP4	Paneth cells
+CFD	Paneth cells
+ADIPOQ	Paneth cells
+PNLIPRP2	Paneth cells
+DMBT1	Paneth cells
+NOD2	Paneth cells
+LGR4	Paneth cells
+RIPK2	Paneth cells
+TLR5	Paneth cells
+WNT3	Paneth cells
+KCNN4	Paneth cells
+RAP1A	Paneth cells
+ATG16L1	Paneth cells
+WNT9B	Paneth cells
+DLL4	Paneth cells
+IL4RA	Paneth cells
+TLR9	Paneth cells
+CTNNB1	Paneth cells
+DLL1	Paneth cells
+TM4SF20	Paneth cells
+DEFA23	Paneth cells
+DEFA3	Paneth cells
+DEFA26	Paneth cells
+DEFA17	Paneth cells
+MPTX2	Paneth cells
+DEFA21	Paneth cells
+DEFA22	Paneth cells
+DEFA24	Paneth cells
+MPTX1	Paneth cells
+KLF15	Paneth cells
+DEFA20	Paneth cells
+KL	Parathyroid chief cells
+CASR	Parathyroid chief cells
+VDR	Parathyroid chief cells
+FGFR1	Parathyroid chief cells
+CYP27B1	Parathyroid chief cells
+LRP2	Parathyroid chief cells
+PTH	Parathyroid chief cells
+RAB3A	Parathyroid chief cells
+PODXL	Parietal cells
+KCNQ1	Parietal cells
+PTCH1	Parietal cells
+SHH	Parietal cells
+HIP1R	Parietal cells
+HAMP	Parietal cells
+KCNE2	Parietal cells
+HDC	Parietal cells
+ASAP3	Parietal cells
+SLC12A6	Parietal cells
+AQP4	Parietal cells
+ATP4B	Parietal cells
+BMI1	Parietal cells
+MPZ	Peri-islet Schwann cells
+EGFL8	Peri-islet Schwann cells
+GFRA1	Peri-islet Schwann cells
+OLFML2A	Peri-islet Schwann cells
+GULP1	Peri-islet Schwann cells
+SLITRK6	Peri-islet Schwann cells
+VGLL3	Peri-islet Schwann cells
+GFRA3	Peri-islet Schwann cells
+INSC	Peri-islet Schwann cells
+SLITRK2	Peri-islet Schwann cells
+FIGN	Peri-islet Schwann cells
+LRRTM1	Peri-islet Schwann cells
+SEMA3B	Peri-islet Schwann cells
+NGFR	Peri-islet Schwann cells
+PNLIPRP1	Peri-islet Schwann cells
+GFRA2	Peri-islet Schwann cells
+PECAM1	Pericytes
+PDGFRB	Pericytes
+CSPG4	Pericytes
+ANPEP	Pericytes
+ACTA2	Pericytes
+DES	Pericytes
+RGS5	Pericytes
+ABCC9	Pericytes
+KCNJ8	Pericytes
+CD248	Pericytes
+DLK1	Pericytes
+TEK	Pericytes
+NOTCH3	Pericytes
+GLI1	Pericytes
+ICAM1	Pericytes
+ADM	Pericytes
+ANG2	Pericytes
+ANGPT1	Pericytes
+VEGFA	Pericytes
+ZIC1	Pericytes
+FOXC1	Pericytes
+POSTN	Pericytes
+COX4I2	Pericytes
+LHFP	Pericytes
+HIGD1B	Pericytes
+PDZD2	Pericytes
+HSD11B1	Pericytes
+MCAM	Pericytes
+MXRA8	Pericytes
+PDE5A	Pericytes
+NR1H3	Pericytes
+SERPING1	Pericytes
+EMID1	Pericytes
+ECM1	Pericytes
+COLEC11	Pericytes
+RARRES2	Pericytes
+REM1	Pericytes
+ASPN	Pericytes
+CYGB	Pericytes
+FABP4	Pericytes
+VTN	Pericytes
+STEAP4	Pericytes
+NDUFA4L2	Pericytes
+SLC38A11	Pericytes
+ATP13A5	Pericytes
+AOC3	Pericytes
+ANGPT2	Pericytes
+INPP4B	Pericytes
+GPIHBP1	Pericytes
+VIM	Pericytes
+PTH1R	Pericytes
+IFITM1	Pericytes
+TBX18	Pericytes
+NT5E	Pericytes
+MFGE8	Pericytes
+ALPL	Pericytes
+COL1A1	Pericytes
+MYO1B	Pericytes
+COG7	Pericytes
+P2RY14	Pericytes
+HEYL	Pericytes
+GNB4	Pericytes
+MSX1	Pericytes
+CTGF	Pericytes
+SAT2	Peritubular myoid cells
+LAMC3	Peritubular myoid cells
+APOA1	Peritubular myoid cells
+MYLIP	Peritubular myoid cells
+TMEM98	Peritubular myoid cells
+CYP1B1	Peritubular myoid cells
+KCNMB1	Peritubular myoid cells
+RARRES2	Peritubular myoid cells
+GSTM3	Peritubular myoid cells
+RNASE1	Peritubular myoid cells
+CILP	Peritubular myoid cells
+RASD1	Peritubular myoid cells
+ALDH1A3	Peritubular myoid cells
+INTS6	Peritubular myoid cells
+EPHX1	Peritubular myoid cells
+OSR2	Peritubular myoid cells
+C7	Peritubular myoid cells
+COL15A1	Peritubular myoid cells
+LAMB2	Peritubular myoid cells
+MYH11	Peritubular myoid cells
+TPM1	Peritubular myoid cells
+TPM2	Peritubular myoid cells
+TPM4	Peritubular myoid cells
+MYL9	Peritubular myoid cells
+WNT2B	Peritubular myoid cells
+RCVRN	Photoreceptor cells
+PDC	Photoreceptor cells
+NRL	Photoreceptor cells
+NR2E3	Photoreceptor cells
+SAG	Photoreceptor cells
+RHO	Photoreceptor cells
+ROM1	Photoreceptor cells
+CRX	Photoreceptor cells
+PDE6G	Photoreceptor cells
+TPBG	Photoreceptor cells
+GABRA1	Photoreceptor cells
+PCBP3	Photoreceptor cells
+FRMD3	Photoreceptor cells
+ADAMTS5	Photoreceptor cells
+RD3L	Photoreceptor cells
+GABRG2	Photoreceptor cells
+CNTN4	Photoreceptor cells
+RNF152	Photoreceptor cells
+SYNE1	Photoreceptor cells
+SEBOX	Photoreceptor cells
+HSPA12A	Photoreceptor cells
+CNTNAP2	Photoreceptor cells
+NLK	Photoreceptor cells
+NTNG1	Photoreceptor cells
+GLS	Photoreceptor cells
+STX3	Photoreceptor cells
+GRM6	Photoreceptor cells
+STRIP2	Photoreceptor cells
+CHGA	Photoreceptor cells
+RNPC3	Photoreceptor cells
+VSTM2B	Photoreceptor cells
+CACNA2D4	Photoreceptor cells
+VSX2	Photoreceptor cells
+TRNP1	Photoreceptor cells
+NEUROD4	Photoreceptor cells
+GNB3	Photoreceptor cells
+OTX2	Photoreceptor cells
+CACNA2D3	Photoreceptor cells
+ZFP365	Photoreceptor cells
+LIN7A	Photoreceptor cells
+CCDC136	Photoreceptor cells
+NDNF	Photoreceptor cells
+GNG13	Photoreceptor cells
+PROX1	Photoreceptor cells
+GPR179	Photoreceptor cells
+CABP5	Photoreceptor cells
+KCNMA1	Photoreceptor cells
+CAR8	Photoreceptor cells
+LRTM1	Photoreceptor cells
+PRKCA	Photoreceptor cells
+QPCT	Photoreceptor cells
+CPLX3	Photoreceptor cells
+B3GALT2	Photoreceptor cells
+ISL1	Photoreceptor cells
+PCP2	Photoreceptor cells
+ASMT	Pinealocytes
+ADRB1	Pinealocytes
+TPH1	Pinealocytes
+SAG	Pinealocytes
+GNGT1	Pinealocytes
+GNGT2	Pinealocytes
+ROM1	Pinealocytes
+CRX	Pinealocytes
+CNGB1	Pinealocytes
+CNGA1	Pinealocytes
+PDE6C	Pinealocytes
+SLC6A6	Pinealocytes
+ADRA1B	Pinealocytes
+DRD4	Pinealocytes
+CHRNA3	Pinealocytes
+CHRNB4	Pinealocytes
+NEUROD1	Pinealocytes
+PDE6B	Pinealocytes
+CACNA1F	Pinealocytes
+GNG13	Pinealocytes
+AANAT	Pinealocytes
+CREM	Pinealocytes
+PDE10A	Pinealocytes
+PMEPA1	Pinealocytes
+SDC1	Plasma cells
+IRF4	Plasma cells
+CD38	Plasma cells
+PRDM1	Plasma cells
+CD93	Plasma cells
+CD27	Plasma cells
+ENPP1	Plasma cells
+KLF4	Plasma cells
+MS4A4A	Plasma cells
+PIAS1	Plasma cells
+CYCS	Plasma cells
+DIABLO	Plasma cells
+HTRA2	Plasma cells
+MS4A1	Plasma cells
+CD9	Plasma cells
+CD19	Plasma cells
+CD37	Plasma cells
+CD40	Plasma cells
+CD74	Plasma cells
+CXCR4	Plasma cells
+GZMB	Plasma cells
+TNFRSF17	Plasma cells
+TNFRSF13B	Plasma cells
+FCGR2B	Plasma cells
+CCR10	Plasma cells
+ABCB9	Plasma cells
+AMPD1	Plasma cells
+ANGPT4	Plasma cells
+CD79A	Plasma cells
+DENND5B	Plasma cells
+EAF2	Plasma cells
+GNG7	Plasma cells
+GPR25	Plasma cells
+HIST1H2AE	Plasma cells
+HIST1H2BG	Plasma cells
+IGHD	Plasma cells
+IGHE	Plasma cells
+IGHM	Plasma cells
+IGKC	Plasma cells
+KCNA3	Plasma cells
+KCNG2	Plasma cells
+LIME1	Plasma cells
+MANEA	Plasma cells
+MAST1	Plasma cells
+MROH7	Plasma cells
+MZB1	Plasma cells
+P2RX5	Plasma cells
+PAX7	Plasma cells
+PDK1	Plasma cells
+PNOC	Plasma cells
+RASGRP3	Plasma cells
+RGS13	Plasma cells
+SIK1	Plasma cells
+SPAG4	Plasma cells
+ST6GALNAC4	Plasma cells
+TGM5	Plasma cells
+TMEM156	Plasma cells
+ZBP1	Plasma cells
+IGLC2	Plasma cells
+IGHG1	Plasma cells
+IGHG3	Plasma cells
+IGLC3	Plasma cells
+JCHAIN	Plasma cells
+SSR4	Plasma cells
+IL16	Plasma cells
+BHLHA15	Plasma cells
+PPIB	Plasma cells
+CD4	Plasmacytoid dendritic cells
+CD8A	Plasmacytoid dendritic cells
+CD40	Plasmacytoid dendritic cells
+CD80	Plasmacytoid dendritic cells
+CD83	Plasmacytoid dendritic cells
+CD86	Plasmacytoid dendritic cells
+IL3RA	Plasmacytoid dendritic cells
+CCR7	Plasmacytoid dendritic cells
+CXCR3	Plasmacytoid dendritic cells
+TRADD	Plasmacytoid dendritic cells
+ARHGAP9	Plasmacytoid dendritic cells
+LAMP5	Plasmacytoid dendritic cells
+GPR183	Plasmacytoid dendritic cells
+MAP3K2	Plasmacytoid dendritic cells
+TNFSF13B	Plasmacytoid dendritic cells
+PTCRA	Plasmacytoid dendritic cells
+ERN1	Plasmacytoid dendritic cells
+ETV6	Plasmacytoid dendritic cells
+MAP3K8	Plasmacytoid dendritic cells
+FAM129C	Plasmacytoid dendritic cells
+SPIB	Plasmacytoid dendritic cells
+GZMB	Plasmacytoid dendritic cells
+CXCR4	Plasmacytoid dendritic cells
+PACSIN1	Plasmacytoid dendritic cells
+TLR7	Plasmacytoid dendritic cells
+TLR9	Plasmacytoid dendritic cells
+IRF7	Plasmacytoid dendritic cells
+IRF8	Plasmacytoid dendritic cells
+IGLL1	Plasmacytoid dendritic cells
+CUX2	Plasmacytoid dendritic cells
+ZFP521	Plasmacytoid dendritic cells
+MCTP2	Plasmacytoid dendritic cells
+KLK1	Plasmacytoid dendritic cells
+CMAH	Plasmacytoid dendritic cells
+BLNK	Plasmacytoid dendritic cells
+GRM8	Plasmacytoid dendritic cells
+PRKCA	Plasmacytoid dendritic cells
+CDH1	Plasmacytoid dendritic cells
+KLRA17	Plasmacytoid dendritic cells
+IL17RB	Plasmacytoid dendritic cells
+CARD6	Plasmacytoid dendritic cells
+CLEC4G	Plasmacytoid dendritic cells
+S100A8	Plasmacytoid dendritic cells
+JCHAIN	Plasmacytoid dendritic cells
+SERPINF1	Plasmacytoid dendritic cells
+ITM2C	Plasmacytoid dendritic cells
+TCF4	Plasmacytoid dendritic cells
+BCL11A	Plasmacytoid dendritic cells
+MZB1	Plasmacytoid dendritic cells
+DERL3	Plasmacytoid dendritic cells
+ZFAT	Plasmacytoid dendritic cells
+NRP1	Plasmacytoid dendritic cells
+SLC15A4	Plasmacytoid dendritic cells
+CCR9	Plasmacytoid dendritic cells
+IRF5	Plasmacytoid dendritic cells
+BST2	Plasmacytoid dendritic cells
+CCL5	Platelets
+VEGFA	Platelets
+PECAM1	Platelets
+CD36	Platelets
+ITGA2B	Platelets
+GP1BA	Platelets
+SPN	Platelets
+CD46	Platelets
+ITGA2	Platelets
+ITGB3	Platelets
+SELP	Platelets
+CD69	Platelets
+CD84	Platelets
+CD109	Platelets
+CCR3	Platelets
+CD226	Platelets
+TNFSF14	Platelets
+LRRC32	Platelets
+LTBR	Platelets
+PF4	Platelets
+GP5	Platelets
+F13A1	Platelets
+THBS1	Platelets
+ABCC4	Platelets
+BIN2	Platelets
+FERMT3	Platelets
+PTCRA	Platelets
+TUBB1	Platelets
+GP9	Platelets
+NCOA4	Platelets
+RGS18	Platelets
+PPBP	Platelets
+DAB2	Platelets
+HFE	Platelets
+CXCR4	Platelets
+CLEC1B	Platelets
+MPL	Platelets
+F5	Platelets
+TREML1	Platelets
+P2RY12	Platelets
+PRKAR2B	Platelets
+STX11	Platelets
+MFSD2B	Platelets
+ALOX12	Platelets
+PLEK	Platelets
+SELPLG	Platelets
+ADGRE5	Platelets
+CD40	Platelets
+CD9	Platelets
+F11R	Platelets
+TLR4	Platelets
+CRLF2	Platelets
+IL1A	Platelets
+SCARB1	Platelets
+ADAM10	Platelets
+CCR1	Platelets
+CCR4	Platelets
+F2R	Platelets
+NRGN	Platelets
+OST4	Platelets
+SPARC	Platelets
+GP1BB	Platelets
+GPX1	Platelets
+PPDPF	Platelets
+MYL9	Platelets
+MAP3K7CL	Platelets
+PTGS1	Platelets
+GNG11	Platelets
+GRAP2	Platelets
+CTSA	Platelets
+HIST1H3H	Platelets
+WIPF1	Platelets
+ARHGDIB	Platelets
+CDKN2D	Platelets
+PDLIM1	Platelets
+PDZK1IP1	Platelets
+AGPAT1	Platelets
+SMOX	Platelets
+SRGN	Platelets
+HIST1H2BK	Platelets
+SH3BGRL2	Platelets
+ATP2A3	Platelets
+ALDH2	Platelets
+LYZ2	Platelets
+ALOX5AP	Platelets
+RAP1B	Platelets
+FHL1	Platelets
+VWF	Platelets
+LAPTM5	Platelets
+RASGRP2	Platelets
+HIST1H2BC	Platelets
+SLC2A3	Platelets
+ARHGAP10	Platelets
+TREML2	Platelets
+MMRN1	Platelets
+ILK	Platelets
+NOD2	Platelets
+SERPINE1	Platelets
+MAPK14	Platelets
+ABCA3	Platelets
+CXCL14	Platelets
+ESAM	Platelets
+PREX1	Platelets
+S100A9	Platelets
+ATP8A1	Platelets
+PRKCD	Platelets
+PTGS2	Platelets
+F7	Platelets
+SLC26A4	Platelets
+PALLD	Platelets
+SLC17A9	Platelets
+IL33	Platelets
+SIRT3	Platelets
+CYP2U1	Platelets
+TLR1	Platelets
+TLR6	Platelets
+BGLAP	Platelets
+LGALS8	Platelets
+ITGB2	Platelets
+CD40LG	Platelets
+ANGPT1	Platelets
+ACKR3	Platelets
+PRMT8	Pluripotent stem cells
+NCOA5	Pluripotent stem cells
+TRIM32	Pluripotent stem cells
+PRDM14	Pluripotent stem cells
+FGF4	Pluripotent stem cells
+NANOG	Pluripotent stem cells
+POU5F1	Pluripotent stem cells
+MSH2	Pluripotent stem cells
+ZFP819	Pluripotent stem cells
+GATA2	Pluripotent stem cells
+ZFX	Pluripotent stem cells
+TERF1	Pluripotent stem cells
+TERT	Pluripotent stem cells
+NAP1L1	Pluripotent stem cells
+SOX2	Pluripotent stem cells
+ALPL	Pluripotent stem cells
+HK2	Pluripotent stem cells
+SPN	Pluripotent stem cells
+ESRP1	Pluripotent stem cells
+PODXL	Podocytes
+ADAMTS13	Podocytes
+LCN2	Podocytes
+VEGFA	Podocytes
+SLC2A4	Podocytes
+NLRP3	Podocytes
+SYNPO	Podocytes
+NPHS1	Podocytes
+NPHS2	Podocytes
+LAMA3	Podocytes
+FOXC2	Podocytes
+WT1	Podocytes
+CD80	Podocytes
+DES	Podocytes
+PTPRO	Podocytes
+LMX1B	Podocytes
+MYOC	Podocytes
+CDH13	Podocytes
+SEMA3G	Podocytes
+THSD7A	Podocytes
+MAFB	Podocytes
+ENPEP	Podocytes
+CLIC5	Podocytes
+RAB3B	Podocytes
+DPP4	Podocytes
+ANGPTL2	Podocytes
+ITGB5	Podocytes
+RHPN1	Podocytes
+BCAM	Podocytes
+MAGI2	Podocytes
+COL4A3	Podocytes
+EFNB1	Podocytes
+NPR1	Podocytes
+PLOD2	Podocytes
+SRGAP1	Podocytes
+LAMB2	Podocytes
+NPR3	Podocytes
+ITGA3	Podocytes
+PLCE1	Podocytes
+PROS1	Podocytes
+MERTK	Podocytes
+MYO1D	Podocytes
+TCF21	Podocytes
+TNS2	Podocytes
+ADM	Podocytes
+OPTN	Podocytes
+PARD3B	Podocytes
+SEMA3E	Podocytes
+MYO1E	Podocytes
+NEBL	Podocytes
+SH2D4A	Podocytes
+TDRD5	Podocytes
+PTH1R	Podocytes
+IQGAP2	Podocytes
+CTGF	Podocytes
+FAT1	Podocytes
+ILDR2	Podocytes
+FOXD1	Podocytes
+TRIB2	Podocytes
+LOXL2	Podocytes
+COL4A5	Podocytes
+FOXC1	Podocytes
+PLEKHH2	Podocytes
+CTNNAL1	Podocytes
+DACH1	Podocytes
+SULF1	Podocytes
+HSPB8	Podocytes
+KANK1	Podocytes
+ADCY1	Podocytes
+DOCK5	Podocytes
+CRB2	Podocytes
+LRRC49	Podocytes
+CORO2B	Podocytes
+ARHGAP24	Podocytes
+GPRC5A	Podocytes
+COL4A4	Podocytes
+AIF1L	Podocytes
+MET	Podocytes
+EPB41L5	Podocytes
+DOCK1	Podocytes
+AJUBA	Podocytes
+CD2AP	Podocytes
+GOLIM4	Podocytes
+ZBTB8A	Podocytes
+QK	Podocytes
+TOB1	Podocytes
+WSB2	Podocytes
+EMC2	Podocytes
+EHD4	Podocytes
+ZFP91	Podocytes
+ETF1	Podocytes
+EMC7	Podocytes
+LUC7L2	Podocytes
+MAPT	Podocytes
+CDKN1C	Podocytes
+AQP2	Principal cells
+SCNN1A	Principal cells
+AQP3	Principal cells
+KCNJ1	Principal cells
+AVPR2	Principal cells
+SCNN1G	Principal cells
+HSD11B2	Principal cells
+FXYD4	Principal cells
+APELA	Principal cells
+NPNT	Principal cells
+SCNN1B	Principal cells
+KCNE1	Principal cells
+CDH16	Principal cells
+ADGRG1	Principal cells
+TSPAN8	Principal cells
+CDO1	Principal cells
+TMEM45B	Principal cells
+TACSTD2	Principal cells
+PDZK1IP1	Principal cells
+L1CAM	Principal cells
+CLDN4	Principal cells
+TBCK	Principal cells
+TMEM229A	Principal cells
+GSTT1	Principal cells
+GPRC5B	Principal cells
+TMEM178	Principal cells
+PHACTR1	Principal cells
+CELSR2	Principal cells
+FZD7	Principal cells
+SLC2A9	Principal cells
+RNF186	Principal cells
+TRPV5	Principal cells
+STC1	Principal cells
+PELI2	Principal cells
+KLK1	Principal cells
+ACER2	Principal cells
+AQP4	Principal cells
+FZD1	Principal cells
+GATA3	Principal cells
+LGALS3	Principal cells
+PTGES	Principal cells
+TSPAN1	Principal cells
+NR3C2	Principal cells
+HES1	Principal cells
+AQP1	Proximal tubule cells
+CLDN2	Proximal tubule cells
+DPP4	Proximal tubule cells
+ENPEP	Proximal tubule cells
+SLC36A2	Proximal tubule cells
+SLC5A1	Proximal tubule cells
+SLC6A18	Proximal tubule cells
+SLC6A19	Proximal tubule cells
+SLC6A20B	Proximal tubule cells
+SLC5A2	Proximal tubule cells
+LRP2	Proximal tubule cells
+PDZK1	Proximal tubule cells
+MIOX	Proximal tubule cells
+SLC34A1	Proximal tubule cells
+TTC36	Proximal tubule cells
+ASS1	Proximal tubule cells
+PCK1	Proximal tubule cells
+FUT9	Proximal tubule cells
+KHK	Proximal tubule cells
+SLC4A4	Proximal tubule cells
+GLYAT	Proximal tubule cells
+FBP1	Proximal tubule cells
+SLC22A6	Proximal tubule cells
+SLC22A12	Proximal tubule cells
+SLC47A1	Proximal tubule cells
+NOX4	Proximal tubule cells
+SLC17A1	Proximal tubule cells
+SLC13A3	Proximal tubule cells
+CYP2E1	Proximal tubule cells
+SLC22A8	Proximal tubule cells
+FOLR1	Proximal tubule cells
+SLC7A13	Proximal tubule cells
+AK4	Proximal tubule cells
+SLC5A8	Proximal tubule cells
+SLC22A1	Proximal tubule cells
+GHR	Proximal tubule cells
+UPB1	Proximal tubule cells
+SLC17A3	Proximal tubule cells
+GCDH	Proximal tubule cells
+GSTZ1	Proximal tubule cells
+ASL	Proximal tubule cells
+FAH	Proximal tubule cells
+SLCO1A6	Proximal tubule cells
+ECI3	Proximal tubule cells
+TMEM106A	Proximal tubule cells
+GSTA2	Proximal tubule cells
+CRYL1	Proximal tubule cells
+SLC5A12	Proximal tubule cells
+KAP	Proximal tubule cells
+AOAH	Proximal tubule cells
+SLC13A1	Proximal tubule cells
+ABCC2	Proximal tubule cells
+PKHD1	Proximal tubule cells
+SLC9A8	Proximal tubule cells
+SLC22A19	Proximal tubule cells
+SCIN	Proximal tubule cells
+ALPL	Proximal tubule cells
+G6PC	Proximal tubule cells
+KEG1	Proximal tubule cells
+SLC22A13	Proximal tubule cells
+SLC22A7	Proximal tubule cells
+SLC16A9	Proximal tubule cells
+AGXT2	Proximal tubule cells
+SORD	Proximal tubule cells
+SOD3	Proximal tubule cells
+HNF4A	Proximal tubule cells
+NME4	Proximal tubule cells
+APOE	Proximal tubule cells
+HGD	Proximal tubule cells
+OSGIN1	Proximal tubule cells
+HSD11B1	Proximal tubule cells
+SERPINF2	Proximal tubule cells
+HAAO	Proximal tubule cells
+PPIC	Proximal tubule cells
+TFF3	Proximal tubule cells
+GNG13	Proximal tubule cells
+SLC23A3	Proximal tubule cells
+GC	Proximal tubule cells
+CACNG5	Proximal tubule cells
+TGFBI	Proximal tubule cells
+RBP4	Proximal tubule cells
+NAPSA	Proximal tubule cells
+MMP11	Pulmonary alveolar type I cells
+ICAM1	Pulmonary alveolar type I cells
+CTGF	Pulmonary alveolar type I cells
+SEMA3B	Pulmonary alveolar type I cells
+GRAMD2	Pulmonary alveolar type I cells
+SCNN1B	Pulmonary alveolar type I cells
+SEMA3E	Pulmonary alveolar type I cells
+SCNN1G	Pulmonary alveolar type I cells
+SCNN1A	Pulmonary alveolar type I cells
+COL4A4	Pulmonary alveolar type I cells
+CYP4B1	Pulmonary alveolar type I cells
+RTKN2	Pulmonary alveolar type I cells
+CLIC5	Pulmonary alveolar type I cells
+CYP2B10	Pulmonary alveolar type I cells
+AKAP5	Pulmonary alveolar type I cells
+GPRC5A	Pulmonary alveolar type I cells
+SEC14L3	Pulmonary alveolar type I cells
+COL4A3	Pulmonary alveolar type I cells
+CLDN18	Pulmonary alveolar type I cells
+AGER	Pulmonary alveolar type I cells
+HOPX	Pulmonary alveolar type I cells
+AQP5	Pulmonary alveolar type I cells
+EMP2	Pulmonary alveolar type I cells
+VEGFA	Pulmonary alveolar type I cells
+KRT7	Pulmonary alveolar type I cells
+IGFBP6	Pulmonary alveolar type I cells
+PXDC1	Pulmonary alveolar type I cells
+AQP3	Pulmonary alveolar type I cells
+CRLF1	Pulmonary alveolar type I cells
+EGFL6	Pulmonary alveolar type I cells
+FSTL3	Pulmonary alveolar type I cells
+MEX3B	Pulmonary alveolar type I cells
+RADIL	Pulmonary alveolar type I cells
+SMARCA1	Pulmonary alveolar type I cells
+P2RX7	Pulmonary alveolar type I cells
+PDPN	Pulmonary alveolar type I cells
+IRX1	Pulmonary alveolar type II cells
+EGFL6	Pulmonary alveolar type II cells
+CEBPA	Pulmonary alveolar type II cells
+NKX2-1	Pulmonary alveolar type II cells
+MUC1	Pulmonary alveolar type II cells
+CLDN18	Pulmonary alveolar type II cells
+AGER	Pulmonary alveolar type II cells
+LAMP3	Pulmonary alveolar type II cells
+SFTA2	Pulmonary alveolar type II cells
+SFTPD	Pulmonary alveolar type II cells
+SLC34A2	Pulmonary alveolar type II cells
+CXCL15	Pulmonary alveolar type II cells
+SFTPB	Pulmonary alveolar type II cells
+SFTPA1	Pulmonary alveolar type II cells
+SFTPC	Pulmonary alveolar type II cells
+SDC1	Pulmonary alveolar type II cells
+ADGRF5	Pulmonary alveolar type II cells
+ABCD3	Pulmonary alveolar type II cells
+SOAT1	Pulmonary alveolar type II cells
+ETV5	Pulmonary alveolar type II cells
+CD36	Pulmonary alveolar type II cells
+LPCAT1	Pulmonary alveolar type II cells
+NAPSA	Pulmonary alveolar type II cells
+CBR2	Pulmonary alveolar type II cells
+ABCA3	Pulmonary alveolar type II cells
+SCD1	Pulmonary alveolar type II cells
+S100G	Pulmonary alveolar type II cells
+LYZ1	Pulmonary alveolar type II cells
+PGC	Pulmonary alveolar type II cells
+CXCR2	Pulmonary alveolar type II cells
+CXCL2	Pulmonary alveolar type II cells
+RUNX3	Pulmonary alveolar type II cells
+CTNND1	Pulmonary alveolar type II cells
+CD59A	Pulmonary alveolar type II cells
+PPP1R14C	Pulmonary alveolar type II cells
+DDX3Y	Pulmonary alveolar type II cells
+PIGR	Pulmonary alveolar type II cells
+H2-Q6	Pulmonary alveolar type II cells
+LY6I	Pulmonary alveolar type II cells
+WFDC17	Pulmonary alveolar type II cells
+LRG1	Pulmonary alveolar type II cells
+NRN1	Pulmonary alveolar type II cells
+PPBP	Pulmonary alveolar type II cells
+IL1B	Pulmonary alveolar type II cells
+INMT	Pulmonary alveolar type II cells
+CRLF1	Pulmonary alveolar type II cells
+ANGPT1	Pulmonary vascular smooth muscle cells
+PDGFRB	Pulmonary vascular smooth muscle cells
+GJA5	Purkinje fiber cells
+B3GAT1	Purkinje fiber cells
+GJC1	Purkinje fiber cells
+KCNK3	Purkinje fiber cells
+NEFM	Purkinje fiber cells
+CALB1	Purkinje neurons
+ABAT	Purkinje neurons
+GRIN1	Purkinje neurons
+GAD1	Purkinje neurons
+HDAC6	Purkinje neurons
+PRKG1	Purkinje neurons
+ATP2B2	Purkinje neurons
+PDE5A	Purkinje neurons
+ITPR3	Purkinje neurons
+PDE1B	Purkinje neurons
+PDE1A	Purkinje neurons
+CAR8	Purkinje neurons
+OMP	Purkinje neurons
+PDE9A	Purkinje neurons
+CBLN1	Purkinje neurons
+MRPS35	Purkinje neurons
+PVALB	Purkinje neurons
+SHANK2	Purkinje neurons
+CACNA2D2	Purkinje neurons
+NKAIN4	Purkinje neurons
+CNTNAP2	Purkinje neurons
+TH	Purkinje neurons
+CERK	Purkinje neurons
+CD3G	Purkinje neurons
+KCNA2	Purkinje neurons
+SLC22A15	Purkinje neurons
+CACNG2	Purkinje neurons
+SYT2	Purkinje neurons
+CPLX1	Purkinje neurons
+PKP4	Purkinje neurons
+KCNMA1	Purkinje neurons
+ADGRB1	Purkinje neurons
+HCN1	Purkinje neurons
+SLC24A2	Purkinje neurons
+GABRA1	Purkinje neurons
+CLSTN3	Purkinje neurons
+SLC24A3	Purkinje neurons
+DLG4	Purkinje neurons
+CNPY1	Purkinje neurons
+SLC12A5	Purkinje neurons
+SLC32A1	Purkinje neurons
+GRIA3	Purkinje neurons
+CAMK2A	Purkinje neurons
+PENK	Purkinje neurons
+HIVEP2	Purkinje neurons
+NRIP3	Purkinje neurons
+TSHZ1	Purkinje neurons
+PCBP3	Purkinje neurons
+GPSM1	Purkinje neurons
+PPM1E	Purkinje neurons
+DLGAP1	Purkinje neurons
+GNG4	Purkinje neurons
+SHISA8	Purkinje neurons
+SYNPR	Purkinje neurons
+PRKCA	Purkinje neurons
+PCP4L1	Purkinje neurons
+PCP4	Purkinje neurons
+SLC1A6	Purkinje neurons
+GRID2	Purkinje neurons
+GAD2	Purkinje neurons
+CD3E	Pyramidal cells
+DLG4	Pyramidal cells
+CAMK2A	Pyramidal cells
+GRM1	Pyramidal cells
+GRM5	Pyramidal cells
+TBR1	Pyramidal cells
+POU3F1	Pyramidal cells
+EMX1	Pyramidal cells
+FEZF2	Pyramidal cells
+NRGN	Pyramidal cells
+GRIA3	Pyramidal cells
+SPINK8	Pyramidal cells
+PCP4	Pyramidal cells
+SYNPR	Pyramidal cells
+NR4A2	Pyramidal cells
+AGER	Pyramidal cells
+GRIN2D	Pyramidal cells
+YWHAZ	Pyramidal cells
+KCNN4	Pyramidal cells
+DAB1	Pyramidal cells
+CCM2	Pyramidal cells
+MAP2	Pyramidal cells
+CALB1	Pyramidal cells
+ADRB2	Pyramidal cells
+RTN4	Pyramidal cells
+PDE2A	Pyramidal cells
+KCNB1	Pyramidal cells
+KCNB2	Pyramidal cells
+KCNQ2	Pyramidal cells
+KCNQ3	Pyramidal cells
+SATB2	Pyramidal cells
+OXTR	Pyramidal cells
+CCK	Pyramidal cells
+KCND2	Pyramidal cells
+KCND3	Pyramidal cells
+PAX6	Radial glia cells
+SLC1A3	Radial glia cells
+PDGFD	Radial glia cells
+GLI3	Radial glia cells
+NOTCH3	Radial glia cells
+VCAM1	Radial glia cells
+HES5	Radial glia cells
+OLIG2	Radial glia cells
+GFAP	Radial glia cells
+EMX2	Radial glia cells
+CDH4	Radial glia cells
+SPRY1	Radial glia cells
+AXIN2	Radial glia cells
+RIIAD1	Radial glia cells
+HMOX1	Red pulp macrophages
+TREML4	Red pulp macrophages
+CD86	Red pulp macrophages
+NR1H3	Red pulp macrophages
+SLC11A1	Red pulp macrophages
+ADGRE1	Red pulp macrophages
+MERTK	Red pulp macrophages
+CCR3	Red pulp macrophages
+SPIC	Red pulp macrophages
+SLC40A1	Red pulp macrophages
+VCAM1	Red pulp macrophages
+SIGLEC1	Red pulp macrophages
+RUVBL1	Reticulocytes
+TFRC	Reticulocytes
+UCP3	Reticulocytes
+FOLR1	Reticulocytes
+UBE2O	Reticulocytes
+CD36	Reticulocytes
+ITGA4	Reticulocytes
+SLC11A2	Reticulocytes
+PRKCA	Retinal ganglion cells
+NGF	Retinal ganglion cells
+POU4F2	Retinal ganglion cells
+NHLH2	Retinal ganglion cells
+ATF6B	Retinal ganglion cells
+SNX16	Retinal ganglion cells
+IRX5	Retinal ganglion cells
+YDJC	Retinal ganglion cells
+DPP10	Retinal ganglion cells
+SHD	Retinal ganglion cells
+SMIM18	Retinal ganglion cells
+GALNT14	Retinal ganglion cells
+CHRNB3	Retinal ganglion cells
+THEM4	Retinal ganglion cells
+SCAPER	Retinal ganglion cells
+GALNTL6	Retinal ganglion cells
+CCDC184	Retinal ganglion cells
+NKAIN3	Retinal ganglion cells
+LHFPL5	Retinal ganglion cells
+SRRM3	Retinal ganglion cells
+GALNT9	Retinal ganglion cells
+MTUS2	Retinal ganglion cells
+IGLON5	Retinal ganglion cells
+DCTN1	Retinal ganglion cells
+GGT7	Retinal ganglion cells
+BTBD10	Retinal ganglion cells
+EFNA3	Retinal ganglion cells
+SLC29A4	Retinal ganglion cells
+STOML1	Retinal ganglion cells
+FBXO44	Retinal ganglion cells
+NELL1	Retinal ganglion cells
+RTN2	Retinal ganglion cells
+BBC3	Retinal ganglion cells
+EVC2	Retinal ganglion cells
+SYT16	Retinal ganglion cells
+CPNE5	Retinal ganglion cells
+TTLL1	Retinal ganglion cells
+GPHN	Retinal ganglion cells
+SIX6	Retinal ganglion cells
+ABLIM3	Retinal ganglion cells
+POU6F2	Retinal ganglion cells
+GRIP1	Retinal ganglion cells
+ZFP580	Retinal ganglion cells
+TOX2	Retinal ganglion cells
+NARF	Retinal ganglion cells
+BARHL2	Retinal ganglion cells
+DTX1	Retinal ganglion cells
+MAB21L2	Retinal ganglion cells
+KCTD8	Retinal ganglion cells
+CPNE4	Retinal ganglion cells
+KLHDC8A	Retinal ganglion cells
+IRX6	Retinal ganglion cells
+CHRNA6	Retinal ganglion cells
+CACNB3	Retinal ganglion cells
+CSDC2	Retinal ganglion cells
+AKAP7	Retinal ganglion cells
+HPCA	Retinal ganglion cells
+ISL1	Retinal ganglion cells
+SLC17A6	Retinal ganglion cells
+FGF12	Retinal ganglion cells
+DNER	Retinal ganglion cells
+TMEM163	Retinal ganglion cells
+RBPMS	Retinal ganglion cells
+POU4F1	Retinal ganglion cells
+RBPMS2	Retinal ganglion cells
+CDK14	Retinal ganglion cells
+FXYD7	Retinal ganglion cells
+NEFM	Retinal ganglion cells
+SNCG	Retinal ganglion cells
+PAX6	Retinal progenitor cells
+CALB2	Retinal progenitor cells
+SIX6	Retinal progenitor cells
+RHO	Retinal progenitor cells
+SIX3	Retinal progenitor cells
+NEFH	Retinal progenitor cells
+LGR5	Retinal progenitor cells
+SAG	Retinal progenitor cells
+RAX	Retinal progenitor cells
+NOTCH1	Retinal progenitor cells
+HES1	Retinal progenitor cells
+MSI1	Retinal progenitor cells
+SOX9	Retinal progenitor cells
+SMGC	Salivary mucous cells
+SCGB2B27	Salivary mucous cells
+SCGB1B27	Salivary mucous cells
+SCGB2B26	Salivary mucous cells
+MUCL2	Salivary mucous cells
+KRT14	Salivary mucous cells
+PROL1	Salivary mucous cells
+PIP	Salivary mucous cells
+MUCL1	Salivary mucous cells
+CNN1	Salivary mucous cells
+THBS1	Salivary mucous cells
+CAR6	Salivary mucous cells
+MYH11	Salivary mucous cells
+KRT17	Salivary mucous cells
+PAX7	Satellite cells
+DMD	Satellite cells
+CDH1	Satellite cells
+ERBB2	Satellite cells
+PAX3	Satellite cells
+MYF5	Satellite cells
+CDH15	Satellite cells
+CXCR4	Satellite cells
+FOXK1	Satellite cells
+ITGA7	Satellite cells
+TCF21	Satellite cells
+ISL1	Satellite cells
+MESP1	Satellite cells
+MET	Satellite cells
+CALCR	Satellite cells
+ASB5	Satellite cells
+SRXN1	Satellite cells
+BDKRB1	Satellite cells
+CDCP1	Satellite cells
+VCAM1	Satellite cells
+MYOD1	Satellite cells
+SOX8	Satellite cells
+SPRY1	Satellite cells
+CXCL1	Satellite cells
+HMOX1	Satellite cells
+TNFRSF12A	Satellite cells
+RUNX1	Satellite cells
+BARX2	Satellite cells
+TRIM32	Satellite cells
+VAMP2	Satellite cells
+PEG3	Satellite cells
+MSTN	Satellite cells
+ZFP423	Satellite cells
+SCRIB	Satellite cells
+NFATC2	Satellite cells
+IRF2	Satellite cells
+BMI1	Satellite cells
+SIX1	Satellite cells
+HOXC10	Satellite cells
+NOTCH3	Satellite cells
+HEYL	Satellite cells
+GAL	Satellite cells
+NCAM1	Satellite cells
+CAV1	Satellite cells
+GLUL	Satellite glial cells
+GFAP	Satellite glial cells
+EDNRB	Satellite glial cells
+BDKRB2	Satellite glial cells
+TGFA	Satellite glial cells
+EPOR	Satellite glial cells
+TNF	Satellite glial cells
+IL6	Satellite glial cells
+MAPK1	Satellite glial cells
+JAK2	Satellite glial cells
+SSTR1	Satellite glial cells
+SLC6A1	Satellite glial cells
+PTGDS	Satellite glial cells
+SOX2	Satellite glial cells
+CDH1	Satellite glial cells
+KCNJ10	Satellite glial cells
+AQP4	Satellite glial cells
+CNGA3	Satellite glial cells
+TLR4	Satellite glial cells
+P2RY12	Satellite glial cells
+P2RX7	Satellite glial cells
+SLC1A3	Satellite glial cells
+IL17A	Satellite glial cells
+MPZ	Schwann cells
+ITGB4	Schwann cells
+LAMC1	Schwann cells
+S100B	Schwann cells
+POU3F1	Schwann cells
+GFAP	Schwann cells
+MAG	Schwann cells
+OLIG1	Schwann cells
+TST	Schwann cells
+NDRG1	Schwann cells
+CTHRC1	Schwann cells
+NF2	Schwann cells
+SEPT9	Schwann cells
+AGR2	Schwann cells
+NGFR	Schwann cells
+CLDN19	Schwann cells
+PRX	Schwann cells
+NTRK1	Schwann cells
+ART3	Schwann cells
+BCAS1	Schwann cells
+NPY	Schwann cells
+ASPA	Schwann cells
+LGI4	Schwann cells
+BAG3	Schwann cells
+RXRG	Schwann cells
+SOX10	Schwann cells
+CMTM5	Schwann cells
+BCHE	Schwann cells
+EGFL8	Schwann cells
+GFRA3	Schwann cells
+SEMA3B	Schwann cells
+MATN2	Schwann cells
+SCN7A	Schwann cells
+CD82	Schwann cells
+TAGLN	Schwann cells
+NOV	Schwann cells
+ALDOC	Schwann cells
+APOD	Schwann cells
+CRYAB	Schwann cells
+PLP1	Schwann cells
+PMP22	Schwann cells
+CADM4	Schwann cells
+KCNA1	Schwann cells
+CNP	Schwann cells
+GPR37L1	Schwann cells
+NRN1	Schwann cells
+CD59A	Schwann cells
+STMN1	Schwann cells
+CAMP	Sebocytes
+IHH	Sebocytes
+CRHR1	Sebocytes
+CALCA	Sebocytes
+F2RL1	Sebocytes
+KLF5	Sebocytes
+EXO1	Sebocytes
+CRH	Sebocytes
+CEBPB	Sebocytes
+CDH1	Sebocytes
+LTA4H	Sebocytes
+RDH12	Sebocytes
+CEBPA	Sebocytes
+ADIPOR1	Sebocytes
+ANGPTL4	Sebocytes
+CYP24A1	Sebocytes
+PTGER2	Sebocytes
+CNR2	Sebocytes
+KRT7	Sebocytes
+SRD5A2	Sebocytes
+FFAR2	Sebocytes
+FFAR3	Sebocytes
+MUC1	Sebocytes
+HRH1	Sebocytes
+TPH1	Serotonergic neurons
+SLC6A4	Serotonergic neurons
+FEV	Serotonergic neurons
+TPH2	Serotonergic neurons
+DDC	Serotonergic neurons
+SLC18A2	Serotonergic neurons
+ESM1	Serotonergic neurons
+SLC22A3	Serotonergic neurons
+AMH	Sertoli cells
+INHBB	Sertoli cells
+SHBG	Sertoli cells
+GATA1	Sertoli cells
+GATA4	Sertoli cells
+DHH	Sertoli cells
+AR	Sertoli cells
+GDNF	Sertoli cells
+MAFB	Sertoli cells
+GAMT	Sertoli cells
+MEIG1	Sertoli cells
+KITL	Sertoli cells
+HES5	Sertoli cells
+CCL9	Sertoli cells
+NF2	Sertoli cells
+INHA	Sertoli cells
+DES	Sertoli cells
+FAS	Sertoli cells
+WT1	Sertoli cells
+AARD	Sertoli cells
+CST12	Sertoli cells
+DEFB19	Sertoli cells
+CST9	Sertoli cells
+RHOX8	Sertoli cells
+GSTM6	Sertoli cells
+ETD	Sertoli cells
+TMEM184A	Sertoli cells
+WNT6	Sertoli cells
+MRO	Sertoli cells
+HSD17B3	Sertoli cells
+AMHR2	Sertoli cells
+SEMA5B	Sertoli cells
+SCX	Sertoli cells
+HSD17B1	Sertoli cells
+TSX	Sertoli cells
+STIM1	Sertoli cells
+ANKRD7	Sertoli cells
+PHF7	Sertoli cells
+CXCL12	Sertoli cells
+STAR	Sertoli cells
+WFDC2	Sertoli cells
+PRND	Sertoli cells
+HSPBAP1	Sertoli cells
+NXF3	Sertoli cells
+GBA2	Sertoli cells
+PADI2	Sertoli cells
+ABCG8	Sertoli cells
+DIAPH2	Sertoli cells
+CTSA	Sertoli cells
+PFKFB3	Sertoli cells
+MSI1	Sertoli cells
+NOTCH2	Sertoli cells
+GATA6	Sertoli cells
+CLDN11	Sertoli cells
+OCLN	Sertoli cells
+SERPINA3N	Sertoli cells
+SERPINB9	Sertoli cells
+SERPING1	Sertoli cells
+CD55	Sertoli cells
+CD46	Sertoli cells
+CLU	Sertoli cells
+FSHR	Sertoli cells
+RXRB	Sertoli cells
+PRLR	Sertoli cells
+SLC16A3	Sertoli cells
+EPS8	Sertoli cells
+NR1H2	Sertoli cells
+BCAR3	Sertoli cells
+SOX9	Sertoli cells
+ACTA2	Smooth muscle cells
+CNN1	Smooth muscle cells
+HEXIM1	Smooth muscle cells
+TAGLN	Smooth muscle cells
+RGS5	Smooth muscle cells
+WFDC1	Smooth muscle cells
+NOTCH3	Smooth muscle cells
+RPRM	Smooth muscle cells
+DES	Smooth muscle cells
+FHL2	Smooth muscle cells
+FBLN5	Smooth muscle cells
+LOX	Smooth muscle cells
+NF2	Smooth muscle cells
+ANGPT1	Smooth muscle cells
+CRABP1	Smooth muscle cells
+MYH11	Smooth muscle cells
+FABP4	Smooth muscle cells
+ACTC1	Smooth muscle cells
+ANKRD1	Smooth muscle cells
+OBSCN	Smooth muscle cells
+PDE4DIP	Smooth muscle cells
+LMO7	Smooth muscle cells
+MYH6	Smooth muscle cells
+NEXN	Smooth muscle cells
+ACTG2	Smooth muscle cells
+MUSTN1	Smooth muscle cells
+SOD3	Smooth muscle cells
+HSPB6	Smooth muscle cells
+RRAD	Smooth muscle cells
+LMOD1	Smooth muscle cells
+ITGA1	Smooth muscle cells
+SPEG	Smooth muscle cells
+EHD2	Smooth muscle cells
+RBPMS2	Smooth muscle cells
+MAP3K7CL	Smooth muscle cells
+SLC38A11	Smooth muscle cells
+GJA4	Smooth muscle cells
+KAT2B	Smooth muscle cells
+LGR6	Smooth muscle cells
+MSRB3	Smooth muscle cells
+AKT2	Smooth muscle cells
+RASL12	Smooth muscle cells
+ZBTB44	Smooth muscle cells
+WWP2	Smooth muscle cells
+SSPN	Smooth muscle cells
+OTUD1	Smooth muscle cells
+FAS	Smooth muscle cells
+VASN	Smooth muscle cells
+PDGFD	Smooth muscle cells
+SMOC1	Smooth muscle cells
+AAED1	Smooth muscle cells
+AOC3	Smooth muscle cells
+SEC24D	Smooth muscle cells
+KCNAB1	Smooth muscle cells
+MYLK4	Smooth muscle cells
+KIF1C	Smooth muscle cells
+MRVI1	Smooth muscle cells
+JPH2	Smooth muscle cells
+ITGA9	Smooth muscle cells
+KCNMB1	Smooth muscle cells
+NOX4	Smooth muscle cells
+NOV	Smooth muscle cells
+DMPK	Smooth muscle cells
+SH3BGR	Smooth muscle cells
+ITGA8	Smooth muscle cells
+TCF21	Smooth muscle cells
+ADAMDEC1	Smooth muscle cells
+HHIP	Smooth muscle cells
+MFAP5	Smooth muscle cells
+SPON2	Smooth muscle cells
+LAMB2	Smooth muscle cells
+GJC1	Smooth muscle cells
+ACKR3	Smooth muscle cells
+OGN	Smooth muscle cells
+SMTN	Smooth muscle cells
+BGN	Smooth muscle cells
+MYL9	Smooth muscle cells
+MYLK	Smooth muscle cells
+PCP4L1	Smooth muscle cells
+SNCG	Smooth muscle cells
+PLN	Smooth muscle cells
+NRP2	Smooth muscle cells
+CAPN1	Spermatocytes
+JAKMIP1	Spermatocytes
+SMCP	Spermatocytes
+GKAP1	Spermatocytes
+SPATA33	Spermatocytes
+NOTCH3	Spermatocytes
+PGK2	Spermatocytes
+ACR	Spermatocytes
+SYCP1	Spermatocytes
+SYCP2	Spermatocytes
+SYCP3	Spermatocytes
+TXNDC8	Spermatocytes
+TEX101	Spermatocytes
+CD46	Spermatocytes
+INHBB	Spermatocytes
+PRM1	Spermatocytes
+PRM2	Spermatocytes
+IGF2	Spermatocytes
+TNP1	Spermatocytes
+OSR2	Spermatocytes
+ABHD2	Spermatozoa
+HVCN1	Spermatozoa
+GPR55	Spermatozoa
+ABCA1	Spermatozoa
+SLC31A1	Spermatozoa
+LDHC	Spermatozoa
+PRKAA2	Spermatozoa
+HSPA2	Spermatozoa
+ODF1	Spermatozoa
+MMP2	Stromal cells
+MMP9	Stromal cells
+TLR3	Stromal cells
+MME	Stromal cells
+PECAM1	Stromal cells
+ITGA4	Stromal cells
+ITGAV	Stromal cells
+ICAM1	Stromal cells
+VCAM1	Stromal cells
+KIT	Stromal cells
+PDGFRA	Stromal cells
+PDGFRB	Stromal cells
+MADCAM1	Stromal cells
+B4GALNT1	Stromal cells
+TLR1	Stromal cells
+TLR2	Stromal cells
+TLR4	Stromal cells
+CDH11	Stromal cells
+CALB2	Stromal cells
+DES	Stromal cells
+MMRN2	Stromal cells
+CD248	Stromal cells
+FAP	Stromal cells
+LAMC2	Stromal cells
+SNED1	Stromal cells
+TNC	Stromal cells
+LUM	Stromal cells
+COL15A1	Stromal cells
+GDF10	Stromal cells
+COL4A1	Stromal cells
+BMP4	Stromal cells
+WNT2	Stromal cells
+BMP5	Stromal cells
+CD3D	T cells
+CD3G	T cells
+CD3E	T cells
+HOPX	T cells
+CCL3	T cells
+CCL4	T cells
+SYT3	T cells
+NOTCH3	T cells
+SEMA6D	T cells
+DKK3	T cells
+IFIT3	T cells
+CERK	T cells
+CCL6	T cells
+PMCH	T cells
+CD4	T cells
+LTB	T cells
+GIMAP3	T cells
+CXCR6	T cells
+IL7R	T cells
+SATB1	T cells
+LEF1	T cells
+ITK	T cells
+TRBC2	T cells
+PTPRCAP	T cells
+GEM	T cells
+CD7	T cells
+MAFF	T cells
+TGIF1	T cells
+RORA	T cells
+TNFAIP3	T cells
+CREM	T cells
+PXDC1	T cells
+NABP1	T cells
+FAM110A	T cells
+TRAC	T cells
+CD69	T cells
+CXCR4	T cells
+H2-Q7	T cells
+TRBC1	T cells
+SEPT1	T cells
+BCL2	T cells
+CYTL1	T cells
+CD2	T cells
+CTSW	T cells
+PTPN22	T cells
+TXK	T cells
+GDPD3	T cells
+TRAF1	T cells
+IL2RA	T cells
+BATF3	T cells
+LAG3	T cells
+CD8B1	T cells
+GZMK	T cells
+GZMB	T cells
+SH2D1A	T cells
+MYO1G	T cells
+FMNL1	T cells
+S1PR4	T cells
+CD247	T cells
+MS4A4C	T cells
+GIMAP5	T cells
+CD28	T cells
+CD160	T cells
+TCRG-C1	T cells
+TRDC	T cells
+H2-T3	T cells
+RHOH	T cells
+KLRB1	T cells
+CCR2	T cells
+IL2RB	T cells
+CD163L1	T cells
+TRDV4	T cells
+MBD2	T cells
+ICOS	T cells
+IL18R1	T cells
+TNFRSF4	T cells
+CCL20	T cells
+CLEC2D	T cells
+CD8A	T cells
+CD6	T cells
+S100A4	T cells
+CCL5	T cells
+LCK	T cells
+CD81	T cells
+THY1	T cells
+LAT	T cells
+SKAP1	T cells
+TCF7	T cells
+CCR7	T cells
+MYB	T cells
+GZMA	T cells
+JUNB	T cells
+DUSP2	T cells
+IFNG	T cells
+CD52	T cells
+BRAF	T cells
+CD3D	T cells naive
+CD4	T cells naive
+SELL	T cells naive
+CCR7	T cells naive
+CD2	T cytotoxic cells
+CD27	T cytotoxic cells
+CD28	T cytotoxic cells
+CD5	T cytotoxic cells
+CD69	T cytotoxic cells
+CD8A	T cytotoxic cells
+GZMB	T cytotoxic cells
+TRAC	T cytotoxic cells
+BCL6	T follicular helper cells
+CD3D	T follicular helper cells
+CD4	T follicular helper cells
+CD84	T follicular helper cells
+SLAMF1	T follicular helper cells
+CD40LG	T follicular helper cells
+CXCR5	T follicular helper cells
+TNFSF4	T follicular helper cells
+ICOS	T follicular helper cells
+PDCD1	T follicular helper cells
+CD200	T follicular helper cells
+P2RX7	T follicular helper cells
+IFNG	T helper cells
+IL2	T helper cells
+TBX21	T helper cells
+DPP4	T helper cells
+KLRD1	T helper cells
+CXCR3	T helper cells
+CCR1	T helper cells
+CCR5	T helper cells
+TNFSF11	T helper cells
+HAVCR2	T helper cells
+IL18R1	T helper cells
+LTBR	T helper cells
+TNF	T helper cells
+LTA	T helper cells
+GATA3	T helper cells
+CSF2	T helper cells
+IL4	T helper cells
+IL5	T helper cells
+IL6	T helper cells
+IL10	T helper cells
+IL13	T helper cells
+CCR8	T helper cells
+CXCR4	T helper cells
+CCR3	T helper cells
+CCR7	T helper cells
+ICOS	T helper cells
+PTGDR2	T helper cells
+HAVCR1	T helper cells
+IL1R2	T helper cells
+IRF4	T helper cells
+STAT6	T helper cells
+IL17A	T helper cells
+IL17F	T helper cells
+IL21	T helper cells
+IL22	T helper cells
+RORA	T helper cells
+RORC	T helper cells
+CD38	T helper cells
+KLRB1	T helper cells
+AHR	T helper cells
+CCR10	T helper cells
+CD3D	T helper cells
+CD4	T helper cells
+CCR4	T helper cells
+CCR6	T helper cells
+IL9	T helper cells
+CD2	T helper cells
+CD28	T helper cells
+CD5	T helper cells
+IL1RL1	T helper cells
+FOXP3	T helper cells
+CD3G	T helper cells
+TNFRSF4	T helper cells
+IL4RA	T helper cells
+CD40LG	T helper cells
+IL17RB	T helper cells
+HPGDS	T helper cells
+NFATC2	T helper cells
+NFKB1	T helper cells
+NR3C1	T helper cells
+PPARG	T helper cells
+SELL	T memory cells
+CCR7	T memory cells
+CD4	T memory cells
+CCR5	T memory cells
+CD69	T memory cells
+ITGB5	T memory cells
+BCL2	T memory cells
+GRAP2	T memory cells
+TBC1D10C	T memory cells
+CYTIP	T memory cells
+KPNA4	T memory cells
+CD247	T memory cells
+EPSTI1	T memory cells
+APBB1IP	T memory cells
+CD27	T memory cells
+RHOH	T memory cells
+GIMAP1	T memory cells
+ACP5	T memory cells
+IKZF1	T memory cells
+SP100	T memory cells
+DGKA	T memory cells
+IL7R	T memory cells
+ITGB7	T memory cells
+NKG7	T memory cells
+CD28	T memory cells
+H2-T23	T memory cells
+GIMAP3	T memory cells
+H2-Q7	T memory cells
+BIN2	T memory cells
+RAPGEF6	T memory cells
+ARHGEF1	T memory cells
+MIR142HG	T memory cells
+S100A9	T memory cells
+SLFN2	T memory cells
+ARHGAP15	T memory cells
+CD3E	T memory cells
+SKAP1	T memory cells
+GIMAP4	T memory cells
+CD2	T memory cells
+PTPRC	T memory cells
+LAT	T memory cells
+MS4A6B	T memory cells
+TCF7	T memory cells
+LEF1	T memory cells
+SEPT1	T memory cells
+ARHGAP45	T memory cells
+SATB1	T memory cells
+PTPRCAP	T memory cells
+S100A8	T memory cells
+LTB	T memory cells
+LCK	T memory cells
+TRBC1	T memory cells
+TRAC	T memory cells
+CD3G	T memory cells
+CD3D	T memory cells
+MS4A4B	T memory cells
+TRBC2	T memory cells
+CD7	T memory cells
+CXCR6	T memory cells
+ICOS	T memory cells
+CCR6	T memory cells
+ITGAE	T memory cells
+ENPP1	T memory cells
+FOXP3	T regulatory cells
+IKZF2	T regulatory cells
+CD4	T regulatory cells
+IL2RA	T regulatory cells
+ENTPD1	T regulatory cells
+SELL	T regulatory cells
+NT5E	T regulatory cells
+ITGAE	T regulatory cells
+TNFRSF4	T regulatory cells
+CTLA4	T regulatory cells
+CCR4	T regulatory cells
+LAG3	T regulatory cells
+IZUMO1R	T regulatory cells
+CNGB1	T regulatory cells
+TNFRSF18	T regulatory cells
+MAF	T regulatory cells
+IL10	T regulatory cells
+IL1R1	T regulatory cells
+ITGB8	T regulatory cells
+LRRC32	T regulatory cells
+FOLR1	T regulatory cells
+GPR50	Tanycytes
+DRD2	Tanycytes
+DIO2	Tanycytes
+COL23A1	Tanycytes
+SLC16A2	Tanycytes
+LHX2	Tanycytes
+PTN	Tanycytes
+SLC17A8	Tanycytes
+COL25A1	Tanycytes
+RAX	Tanycytes
+PRDX6	Tanycytes
+CD59A	Tanycytes
+CRYM	Tanycytes
+VCAN	Tanycytes
+FRZB	Tanycytes
+PENK	Tanycytes
+CACNA2D2	Tanycytes
+ADM	Tanycytes
+SPRR1A	Tanycytes
+SCN7A	Tanycytes
+FNDC3C1	Tanycytes
+MEST	Tanycytes
+IGFBP5	Tanycytes
+RGCC	Tanycytes
+RGS7BP	Tanycytes
+CTGF	Tanycytes
+TGFB2	Tanycytes
+TAS1R1	Taste receptor cells
+TAS1R2	Taste receptor cells
+TAS1R3	Taste receptor cells
+P2RX7	Taste receptor cells
+CCK	Taste receptor cells
+KCNQ1	Taste receptor cells
+KCNH2	Taste receptor cells
+GNAT3	Taste receptor cells
+TRPM5	Taste receptor cells
+NR3C1	Taste receptor cells
+SYP	Taste receptor cells
+SV2B	Taste receptor cells
+PKD2L1	Taste receptor cells
+MCOLN3	Taste receptor cells
+TRPM8	Taste receptor cells
+PROX1	Taste receptor cells
+GRM4	Taste receptor cells
+NOTCH1	Thymocytes
+CD38	Thymocytes
+CXCR4	Thymocytes
+TNF	Thymocytes
+CD2	Thymocytes
+CD4	Thymocytes
+CD5	Thymocytes
+CD8A	Thymocytes
+IL2RA	Thymocytes
+CD69	Thymocytes
+SLAMF1	Thymocytes
+TAGAP	Thymocytes
+MS4A4B	Thymocytes
+UCP2	Thymocytes
+TSHR	Thymocytes
+CD27	Thymocytes
+CD28	Thymocytes
+BCL6	Thymocytes
+CIDEA	Thymocytes
+EZR	Thymocytes
+SLC26A4	Transient cells
+CAR12	Transient cells
+RHBG	Transient cells
+HEPACAM2	Transient cells
+INSRR	Transient cells
+CLCNKB	Transient cells
+COL18A1	Transient cells
+SLC43A2	Transient cells
+TMEM117	Transient cells
+PARM1	Transient cells
+ST14	Transient cells
+ENPP5	Transient cells
+GCLC	Transient cells
+SYT7	Transient cells
+ITGAV	Transient cells
+TMEM50B	Transient cells
+CTNNB1	Transient cells
+ACO2	Transient cells
+SMPD1	Transient cells
+OGDH	Transient cells
+SEC23B	Transient cells
+CDC42BPB	Transient cells
+PIP4K2C	Transient cells
+KRT86	Trichocytes
+DSG2	Trichocytes
+KRT81	Trichocytes
+DSG4	Trichocytes
+HOXC13	Trichocytes
+CREBRF	Trigeminal neurons
+PRKX	Trigeminal neurons
+PRDM12	Trigeminal neurons
+DHCR24	Trigeminal neurons
+CALCA	Trigeminal neurons
+CALCB	Trigeminal neurons
+VWA5A	Trigeminal neurons
+PRRXL1	Trigeminal neurons
+PPP1R1C	Trigeminal neurons
+AVIL	Trigeminal neurons
+PIRT	Trigeminal neurons
+TAC1	Trigeminal neurons
+PRPH	Trigeminal neurons
+SCN9A	Trigeminal neurons
+RUFY2	Trigeminal neurons
+FAM189B	Trigeminal neurons
+CLGN	Trigeminal neurons
+SCN7A	Trigeminal neurons
+NEFH	Trigeminal neurons
+GCNT2	Trigeminal neurons
+ZDHHC2	Trigeminal neurons
+PARM1	Trigeminal neurons
+AHNAK2	Trigeminal neurons
+PHF24	Trigeminal neurons
+KCNAB2	Trigeminal neurons
+ATL1	Trigeminal neurons
+HSPB8	Trigeminal neurons
+FKBP1B	Trigeminal neurons
+TLN2	Trigeminal neurons
+SYNM	Trigeminal neurons
+GDAP1	Trigeminal neurons
+DGKZ	Trigeminal neurons
+PRUNE2	Trigeminal neurons
+SLC17A6	Trigeminal neurons
+FGF13	Trigeminal neurons
+DGKH	Trigeminal neurons
+CPNE3	Trigeminal neurons
+CCDC92	Trigeminal neurons
+SNCG	Trigeminal neurons
+NICN1	Trigeminal neurons
+NEFM	Trigeminal neurons
+RGS7BP	Trigeminal neurons
+ADD2	Trigeminal neurons
+PIEZO2	Trigeminal neurons
+VAMP1	Trigeminal neurons
+SCN10A	Trigeminal neurons
+CD4	Trophoblast cells
+TTPA	Trophoblast cells
+TNFRSF9	Trophoblast cells
+STAR	Trophoblast cells
+HOPX	Trophoblast cells
+ADAM19	Trophoblast cells
+CYP24A1	Trophoblast cells
+LIF	Trophoblast cells
+HAND1	Trophoblast cells
+ELF5	Trophoblast cells
+SIRT1	Trophoblast cells
+PTHLH	Trophoblast cells
+ACKR2	Trophoblast cells
+IGF2	Trophoblast cells
+CDX2	Trophoblast cells
+KRT7	Trophoblast cells
+DLX3	Trophoblast cells
+GCM1	Trophoblast cells
+ASCL2	Trophoblast cells
+INHBA	Trophoblast cells
+MLANA	Trophoblast cells
+SERPINE1	Trophoblast cells
+PHLDA2	Trophoblast cells
+TFEB	Trophoblast cells
+PERP	Trophoblast cells
+PARP1	Trophoblast cells
+ISG20	Trophoblast progenitor cells
+FOXO4	Trophoblast progenitor cells
+TFAP2C	Trophoblast progenitor cells
+TFAP2C	Trophoblast stem cells
+SUCNR1	Tuft cells
+FABP1	Tuft cells
+POU2F3	Tuft cells
+SIGLECF	Tuft cells
+CDHR2	Tuft cells
+AVIL	Tuft cells
+ESPN	Tuft cells
+LRMP	Tuft cells
+TRPM5	Tuft cells
+DCLK1	Tuft cells
+TAS1R3	Tuft cells
+SOX9	Tuft cells
+TUBB5	Tuft cells
+CAMK2B	Tuft cells
+GNAT3	Tuft cells
+IL25	Tuft cells
+PLCB2	Tuft cells
+GFI1B	Tuft cells
+ATOH1	Tuft cells
+CD24A	Tuft cells
+ASIC5	Tuft cells
+KLF3	Tuft cells
+KLF6	Tuft cells
+DRD3	Tuft cells
+NRADD	Tuft cells
+GNG13	Tuft cells
+NREP	Tuft cells
+RGS2	Tuft cells
+RAC2	Tuft cells
+PTGS1	Tuft cells
+IRF7	Tuft cells
+FFAR3	Tuft cells
+ALOX5	Tuft cells
+TSLP	Tuft cells
+IL4RA	Tuft cells
+IL13RA1	Tuft cells
+IL17RB	Tuft cells
+PTPRC	Tuft cells
+BATF3	Undefined placental cells
+DIO3	Undefined placental cells
+DKKL1	Undefined placental cells
+DUSP9	Undefined placental cells
+FTHL17A	Undefined placental cells
+H19	Undefined placental cells
+LAS1L	Undefined placental cells
+LDOC1	Undefined placental cells
+MBNL3	Undefined placental cells
+PHLDA2	Undefined placental cells
+PRL3B1	Undefined placental cells
+PRSS8	Undefined placental cells
+RHOX5	Undefined placental cells
+RHOX6	Undefined placental cells
+RHOX9	Undefined placental cells
+SCT	Undefined placental cells
+SERPINB9E	Undefined placental cells
+SERPINB9G	Undefined placental cells
+TEX19.1	Undefined placental cells
+TFRC	Undefined placental cells
+TPBPA	Undefined placental cells
+KRT23	Undefined placental cells
+TRPV1	Urothelial cells
+NAT1	Urothelial cells
+UPK1B	Urothelial cells
+PIEZO1	Urothelial cells
+UMODL1	Urothelial cells
+IVL	Urothelial cells
+SLC14A1	Urothelial cells
+UPK3A	Urothelial cells
+UPK1A	Urothelial cells
+UPK2	Urothelial cells
+UPK3B	Urothelial cells
+ACTA2	Vascular smooth muscle cells
+MYH11	Vascular smooth muscle cells
+PDGFRB	Vascular smooth muscle cells
+SEMA3D	Vascular smooth muscle cells
+TBX18	Vascular smooth muscle cells
+WT1	Vascular smooth muscle cells
