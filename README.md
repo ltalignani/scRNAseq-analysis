@@ -21,5 +21,5 @@ All the steps are carried out using [Seurat](https://satijalab.org/seurat/articl
  * Integrative analysis
  * Default differential expression tests across models 
  * Differential expression across samples within the same cell types
- * Gene Ontology analysis using clusterProfiler [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html)
+ * Gene Ontology analysis using [clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html)
  * Pathway enrichment analysis using clusterProfiler
