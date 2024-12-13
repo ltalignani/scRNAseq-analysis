@@ -1,0 +1,108 @@
+executor: "slurm"
+default-resources:
+  slurm_account: "invalbo"
+  slurm_partition: "fast"
+  runtime: 120
+  cpus_per_task: 1
+  nodes: 1
+  tasks: 1
+  mem_mb: max((1.5 * input.size_mb) * attempt, 8000) # see https://snakemake.readthedocs.io/en/v8.4.7/executing/cli.html
+jobs: 100
+restart-times: 5
+latency-wait: 60
+rerun-incomplete: True
+keep-going: True
+use-envmodules: False
+use-conda: True
+conda-frontend: mamba
+printshellcmds: True
+max-jobs-per-second: 1
+max-status-checks-per-second: 1
+local-cores: 1
+
+# Rules configuration
+set-resources:
+  perform_preprocessing:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    nodes: 10
+    mem_mb: attempt * 256000
+    runtime: attempt * 60
+  plot_preprocessing_plots:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    nodes: 5
+    mem_mb: attempt * 94000
+    runtime: attempt * 60
+  perform_clustering_and_dim_reduction:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    nodes: 10
+    mem_mb: attempt * 94000
+    runtime: attempt * 20
+  plot_clustering_dim_reduction_plots:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    nodes: 5
+    mem_mb: attempt * 94000
+    runtime: attempt * 60
+  per_sample_diff_expression_and_marker_identification:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    nodes: 10
+    mem_mb: attempt * 94000
+    runtime: attempt * 60
+  assign_cell_type_identity_to_cluster:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    nodes: 10
+    mem_mb: attempt * 94000
+    runtime: attempt * 60
+  per_sample_enrichment_analysis:
+    slurm_partition: "long"
+    cpus_per_task: 20
+    mem_mb: attempt * 94000
+    runtime: attempt * 180
+  per_celltype_enrichement_analysis:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    mem_mb: attempt * 94000
+    runtime: attempt * 180
+  sample_diffexp:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    nodes: 10
+    mem_mb: attempt * 94000
+    runtime: attempt * 240
+  perform_merge_seurat:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    mem_mb: attempt * 94000
+    runtime: attempt * 20
+  plot_dim_plots_for_merged_seurat:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    mem_mb: attempt * 94000
+    runtime: attempt * 60
+  seurat_integration:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    mem_mb: attempt * 94000
+    runtime: attempt * 60
+  assign_celltype_to_integrated_seurat:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    nodes: 10
+    mem_mb: attempt * 94000
+    runtime: attempt * 60
+  per_celltype_diffexp:
+    slurm_partition: "fast"
+    cpus_per_task: 20
+    nodes: 10
+    mem_mb: attempt * 94000
+    runtime: attempt * 20
+#config:
+#  my_parameter_list:
+#    - "item_0"
+#    - "item_1"
+
