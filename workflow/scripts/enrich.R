@@ -240,23 +240,49 @@ create_plot(ego2_mf, snakemake@output[["dot_plot_mf"]], "dotplot")
 
 # Treeplot
 print("Création des Treeplots")
-create_treeplot <- function(result, output_path) {
+create_treeplot <- function(result, output_path, nCluster = 4) {
     if (!is.null(result) && nrow(result) > 0) {
         print(paste("Création d'un Treeplot pour", output_path))
-        result <- pairwise_termsim(result)
-        p1 <- treeplot(result)
-        p2 <- treeplot(result, hclust_method = "average")
-        tree_plot <- aplot::plot_list(p1, p2, tag_levels = "A")
-        pdf(file = output_path, height = 20, width = 30)
-        print(tree_plot)
-        dev.off()
-        print(paste("Treeplot enregistré pour", output_path))
+        tryCatch(
+            {
+                # Calcul des similarités entre termes
+                result <- pairwise_termsim(result)
+
+                # Ajuster dynamiquement le nombre de clusters si nécessaire
+                if (nrow(result) < nCluster) {
+                    nCluster <- nrow(result)
+                    print(paste("Nombre de clusters ajusté à", nCluster, "en raison de résultats limités."))
+                }
+
+                # Générer les treeplots avec la méthode recommandée
+                p1 <- treeplot(result, cluster.params = list(method = "complete"), nCluster = nCluster)
+                p2 <- treeplot(result, cluster.params = list(method = "average"), nCluster = nCluster)
+
+                # Combiner les deux treeplots dans un seul
+                tree_plot <- aplot::plot_list(p1, p2, tag_levels = "A")
+
+                # Sauvegarder le plot
+                pdf(file = output_path, height = 20, width = 30)
+                print(tree_plot)
+                dev.off()
+                print(paste("Treeplot enregistré pour", output_path))
+            },
+            error = function(e) {
+                # Gestion des erreurs
+                print(paste("Erreur dans la création du Treeplot :", e$message))
+                pdf(file = output_path)
+                plot.new()
+                text(0.5, 0.5, paste("Error:", e$message), cex = 1.5, font = 2)
+                dev.off()
+            }
+        )
     } else {
+        # Cas où les résultats sont vides ou null
         pdf(file = output_path)
         plot.new()
         text(0.5, 0.5, "No significant results", cex = 1.5, font = 2)
         dev.off()
-        print(paste("Aucun résultat pour Treeplot", output_path))
+        print(paste("Aucun résultat pour Treeplot :", output_path))
     }
 }
 

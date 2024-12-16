@@ -1,0 +1,4 @@
+**Heatmap of Top Differentially Expressed Genes**
+This heatmap provides a visualization of the top 25 (or fewer, if fewer are available) differentially expressed genes between two groups of cells (e.g., wild type vs. knockout). The rows represent genes, clustered based on their expression profiles, while the columns display the log2 fold change (Log2FC) in gene expression.
+
+The accompanying bar plots on the right show the percentage of cells expressing each gene in the two groups, offering additional context about the differential expression patterns. This heatmap aids in identifying key marker genes and understanding the biological differences between the two conditions.

@@ -1,0 +1,2 @@
+**nCount vs. nFeatures Plot**
+Plotting nCount (total UMI count per cell) against nFeatures (number of detected genes per cell) is a crucial quality control step in single-cell RNA sequencing (scRNA-seq) analysis. This visualization helps to assess the quality of individual cells and identify potential issues. More information can be found here `Seurat tutorial <https://satijalab.org/seurat/articles/pbmc3k_tutorial>`_ 

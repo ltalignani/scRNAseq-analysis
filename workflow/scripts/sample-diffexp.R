@@ -23,6 +23,7 @@ library(dplyr)
 library(scCustomize)
 library(ggplot2)
 library(ggrepel)
+library(tibble)
 
 
 seurat_obj <- readRDS(snakemake@input[["integrated_seurat_object"]])
@@ -31,8 +32,6 @@ column_name <- snakemake@params[["column_name"]] # wt_vs_ko
 base_level <- snakemake@params[["base_level"]] # wt
 comparison <- snakemake@params[["comparison_variable"]] # ko
 
-print(base_level)
-print(comparison)
 
 accessor_string <- paste0("seurat_obj$", column_name)
 Idents(seurat_obj) <- column_name
@@ -49,10 +48,13 @@ pos_markers <- FindMarkers(seurat_obj,
   ident.1 = base_level,
   ident.2 = comparison, only.pos = TRUE
 )
-pos_markers %>%
+
+# Sélectionner les 10 meilleurs marqueurs (logFC > 1)
+top10_markers <- pos_markers %>%
   dplyr::filter(avg_log2FC > 1) %>%
   slice_head(n = 10) %>%
-  ungroup() -> top10_markers
+  rownames_to_column(var = "gene") # Convertir les noms de ligne en colonne "gene"
+
 write.csv(top10_markers,
   file = snakemake@output[["top_10_markers"]], quote = FALSE
 )
