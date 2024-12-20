@@ -1,23 +1,6 @@
 log <- file(snakemake@log[[1]], open="wt")
 sink(log)
-sink(log, type = "message")
-
-# Fonction pour installer un package si non présent
-install_if_missing <- function(package) {
-  if (!require(package, character.only = TRUE)) {
-    install.packages(package)
-    library(package, character.only = TRUE)
-  }
-}
-
-# Liste des packages à vérifier et installer si nécessaire
-packages <- c("scCustomize", "ggpubr", "hdf5r", "rliger")
-
-# Boucle pour vérifier et installer chaque package
-for (pkg in packages) {
-  install_if_missing(pkg)
-}
-
+sink(log, type="message")
 
 
 library(dplyr)

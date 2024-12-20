@@ -1,0 +1,105 @@
+# Commandes à utiliser pour créer les images docker:
+
+```
+
+docker buildx create --use
+
+docker buildx build --platform linux/amd64 -t umr224/seurat_env --load . 
+
+ou 
+
+docker buildx build --platform linux/amd64 -t umr224/seurat_env:v1 -f /path/to/Dockerfile /path/to/context --push
+
+```
+
+
+
+# Pour lancer un conteneur :
+
+```
+docker run -it umr224/diffexp-env
+``` 
+Il est possible de lancer le conteneur et de le supprimer à la fin de son exécution : 
+
+```
+docker run --rm -it umr224/diffex-env
+```
+
+Options :
+-i (interactive) : garde l'entrée standard STDIN ouverte, même si l'on n'est pas connecté au conteneur. 
+Permet d'interagir avec le conteneur en fournissant des entrées utilisateur. Utile lorsque le conteneur
+exécute une application ou un shell nécessitant des commandes interactives.
+
+-t (TTY) : alloue un pseudo-terminal pour une meilleur expérience interactive. 
+Essentiel pour les commandes comme bash ou R qui utilisent des interfaces en ligne de commande.
+
+
+
+# Pour supprimer un conteneur : 
+
+Pour supprimer un conteneur problématique créé après avoir construit une image avec Docker, suivre ces étapes :
+
+1. Identifier le Conteneur
+
+Listez les conteneurs en cours d’exécution ou arrêtés pour récupérer l’ID ou le nom du conteneur :
+
+```
+docker ps -a
+````
+
+Exemple de sortie :
+
+CONTAINER ID   IMAGE                  COMMAND       STATUS                      NAMES
+f3a2d5b4c123   umr224/diffexp-env     "R"           Exited (1) 3 minutes ago   diffexp-container
+
+Noter soit l’ID du conteneur (ex. f3a2d5b4c123), soit son nom (ex. diffexp-container).
+
+2. Arrêter le Conteneur (si nécessaire)
+
+Si le conteneur est en cours d’exécution, arrêtez-le :
+
+```
+docker stop <container_id_or_name>
+```
+
+Exemple :
+```
+docker stop diffexp-container
+```
+
+3. Supprimer le Conteneur
+
+Supprimez le conteneur avec la commande suivante :
+
+```
+docker rm <container_id_or_name>
+```
+Exemple :
+```
+docker rm diffexp-container
+```
+
+4. Supprimer l’Image Associée (si nécessaire)
+
+Si le problème est lié à l’image elle-même et que vous souhaitez la reconstruire :
+	1.	Supprimez d’abord tous les conteneurs qui utilisent l’image :
+```
+docker ps -a -q --filter ancestor=umr224/diffexp-env | xargs docker rm
+```
+
+	2.	Supprimez ensuite l’image Docker :
+```
+docker rmi umr224/diffexp-env
+```
+
+Conseils pour Éviter les Problèmes à l’Avenir
+	•	Vérifiez les erreurs de build ou d’exécution à l’aide des logs :
+```
+docker logs <container_id_or_name>
+```
+
+	•	Testez l’image localement avant de la pousser sur un dépôt ou de l’exécuter en production.
+	•	Utilisez docker run --rm pour tester temporairement un conteneur, ce qui le supprime automatiquement après son arrêt :
+```
+docker run --rm -it umr224/diffexp-env
+```

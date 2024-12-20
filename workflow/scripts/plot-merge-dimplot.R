@@ -1,6 +1,6 @@
-log <- file(snakemake@log[[1]], open = "wt")
+log <- file(snakemake@log[[1]], open="wt")
 sink(log)
-sink(log, type = "message")
+sink(log, type="message")
 
 # Fonction pour installer un package si non présent
 install_if_missing <- function(package) {
@@ -28,17 +28,17 @@ groups <- snakemake@params[["column_name"]]
 
 # Personnalisation de DimPlot avec des tailles ajustées pour les labels et la légende
 merge_dim_plot <- DimPlot(
-    seurat_obj,
-    reduction = "umap.unintegrated",
-    group.by = groups,
-    label = TRUE,
-    label.size = 3 # Réduction de la taille des étiquettes
+  seurat_obj,
+  reduction = "umap.unintegrated",
+  group.by = groups,
+  label = TRUE,
+  label.size = 3   # Réduction de la taille des étiquettes
 ) +
-    theme(
-        axis.text = element_text(size = 8), # Réduction de la taille du texte des axes
-        legend.text = element_text(size = 6), # Réduction de la taille du texte de la légende
-        legend.title = element_text(size = 8) # Réduction de la taille du titre de la légende
-    )
+  theme(
+    axis.text = element_text(size = 10),      # Réduction de la taille du texte des axes
+    legend.text = element_text(size = 8),    # Réduction de la taille du texte de la légende
+    legend.title = element_text(size = 10)   # Réduction de la taille du titre de la légende
+  )
 
 # Sauvegarde du graphique en PDF
 pdf(file = snakemake@output[["merge_dim_plot"]])

@@ -1,6 +1,6 @@
-log <- file(snakemake@log[[1]], open = "wt")
+log <- file(snakemake@log[[1]], open="wt")
 sink(log)
-sink(log, type = "message")
+sink(log, type="message")
 
 # Fonction pour installer un package si non présent
 install_if_missing <- function(package) {
@@ -29,20 +29,20 @@ dim_plot <- list()
 for (i in 1:length(seurat_obj)) {
   dim_plot[[i]] <- DimPlot(
     seurat_obj[[i]],
-    label = TRUE, # Affichage des étiquettes
-    label.size = 3 # Taille réduite des étiquettes
+    label = TRUE,          # Affichage des étiquettes
+    label.size = 3         # Taille réduite des étiquettes
   ) +
     labs(x = levels((seurat_obj[[i]]@meta.data$orig.ident))) +
     theme(
-      axis.text = element_text(size = 8), # Réduction de la taille des textes des axes
-      legend.text = element_text(size = 6), # Taille réduite des textes de la légende
-      legend.title = element_text(size = 8) # Taille réduite du titre de la légende
+      axis.text = element_text(size = 10),     # Réduction de la taille des textes des axes
+      legend.text = element_text(size = 8),   # Taille réduite des textes de la légende
+      legend.title = element_text(size = 10)  # Taille réduite du titre de la légende
     )
 }
 
 # Sauvegarde des graphiques en PDF
 pdf(file = snakemake@output[["dim_plot"]])
 for (plot in dim_plot) {
-  print(plot) # Impression de chaque graphique dans le PDF
+  print(plot)  # Impression de chaque graphique dans le PDF
 }
 dev.off()

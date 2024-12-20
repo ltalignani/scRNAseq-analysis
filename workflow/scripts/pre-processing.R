@@ -26,10 +26,10 @@ filter_invalid_cells_genes <- function(count_matrix) {
 
     # Vérifier les valeurs NA, NaN ou infinies
     if (any(is.na(count_matrix))) {
-        stop("La matrice contient des NA après le filtrage.")
+      stop("La matrice contient des NA après le filtrage.")
     }
     if (any(!is.finite(count_matrix))) {
-        stop("La matrice contient des valeurs infinies après le filtrage.")
+      stop("La matrice contient des valeurs infinies après le filtrage.")
     }
     return(count_matrix)
 }
@@ -50,37 +50,34 @@ intr_seurat_obj <- list()
 
 # Boucle sur les échantillons
 for (i in 1:length(samples[[1]])) {
-    sample_name <- names(expression_matrices[i])
+  sample_name <- names(expression_matrices[i])
 
-    # Filtrer les données pour éliminer les cellules/gènes invalides
-    filtered_matrix <- filter_invalid_cells_genes(expression_matrices[[i]])
+  # Filtrer les données pour éliminer les cellules/gènes invalides
+  filtered_matrix <- filter_invalid_cells_genes(expression_matrices[[i]])
 
-    # Loguer les dimensions après filtrage
-    cat(
-        "Dimensions après filtrage pour", sample_name, ":",
-        dim(filtered_matrix), "\n"
-    )
+  # Loguer les dimensions après filtrage
+  cat("Dimensions après filtrage pour", sample_name, ":",
+      dim(filtered_matrix), "\n")
 
-    # Créer un objet Seurat
-    sam_seurat_objt <- CreateSeuratObject(counts = filtered_matrix, project = sample_name)
+  # Créer un objet Seurat
+  sam_seurat_objt <- CreateSeuratObject(counts = filtered_matrix, project = sample_name)
 
-    # Vérification et suppression des cellules restantes avec 0 UMI
-    sam_seurat_objt <- subset(sam_seurat_objt, subset = nFeature_RNA > 0)
+  # Vérification et suppression des cellules restantes avec 0 UMI
+  sam_seurat_objt <- subset(sam_seurat_objt, subset = nFeature_RNA > 0)
 
-    # Calcul des pourcentages mitochondriaux pour chaque cellule
-    intr_seurat_obj[[sample_name]] <- PercentageFeatureSet(sam_seurat_objt,
-        pattern = "^mt-",
-        col.name = "percent.mt"
-    )
+  # Calcul des pourcentages mitochondriaux pour chaque cellule
+  intr_seurat_obj[[sample_name]] <- PercentageFeatureSet(sam_seurat_objt,
+                                                         pattern = "^mt-",
+                                                         col.name = "percent.mt")
 
-    # Vérification des anomalies avant SCTransform
-    counts_matrix <- GetAssayData(sam_seurat_objt, layer = "counts")
-    if (any(is.na(counts_matrix))) {
-        stop("NA détecté dans les comptes avant SCTransform pour", sample_name)
-    }
+  # Vérification des anomalies avant SCTransform
+  counts_matrix <- GetAssayData(sam_seurat_objt, layer = "counts")
+  if (any(is.na(counts_matrix))) {
+    stop("NA détecté dans les comptes avant SCTransform pour", sample_name)
+  }
 
-    # Normalisation et prétraitement
-    seurat_obj[[sample_name]] <- do_preprocess(sam_seurat_objt)
+  # Normalisation et prétraitement
+  seurat_obj[[sample_name]] <- do_preprocess(sam_seurat_objt)
 }
 
 # Sauvegarde des objets Seurat

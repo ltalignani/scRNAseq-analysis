@@ -7,17 +7,47 @@ print("Début de l'exécution du script")
 
 # Chargement et mise à jour des packages nécessaires
 print("Chargement des packages nécessaires")
-required_packages <- c(
-    "AnnotationDbi", "org.Mm.eg.db", "ggplot2", "forcats", "cowplot",
-    "enrichplot", "clusterProfiler", "ReactomePA", "dplyr", "aplot"
+
+# Packages depuis CRAN
+cran_packages <- c("ggplot2", "forcats", "cowplot", "dplyr", "aplot")
+
+# Packages depuis Bioconductor
+bioc_packages <- c(
+    "AnnotationDbi", "org.Mm.eg.db", "enrichplot",
+    "clusterProfiler", "ReactomePA"
 )
-for (pkg in required_packages) {
+
+# Fonction pour installer les packages
+install_if_missing <- function(pkg, source = "CRAN") {
     if (!requireNamespace(pkg, quietly = TRUE)) {
-        install.packages(pkg)
-        print(paste("Installation du package :", pkg))
+        if (source == "CRAN") {
+            install.packages(pkg)
+            print(paste("Installation du package CRAN :", pkg))
+        } else if (source == "Bioconductor") {
+            BiocManager::install(pkg)
+            print(paste("Installation du package Bioconductor :", pkg))
+        }
     }
     library(pkg, character.only = TRUE)
 }
+
+# Installer BiocManager si nécessaire
+if (!requireNamespace("BiocManager", quietly = TRUE)) {
+    install.packages("BiocManager")
+    print("Installation de BiocManager")
+}
+
+# Installation des packages CRAN
+for (pkg in cran_packages) {
+    install_if_missing(pkg, source = "CRAN")
+}
+
+# Installation des packages Bioconductor
+for (pkg in bioc_packages) {
+    install_if_missing(pkg, source = "Bioconductor")
+}
+
+print("Tous les packages nécessaires sont chargés.")
 
 # Chargement des données d'expression
 print("Chargement des données d'expression différentielle")
@@ -205,36 +235,39 @@ print("Création des Treeplots")
 create_treeplot <- function(result, output_path, nCluster = 4) {
     if (!is.null(result) && nrow(result) > 0) {
         print(paste("Création d'un Treeplot pour", output_path))
-        tryCatch({
-            # Calcul des similarités entre termes
-            result <- pairwise_termsim(result)
-            
-            # Ajuster dynamiquement le nombre de clusters si nécessaire
-            if (nrow(result) < nCluster) {
-                nCluster <- nrow(result)
-                print(paste("Nombre de clusters ajusté à", nCluster, "en raison de résultats limités."))
+        tryCatch(
+            {
+                # Calcul des similarités entre termes
+                result <- pairwise_termsim(result)
+
+                # Ajuster dynamiquement le nombre de clusters si nécessaire
+                if (nrow(result) < nCluster) {
+                    nCluster <- nrow(result)
+                    print(paste("Nombre de clusters ajusté à", nCluster, "en raison de résultats limités."))
+                }
+
+                # Générer les treeplots avec la méthode recommandée
+                p1 <- treeplot(result, cluster.params = list(method = "complete"), nCluster = nCluster)
+                p2 <- treeplot(result, cluster.params = list(method = "average"), nCluster = nCluster)
+
+                # Combiner les deux treeplots dans un seul
+                tree_plot <- aplot::plot_list(p1, p2, tag_levels = "A")
+
+                # Sauvegarder le plot
+                pdf(file = output_path, height = 20, width = 30)
+                print(tree_plot)
+                dev.off()
+                print(paste("Treeplot enregistré pour", output_path))
+            },
+            error = function(e) {
+                # Gestion des erreurs
+                print(paste("Erreur dans la création du Treeplot :", e$message))
+                pdf(file = output_path)
+                plot.new()
+                text(0.5, 0.5, paste("Error:", e$message), cex = 1.5, font = 2)
+                dev.off()
             }
-
-            # Générer les treeplots avec la méthode recommandée
-            p1 <- treeplot(result, cluster.params = list(method = "complete"), nCluster = nCluster)
-            p2 <- treeplot(result, cluster.params = list(method = "average"), nCluster = nCluster)
-
-            # Combiner les deux treeplots dans un seul
-            tree_plot <- aplot::plot_list(p1, p2, tag_levels = "A")
-
-            # Sauvegarder le plot
-            pdf(file = output_path, height = 20, width = 30)
-            print(tree_plot)
-            dev.off()
-            print(paste("Treeplot enregistré pour", output_path))
-        }, error = function(e) {
-            # Gestion des erreurs
-            print(paste("Erreur dans la création du Treeplot :", e$message))
-            pdf(file = output_path)
-            plot.new()
-            text(0.5, 0.5, paste("Error:", e$message), cex = 1.5, font = 2)
-            dev.off()
-        })
+        )
     } else {
         # Cas où les résultats sont vides ou null
         pdf(file = output_path)
@@ -255,7 +288,7 @@ print("Création des Enrichment Maps avec matrice de similarité")
 create_enrichment_map <- function(result, output_path, showCategory = 50) {
     if (!is.null(result) && nrow(result) > 0) {
         print(paste("Création d'une Enrichment Map pour", output_path))
-        
+
         # Calcul de la matrice de similarité des termes
         result <- tryCatch(
             {
@@ -273,19 +306,19 @@ create_enrichment_map <- function(result, output_path, showCategory = 50) {
             tryCatch(
                 {
                     p1 <- emapplot(
-                        result, 
-                        cex.params = list(category_node = 1.5), 
-                        layout.params = list(layout = "kk"), 
+                        result,
+                        cex.params = list(category_node = 1.5),
+                        layout.params = list(layout = "kk"),
                         showCategory = showCategory
                     )
                     p2 <- emapplot(
-                        result, 
-                        cex.params = list(category_node = 1.5), 
-                        layout.params = list(layout = "fr"), 
+                        result,
+                        cex.params = list(category_node = 1.5),
+                        layout.params = list(layout = "fr"),
                         showCategory = showCategory
                     )
                     enrichment_map <- cowplot::plot_grid(p1, p2, ncol = 2, labels = LETTERS[1:2])
-                    
+
                     # Sauvegarde du plot
                     pdf(file = output_path, height = 20, width = 30)
                     print(enrichment_map)
@@ -294,7 +327,7 @@ create_enrichment_map <- function(result, output_path, showCategory = 50) {
                 },
                 error = function(e) {
                     message("Erreur lors de la création de l'Enrichment Map :", e$message)
-                    
+
                     # Création d'un PDF vide en cas d'erreur
                     pdf(file = output_path)
                     plot.new()
@@ -332,22 +365,22 @@ print("Création des UpSetPlots")
 create_upset_plot <- function(result, output_path) {
     if (!is.null(result) && nrow(result) > 0) {
         print(paste("Création d'un UpSetPlot pour", output_path))
-        
+
         # Augmenter les marges pour éviter la troncature
         pdf(file = output_path, height = 10, width = 15)
         upset_plot <- upsetplot(result) +
             theme(
-                text = element_text(size = 12),          # Taille globale du texte (améliorée)
-                axis.text.x = element_text(size = 8),   # Taille des textes des catégories (axe X)
-                axis.text.y = element_text(size = 6),   # Taille des textes des catégories (axe Y)
-                axis.title.y = element_text(size = 12),  # Taille du titre de l'axe des ordonnées
-                plot.margin = margin(1, 1, 1, 8, "cm")   # Augmentation des marges, notamment à gauche
+                text = element_text(size = 12), # Taille globale du texte (améliorée)
+                axis.text.x = element_text(size = 8), # Taille des textes des catégories (axe X)
+                axis.text.y = element_text(size = 6), # Taille des textes des catégories (axe Y)
+                axis.title.y = element_text(size = 12), # Taille du titre de l'axe des ordonnées
+                plot.margin = margin(1, 1, 1, 8, "cm") # Augmentation des marges, notamment à gauche
             ) +
             labs(
-                y = "Interaction Size",                 # Ajouter le label pour l'axe des ordonnées
-                x = NULL                                # Supprime le label de l'axe des abscisses
+                y = "Interaction Size", # Ajouter le label pour l'axe des ordonnées
+                x = NULL # Supprime le label de l'axe des abscisses
             )
-        
+
         # Affichage et sauvegarde
         print(upset_plot)
         dev.off()
@@ -409,4 +442,3 @@ sink(type = "message")
 print("Fin de l'exécution du script")
 sink()
 sink(type = "message")
-

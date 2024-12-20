@@ -50,15 +50,15 @@ seurat_obj <- AddMetaData(seurat_obj, Idents(seurat_obj), col.name = "Cell_type"
 
 # Génération du DimPlot avec ajustements des tailles
 dim_plot <- DimPlot(
-  seurat_obj,
-  label = TRUE, # Affichage des étiquettes
-  label.size = 3 # Taille réduite des étiquettes
+  seurat_obj, 
+  label = TRUE,         # Affichage des étiquettes
+  label.size = 3        # Taille réduite des étiquettes
 ) +
   labs(x = levels((seurat_obj@meta.data$orig.ident))) +
   theme(
-    axis.text = element_text(size = 10), # Réduction de la taille des textes des axes
-    legend.text = element_text(size = 8), # Taille réduite des textes de la légende
-    legend.title = element_text(size = 10) # Taille réduite du titre de la légende
+    axis.text = element_text(size = 10),     # Réduction de la taille des textes des axes
+    legend.text = element_text(size = 8),   # Taille réduite des textes de la légende
+    legend.title = element_text(size = 10)  # Taille réduite du titre de la légende
   )
 
 # Sauvegarde du DimPlot en PDF

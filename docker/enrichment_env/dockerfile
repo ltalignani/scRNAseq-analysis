@@ -1,0 +1,23 @@
+# Étape 1 : Utiliser l'image Bioconductor comme base
+FROM bioconductor/bioconductor_docker:RELEASE_3_20
+
+# Variables d'environnement
+ENV DEBIAN_FRONTEND=noninteractive
+
+# Étape 2 : Installer les dépendances supplémentaires requises par certains packages R
+RUN apt-get update -qq && apt-get install -y --no-install-recommends \
+    libhdf5-dev \
+    libxml2-dev \
+    libcurl4-openssl-dev \
+    libssl-dev \
+    libgit2-dev \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# Étape 3 : Copier le script d'installation des packages R
+COPY install_packages.R /install_packages.R
+
+# Étape 4 : Exécuter le script R pour installer les packages
+RUN Rscript -e "options(repos = c(CRAN = 'https://cloud.r-project.org')); update.packages(ask = FALSE); source('/install_packages.R')"
+
+# Étape 5 : Configurer l'environnement de conteneur
+CMD ["R"]

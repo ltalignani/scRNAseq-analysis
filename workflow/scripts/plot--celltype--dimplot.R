@@ -55,11 +55,11 @@ seurat_obj <- AddMetaData(seurat_obj, Idents(seurat_obj),
 
 # Réduction de la taille des étiquettes dans DimPlot
 pdf(file = snakemake@output[["dim_plot"]])
-DimPlot(seurat_obj, label = TRUE, label.size = 2) + # Ajuste la taille des labels
+DimPlot(seurat_obj, label = TRUE, label.size = 3) +  # Ajuste la taille des labels
   theme(
-    axis.text = element_text(size = 8), # Taille des textes des axes
-    legend.text = element_text(size = 6), # Taille du texte de la légende
-    legend.title = element_text(size = 8) # Taille du titre de la légende
+    axis.text = element_text(size = 8),             # Taille des textes des axes
+    legend.text = element_text(size = 6),            # Taille du texte de la légende
+    legend.title = element_text(size = 8)           # Taille du titre de la légende
   )
 dev.off()
 
@@ -91,15 +91,15 @@ table_data <- top_10_markers_by_cluster %>%
 
 # Graphique tableau avec ggplot2
 table_plot <- ggplot(table_data) +
-  geom_text(aes(x = cell_type, y = 0, label = cell_type), color = table_data$color, size = 4, fontface = "bold") + # Taille réduite
-  geom_text(aes(x = cell_type, y = -1, label = markers), color = "black", size = 3) + # Taille réduite
+  geom_text(aes(x = cell_type, y = 0, label = cell_type), color = table_data$color, size = 4, fontface = "bold") +  # Taille réduite
+  geom_text(aes(x = cell_type, y = -1, label = markers), color = "black", size = 3) +                                # Taille réduite
   theme_void() +
   theme(
     axis.title = element_blank(),
     axis.ticks = element_blank(),
     axis.text = element_blank(),
     panel.grid = element_blank(),
-    plot.title = element_text(hjust = 0.5, size = 10) # Taille réduite du titre
+    plot.title = element_text(hjust = 0.5, size = 10)                                                                # Taille réduite du titre
   ) +
   labs(title = "Top 10 Markers per Cell Type")
 

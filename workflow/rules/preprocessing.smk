@@ -17,7 +17,7 @@ rule perform_preprocessing:
     log:
         "logs/seurat/preprocessing/all.seurat_object.log",
     script:
-        "../scripts/preprocessing.R"
+        "../scripts/pre--processing.R"
 
 
 rule plot_preprocessing_plots:

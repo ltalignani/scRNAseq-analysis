@@ -2,23 +2,6 @@ log <- file(snakemake@log[[1]], open = "wt")
 sink(log)
 sink(log, type = "message")
 
-# Fonction pour installer un package si non présent
-install_if_missing <- function(package) {
-  if (!require(package, character.only = TRUE)) {
-    install.packages(package)
-    library(package, character.only = TRUE)
-  }
-}
-
-# Liste des packages à vérifier et installer si nécessaire
-packages <- c("scCustomize", "ggpubr", "hdf5r", "rliger")
-
-# Boucle pour vérifier et installer chaque package
-for (pkg in packages) {
-  install_if_missing(pkg)
-}
-
-
 library(dplyr)
 library(Seurat)
 library(patchwork)
@@ -31,13 +14,25 @@ expression_matrices <-
 
 samples <- read.csv(snakemake@input[["samples"]], header = TRUE, sep = "\t")
 
+# Fonction de filtrage
+filter_invalid_cells_genes <- function(count_matrix) {
+  # Supprimer les cellules ayant un total UMI de zéro
+  valid_cells <- colSums(count_matrix) > 0
+  count_matrix <- count_matrix[, valid_cells]
+  
+  # Supprimer les gènes exprimés dans moins de 3 cellules
+  valid_genes <- rowSums(count_matrix > 0) >= 3
+  count_matrix <- count_matrix[valid_genes, ]
+  
+  return(count_matrix)
+}
 
 do_preprocess <- function(obj) {
   obj <- PercentageFeatureSet(obj, pattern = "^mt-", col.name = "percent.mt")
   obj <- SCTransform(obj, vars.to.regress = "percent.mt", verbose = FALSE)
   obj <- FindVariableFeatures(obj, selection.method = "vst",
                               nfeatures = 2000)
-  obj <- RunPCA(obj, features = VariableFeatures(object = obj), npcs = 30)
+  obj <- RunPCA(obj, features = VariableFeatures(object = obj))
 }
 
 

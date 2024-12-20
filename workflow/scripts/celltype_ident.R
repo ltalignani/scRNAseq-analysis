@@ -52,15 +52,15 @@ seurat_obj[[sample]] <- RenameIdents(seurat_obj[[sample]], new_cluster_ids)
 
 # Génération du DimPlot avec ajustement des tailles
 dim_plot <- DimPlot(
-  seurat_obj[[sample]],
-  label = TRUE, # Affichage des étiquettes
-  label.size = 3 # Réduction de la taille des étiquettes
+  seurat_obj[[sample]], 
+  label = TRUE,         # Affichage des étiquettes
+  label.size = 3        # Réduction de la taille des étiquettes
 ) +
   labs(x = levels((seurat_obj[[sample]]@meta.data$orig.ident))) +
   theme(
-    axis.text = element_text(size = 10), # Réduction de la taille des textes des axes
-    legend.text = element_text(size = 8), # Taille réduite des textes de la légende
-    legend.title = element_text(size = 10) # Taille réduite du titre de la légende
+    axis.text = element_text(size = 10),     # Réduction de la taille des textes des axes
+    legend.text = element_text(size = 8),   # Taille réduite des textes de la légende
+    legend.title = element_text(size = 10)  # Taille réduite du titre de la légende
   )
 
 # Sauvegarde du graphique dans un fichier PDF

@@ -1,0 +1,54 @@
+# Étape 1 : Utiliser une image Ubuntu comme base
+FROM ubuntu:22.04
+
+# Variables d'environnement
+ENV R_VERSION=4.4.2 \
+    DEBIAN_FRONTEND=noninteractive
+
+# Étape 2 : Installer les dépendances système nécessaires
+RUN apt-get update -qq && apt-get install -y --no-install-recommends \
+    build-essential \
+    ca-certificates \
+    cmake \
+    gfortran \
+    libreadline-dev \
+    libhdf5-dev \
+    libbz2-dev \
+    liblzma-dev \
+    libcurl4-openssl-dev \
+    libharfbuzz-dev \
+    libfribidi-dev \
+    libssl-dev \
+    libcairo2-dev \
+    libxml2-dev \
+    libxt-dev \
+    libjpeg-dev \
+    libtiff-dev \
+    libpng-dev \
+    libicu-dev \
+    zlib1g-dev \
+    xorg-dev \
+    curl \
+    wget \
+    git \
+    tzdata \
+    && apt-get clean && rm -rf /var/lib/apt/lists/*
+
+# Étape 3 : Télécharger et installer R
+RUN wget -c https://cran.r-project.org/src/base/R-4/R-${R_VERSION}.tar.gz \
+    && tar -xf R-${R_VERSION}.tar.gz \
+    && cd R-${R_VERSION} \
+    && ./configure \
+    && make -j$(nproc) \
+    && make install \
+    && cd .. \
+    && rm -rf R-${R_VERSION} R-${R_VERSION}.tar.gz
+
+# Étape 4 : Copier le script d'installation des packages R
+COPY install_packages.R /install_packages.R
+
+# Étape 5 : Exécuter le script pour installer les packages R
+RUN Rscript /install_packages.R
+
+# Étape 6 : Configurer l'environnement de conteneur
+CMD ["R"]

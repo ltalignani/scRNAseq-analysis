@@ -1,43 +1,39 @@
-# Ici, l’objectif est de comparer deux conditions (par exemple, wt et ko) dans l’objet Seurat entier, sans se limiter aux clusters.
-
 log <- file(snakemake@log[[1]], open = "wt")
 sink(log)
 sink(log, type = "message")
 
 # Définir un miroir CRAN si aucun n'est défini
-if (is.null(getOption("repos")) || getOption("repos")["CRAN"] == "@CRAN@") {
-  options(repos = c(CRAN = "https://cloud.r-project.org/"))
-}
+#if (is.null(getOption("repos")) || getOption("repos")["CRAN"] == "@CRAN@") {
+#  options(repos = c(CRAN = "https://cloud.r-project.org/"))
+#}
 
 # Fonction pour installer un package si non présent
-install_if_missing <- function(package) {
-  if (!require(package, character.only = TRUE)) {
-    install.packages(package)
-    library(package, character.only = TRUE)
-  }
-}
+#install_if_missing <- function(package) {
+#  if (!require(package, character.only = TRUE)) {
+#    install.packages(package)
+#    library(package, character.only = TRUE)
+#  }
+#}
 
 
 # Vérification et installation de BiocManager si nécessaire
-if (!requireNamespace("BiocManager", quietly = TRUE)) {
-  install.packages("BiocManager")
-}
+#if (!requireNamespace("BiocManager", quietly = TRUE)) {
+#  install.packages("BiocManager")
+#}
 
 # Vérification et installation de ComplexHeatmap si nécessaire
-if (!requireNamespace("ComplexHeatmap", quietly = TRUE)) {
-  BiocManager::install("ComplexHeatmap")
-}
+#if (!requireNamespace("ComplexHeatmap", quietly = TRUE)) {
+#  BiocManager::install("ComplexHeatmap")
+#}
 
 
 # Liste des packages à vérifier et installer si nécessaire
-# packages <- c("scCustomize", "ggpubr", "hdf5r", "rliger")
-packages <- c("scCustomize", "rliger")
+#packages <- c("scCustomize", "ggpubr", "hdf5r", "rliger")
 
 # Boucle pour vérifier et installer chaque package
-for (pkg in packages) {
-  install_if_missing(pkg)
-}
-
+#for (pkg in packages) {
+#  install_if_missing(pkg)
+#}
 
 
 library(dplyr)
@@ -149,3 +145,4 @@ volcano_plot <- ggplot(data = markers, aes(
 pdf(file = snakemake@output[["volcano_plot"]])
 volcano_plot
 dev.off()
+
