@@ -25,7 +25,7 @@ write.csv(all_markers,
   pos_markers %>%
     group_by(cluster) %>%
     dplyr::filter(avg_log2FC > 1) %>%
-    slice_head(n = 10) %>%
+    slice_head(n = 20) %>%
     ungroup() -> top10_markers
 write.csv(top10_markers,
           file = snakemake@output[["top_10_markers"]], quote = FALSE)

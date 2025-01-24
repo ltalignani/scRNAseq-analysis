@@ -33,7 +33,18 @@ top_10_markers <- read.csv(snakemake@input[["top_10_markers"]], sep = ",", heade
 
 # Préparation des données
 names(file_celltype) <- c("gene", "cell_type")
+
 file_celltype$gene <- str_to_title(file_celltype$gene)
+
+# Correction pour les noms de gènes contenant un tiret
+file_celltype$gene <- sapply(file_celltype$gene, function(x) {
+  parts <- unlist(strsplit(x, "-"))
+  if (length(parts) == 2) {
+    paste0(str_to_title(parts[1]), "-", tolower(parts[2]))
+  } else {
+    str_to_title(x) # Si pas de tiret, appliquer str_to_title
+  }
+})
 
 top_10_markers <- left_join(top_10_markers, file_celltype, by = "gene")
 top_10_markers$cell_type <- top_10_markers$cell_type %>% replace_na("unknown")
@@ -54,7 +65,7 @@ seurat_obj[[sample]] <- RenameIdents(seurat_obj[[sample]], new_cluster_ids)
 dim_plot <- DimPlot(
   seurat_obj[[sample]], 
   label = TRUE,         # Affichage des étiquettes
-  label.size = 3        # Réduction de la taille des étiquettes
+  label.size = 2        # Réduction de la taille des étiquettes
 ) +
   labs(x = levels((seurat_obj[[sample]]@meta.data$orig.ident))) +
   theme(

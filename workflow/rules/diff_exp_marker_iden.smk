@@ -84,8 +84,7 @@ else:
                 subcategory="per sample heatmap",
                 labels={
                     "sample":"{sample}", "plot":"Heatmap",
-                },             
-            
+                },
             )
         resources:
             cpus_per_task=20,
@@ -111,8 +110,6 @@ rule assign_cell_type_identity_to_cluster:
             labels={
                 "sample":"{sample}", "plot":"Dim plot",
             }, 
-        
-        
         )
     resources:
         cpus_per_task=20,

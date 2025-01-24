@@ -3,10 +3,13 @@
 options(repos = c(CRAN = "https://cloud.r-project.org"))
 
 # Liste des packages CRAN extraits de enrichment.yaml
-cran_packages <- c("ggplot2", "forcats", "cowplot", "dplyr", "aplot")
+cran_packages <- c("ggplot2", "forcats", "cowplot", "dplyr", "aplot", "devtools")
 
 # Installer les packages CRAN
 install.packages(cran_packages)
+
+library(devtools)
+install_github("ctlab/fgsea")
 
 # Installer les packages Bioconductor
 if (!requireNamespace("BiocManager", quietly = TRUE)) {

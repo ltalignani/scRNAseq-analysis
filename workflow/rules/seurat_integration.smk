@@ -101,7 +101,7 @@ rule assign_celltype_to_integrated_seurat:
     log:
         "logs/seurat/integration/celltype/{model}.assign_celltype_to_integrated_seurat.log",
     script:
-        "../scripts/plot--celltype--dimplot.R"
+        "../scripts/plot__celltype__dimplot.R"
 
 rule per_celltype_diffexp:
     input:

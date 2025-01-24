@@ -74,7 +74,7 @@ def all_input(wildcards):
     """
     Function defining all requested inputs for the rule all (below).
     """
-
+# "results/plots/subclustering/all.SubDim-plot.pdf"
     wanted_input = []
 
     wanted_input.extend(
@@ -91,8 +91,7 @@ def all_input(wildcards):
     if config["clustering"]["activate"]:
         wanted_input.extend(
             expand(
-            "results/plots/clustering/all.Dim-plot.pdf"),
-        )
+            "results/plots/clustering/all.Dim-plot.pdf"))
 
     if config["visualize_marker_expression"]["activate"]:
         wanted_input.extend(

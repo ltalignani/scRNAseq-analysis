@@ -438,7 +438,3 @@ if (nrow(pathway_table) > 1) {
 print("Fin de l'exécution du script")
 sink()
 sink(type = "message")
-# Fermeture des logs
-print("Fin de l'exécution du script")
-sink()
-sink(type = "message")
